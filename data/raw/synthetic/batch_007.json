@@ -1,0 +1,344 @@
+[
+  {
+    "id": "synthetic_0121",
+    "source": "In computer science, an HTTP request cycle is a multi-step process used to get a resource from a server. First, the client opens a connection. Next, the client sends a request with a method and path. Then, the server processes the request. Finally, the server returns a status code and response body. The page footer lists a draft date but adds no subject content. A response can report an error status even when the network connection succeeded.",
+    "flashcards": [
+      {
+        "question": "What sequence of steps describes an HTTP request cycle?",
+        "answer": "the client opens a connection; the client sends a request with a method and path; the server processes the request; the server returns a status code and response body."
+      },
+      {
+        "question": "What is the purpose of an HTTP request cycle?",
+        "answer": "To get a resource from a server."
+      },
+      {
+        "question": "What qualification is stated about an HTTP request cycle?",
+        "answer": "A response can report an error status even when the network connection succeeded."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0122",
+    "source": "An http request cycle can fail when its steps are skipped or mixed together. The process begins when the client opens a connection, continues as the client sends a request with a method and path and the server processes the request, and ends when the server returns a status code and response body. The page footer lists a draft date but adds no subject content. The important condition is that a response can report an error status even when the network connection succeeded.",
+    "flashcards": [
+      {
+        "question": "How does an HTTP request cycle begin and end in the passage?",
+        "answer": "It begins when the client opens a connection and ends when the server returns a status code and response body."
+      },
+      {
+        "question": "Which middle steps are described for an HTTP request cycle?",
+        "answer": "the client sends a request with a method and path and the server processes the request."
+      },
+      {
+        "question": "What condition or limitation is noted for an HTTP request cycle?",
+        "answer": "A response can report an error status even when the network connection succeeded."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0123",
+    "source": "The early and late stages of an HTTP request cycle do different jobs. Early in the process, the client opens a connection and the client sends a request with a method and path. Later, the server processes the request and the server returns a status code and response body. This order supports the goal to get a resource from a server. The page footer lists a draft date but adds no subject content.",
+    "flashcards": [
+      {
+        "question": "What happens early in an HTTP request cycle?",
+        "answer": "the client opens a connection and the client sends a request with a method and path."
+      },
+      {
+        "question": "What happens later in an HTTP request cycle?",
+        "answer": "the server processes the request and the server returns a status code and response body."
+      },
+      {
+        "question": "How does the order of an HTTP request cycle relate to its goal?",
+        "answer": "The ordered steps support the goal to get a resource from a server."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0124",
+    "source": "Template page: Title goes here. Subtitle goes here. Insert diagram above the dotted line. The decorative border may not print on older printers. Batch marker 7, item position 4.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0125",
+    "source": "In computer science, mark-and-sweep garbage collection is a multi-step process used to reclaim memory that a program can no longer reach. First, start from root references. Next, mark reachable objects. Then, scan heap objects. Finally, free objects that were not marked. The instructor used a green marker because the black marker was missing. It can reclaim unreachable cycles because reachability, not reference count alone, is checked.",
+    "flashcards": [
+      {
+        "question": "What sequence of steps describes mark-and-sweep garbage collection?",
+        "answer": "start from root references; mark reachable objects; scan heap objects; free objects that were not marked."
+      },
+      {
+        "question": "What is the purpose of mark-and-sweep garbage collection?",
+        "answer": "To reclaim memory that a program can no longer reach."
+      },
+      {
+        "question": "What qualification is stated about mark-and-sweep garbage collection?",
+        "answer": "It can reclaim unreachable cycles because reachability, not reference count alone, is checked."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0126",
+    "source": "Mark-and-sweep garbage collection can fail when its steps are skipped or mixed together. The process begins when start from root references, continues as mark reachable objects and scan heap objects, and ends when free objects that were not marked. The instructor used a green marker because the black marker was missing. The important condition is that it can reclaim unreachable cycles because reachability, not reference count alone, is checked.",
+    "flashcards": [
+      {
+        "question": "How does mark-and-sweep garbage collection begin and end in the passage?",
+        "answer": "It begins when start from root references and ends when free objects that were not marked."
+      },
+      {
+        "question": "Which middle steps are described for mark-and-sweep garbage collection?",
+        "answer": "mark reachable objects and scan heap objects."
+      },
+      {
+        "question": "What condition or limitation is noted for mark-and-sweep garbage collection?",
+        "answer": "It can reclaim unreachable cycles because reachability, not reference count alone, is checked."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0127",
+    "source": "The early and late stages of mark-and-sweep garbage collection do different jobs. Early in the process, start from root references and mark reachable objects. Later, scan heap objects and free objects that were not marked. This order supports the goal to reclaim memory that a program can no longer reach. The instructor used a green marker because the black marker was missing.",
+    "flashcards": [
+      {
+        "question": "What happens early in mark-and-sweep garbage collection?",
+        "answer": "start from root references and mark reachable objects."
+      },
+      {
+        "question": "What happens later in mark-and-sweep garbage collection?",
+        "answer": "scan heap objects and free objects that were not marked."
+      },
+      {
+        "question": "How does the order of mark-and-sweep garbage collection relate to its goal?",
+        "answer": "The ordered steps support the goal to reclaim memory that a program can no longer reach."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0128",
+    "source": "In computer science, a database transaction commit is a multi-step process used to make a group of database changes durable as one unit. First, begin the transaction. Next, perform reads or writes. Then, check constraints or conflicts. Finally, commit the changes or roll them back. A coffee cup appears in the corner of the photo. Rolling back means the attempted changes should not remain as partial results.",
+    "flashcards": [
+      {
+        "question": "What sequence of steps describes a database transaction commit?",
+        "answer": "begin the transaction; perform reads or writes; check constraints or conflicts; commit the changes or roll them back."
+      },
+      {
+        "question": "What is the purpose of a database transaction commit?",
+        "answer": "To make a group of database changes durable as one unit."
+      },
+      {
+        "question": "What qualification is stated about a database transaction commit?",
+        "answer": "Rolling back means the attempted changes should not remain as partial results."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0129",
+    "source": "A database transaction commit can fail when its steps are skipped or mixed together. The process begins when begin the transaction, continues as perform reads or writes and check constraints or conflicts, and ends when commit the changes or roll them back. A coffee cup appears in the corner of the photo. The important condition is that rolling back means the attempted changes should not remain as partial results.",
+    "flashcards": [
+      {
+        "question": "How does a database transaction commit begin and end in the passage?",
+        "answer": "It begins when begin the transaction and ends when commit the changes or roll them back."
+      },
+      {
+        "question": "Which middle steps are described for a database transaction commit?",
+        "answer": "perform reads or writes and check constraints or conflicts."
+      },
+      {
+        "question": "What condition or limitation is noted for a database transaction commit?",
+        "answer": "Rolling back means the attempted changes should not remain as partial results."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0130",
+    "source": "The early and late stages of a database transaction commit do different jobs. Early in the process, begin the transaction and perform reads or writes. Later, check constraints or conflicts and commit the changes or roll them back. This order supports the goal to make a group of database changes durable as one unit. A coffee cup appears in the corner of the photo.",
+    "flashcards": [
+      {
+        "question": "What happens early in a database transaction commit?",
+        "answer": "begin the transaction and perform reads or writes."
+      },
+      {
+        "question": "What happens later in a database transaction commit?",
+        "answer": "check constraints or conflicts and commit the changes or roll them back."
+      },
+      {
+        "question": "How does the order of a database transaction commit relate to its goal?",
+        "answer": "The ordered steps support the goal to make a group of database changes durable as one unit."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0131",
+    "source": "In computer science, a continuous integration pipeline is a multi-step process used to test code changes before they are merged. First, receive a pushed change. Next, install dependencies. Then, run checks such as tests or linters. Finally, report success or failure. The checklist number in the margin is only an editing reference. A passing pipeline increases confidence but does not prove the software has no bugs.",
+    "flashcards": [
+      {
+        "question": "What sequence of steps describes a continuous integration pipeline?",
+        "answer": "receive a pushed change; install dependencies; run checks such as tests or linters; report success or failure."
+      },
+      {
+        "question": "What is the purpose of a continuous integration pipeline?",
+        "answer": "To test code changes before they are merged."
+      },
+      {
+        "question": "What qualification is stated about a continuous integration pipeline?",
+        "answer": "A passing pipeline increases confidence but does not prove the software has no bugs."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0132",
+    "source": "A continuous integration pipeline can fail when its steps are skipped or mixed together. The process begins when receive a pushed change, continues as install dependencies and run checks such as tests or linters, and ends when report success or failure. The checklist number in the margin is only an editing reference. The important condition is that a passing pipeline increases confidence but does not prove the software has no bugs.",
+    "flashcards": [
+      {
+        "question": "How does a continuous integration pipeline begin and end in the passage?",
+        "answer": "It begins when receive a pushed change and ends when report success or failure."
+      },
+      {
+        "question": "Which middle steps are described for a continuous integration pipeline?",
+        "answer": "install dependencies and run checks such as tests or linters."
+      },
+      {
+        "question": "What condition or limitation is noted for a continuous integration pipeline?",
+        "answer": "A passing pipeline increases confidence but does not prove the software has no bugs."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0133",
+    "source": "The early and late stages of a continuous integration pipeline do different jobs. Early in the process, receive a pushed change and install dependencies. Later, run checks such as tests or linters and report success or failure. This order supports the goal to test code changes before they are merged. The checklist number in the margin is only an editing reference.",
+    "flashcards": [
+      {
+        "question": "What happens early in a continuous integration pipeline?",
+        "answer": "receive a pushed change and install dependencies."
+      },
+      {
+        "question": "What happens later in a continuous integration pipeline?",
+        "answer": "run checks such as tests or linters and report success or failure."
+      },
+      {
+        "question": "How does the order of a continuous integration pipeline relate to its goal?",
+        "answer": "The ordered steps support the goal to test code changes before they are merged."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0134",
+    "source": "Meeting logistics: Lunch orders close at noon. The agenda file was renamed twice. Add speaker headshots when available. No lesson content has been entered. Batch marker 7, item position 14.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0135",
+    "source": "In computer science, a race condition occurs because two operations depend on timing. As a result, the final result can change depending on which operation happens first. This is most likely when shared mutable state is accessed without proper coordination. The note was printed with a wide left margin for hole punching. It is not simply any fast program; the problem is timing-dependent behavior.",
+    "flashcards": [
+      {
+        "question": "What causes a race condition according to the passage?",
+        "answer": "two operations depend on timing"
+      },
+      {
+        "question": "What effect can a race condition have?",
+        "answer": "the final result can change depending on which operation happens first"
+      },
+      {
+        "question": "Under what condition is a race condition most likely?",
+        "answer": "shared mutable state is accessed without proper coordination"
+      },
+      {
+        "question": "What misconception about a race condition is corrected?",
+        "answer": "It is not simply any fast program; the problem is timing-dependent behavior."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0136",
+    "source": "The cause-and-effect chain for a race condition is specific: two operations depend on timing, which means the final result can change depending on which operation happens first. The condition that makes the chain relevant is that shared mutable state is accessed without proper coordination. It is not simply any fast program; the problem is timing-dependent behavior. The note was printed with a wide left margin for hole punching.",
+    "flashcards": [
+      {
+        "question": "What cause-and-effect chain is described for a race condition?",
+        "answer": "two operations depend on timing, which means the final result can change depending on which operation happens first."
+      },
+      {
+        "question": "What condition makes a race condition relevant in the passage?",
+        "answer": "shared mutable state is accessed without proper coordination"
+      },
+      {
+        "question": "What should not be misunderstood about a race condition?",
+        "answer": "It is not simply any fast program; the problem is timing-dependent behavior."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0137",
+    "source": "A misleading explanation of a race condition ignores the condition behind it. The passage says the condition is shared mutable state is accessed without proper coordination. When that condition is present, two operations depend on timing, so the final result can change depending on which operation happens first. The note was printed with a wide left margin for hole punching. The stated correction is: It is not simply any fast program; the problem is timing-dependent behavior.",
+    "flashcards": [
+      {
+        "question": "Why is the condition important for understanding a race condition?",
+        "answer": "Because when shared mutable state is accessed without proper coordination, two operations depend on timing, so the final result can change depending on which operation happens first."
+      },
+      {
+        "question": "What outcome follows from a race condition in the passage?",
+        "answer": "the final result can change depending on which operation happens first"
+      },
+      {
+        "question": "What correction does the passage give about a race condition?",
+        "answer": "It is not simply any fast program; the problem is timing-dependent behavior."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0138",
+    "source": "In computer science, a deadlock occurs because tasks wait for resources held by each other. As a result, none of the waiting tasks can continue. This is most likely when each task holds one resource while waiting for another. The example slide used a blue border that has no bearing on the concept. Adding more waiting time alone does not solve a true deadlock.",
+    "flashcards": [
+      {
+        "question": "What causes a deadlock according to the passage?",
+        "answer": "tasks wait for resources held by each other"
+      },
+      {
+        "question": "What effect can a deadlock have?",
+        "answer": "none of the waiting tasks can continue"
+      },
+      {
+        "question": "Under what condition is a deadlock most likely?",
+        "answer": "each task holds one resource while waiting for another"
+      },
+      {
+        "question": "What misconception about a deadlock is corrected?",
+        "answer": "Adding more waiting time alone does not solve a true deadlock."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0139",
+    "source": "The cause-and-effect chain for a deadlock is specific: tasks wait for resources held by each other, which means none of the waiting tasks can continue. The condition that makes the chain relevant is that each task holds one resource while waiting for another. Adding more waiting time alone does not solve a true deadlock. The example slide used a blue border that has no bearing on the concept.",
+    "flashcards": [
+      {
+        "question": "What cause-and-effect chain is described for a deadlock?",
+        "answer": "tasks wait for resources held by each other, which means none of the waiting tasks can continue."
+      },
+      {
+        "question": "What condition makes a deadlock relevant in the passage?",
+        "answer": "each task holds one resource while waiting for another"
+      },
+      {
+        "question": "What should not be misunderstood about a deadlock?",
+        "answer": "Adding more waiting time alone does not solve a true deadlock."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0140",
+    "source": "A misleading explanation of a deadlock ignores the condition behind it. The passage says the condition is each task holds one resource while waiting for another. When that condition is present, tasks wait for resources held by each other, so none of the waiting tasks can continue. The example slide used a blue border that has no bearing on the concept. The stated correction is: Adding more waiting time alone does not solve a true deadlock.",
+    "flashcards": [
+      {
+        "question": "Why is the condition important for understanding a deadlock?",
+        "answer": "Because when each task holds one resource while waiting for another, tasks wait for resources held by each other, so none of the waiting tasks can continue."
+      },
+      {
+        "question": "What outcome follows from a deadlock in the passage?",
+        "answer": "none of the waiting tasks can continue"
+      },
+      {
+        "question": "What correction does the passage give about a deadlock?",
+        "answer": "Adding more waiting time alone does not solve a true deadlock."
+      }
+    ]
+  }
+]

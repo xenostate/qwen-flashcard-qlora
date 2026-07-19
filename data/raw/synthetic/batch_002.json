@@ -1,0 +1,332 @@
+[
+  {
+    "id": "synthetic_0021",
+    "source": "In operating systems, a race condition can occur when two threads access shared data and at least one thread writes to it without proper synchronization. The bug may disappear during debugging because adding print statements changes timing, which is why relying on repeated successful test runs is not enough. A lock can prevent the race only if every path that touches the shared data uses the same lock consistently.",
+    "flashcards": [
+      {
+        "question": "Under what conditions can a race condition occur in an operating system program?",
+        "answer": "When two threads access shared data, at least one writes to it, and proper synchronization is missing."
+      },
+      {
+        "question": "Why can debugging output make a race condition seem to disappear?",
+        "answer": "Print statements can change thread timing, hiding the bug during debugging."
+      },
+      {
+        "question": "When is a lock effective at preventing a race on shared data?",
+        "answer": "Only when every path that touches the shared data uses the same lock consistently."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0022",
+    "source": "In supervised machine learning, early stopping monitors validation performance during training and stops when that performance stops improving. It is intended to reduce overfitting, not to make each training step faster. If the validation set is too small or unrepresentative, early stopping can choose a checkpoint that looks good for accidental reasons.",
+    "flashcards": [
+      {
+        "question": "How does early stopping decide when to stop supervised model training?",
+        "answer": "It monitors validation performance and stops when that performance stops improving."
+      },
+      {
+        "question": "What problem is early stopping intended to reduce?",
+        "answer": "Overfitting."
+      },
+      {
+        "question": "Why can an unrepresentative validation set make early stopping unreliable?",
+        "answer": "It can cause selection of a checkpoint that appears good for accidental reasons."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0023",
+    "source": "Mitochondria release usable energy from food molecules through cellular respiration. Although they are often called the cell's power plants, that nickname can mislead students into thinking mitochondria create energy from nothing. The process converts energy stored in chemical bonds into ATP, a molecule cells can use for work.",
+    "flashcards": [
+      {
+        "question": "What do mitochondria do during cellular respiration?",
+        "answer": "They release usable energy from food molecules."
+      },
+      {
+        "question": "Why can calling mitochondria the cell's power plants be misleading?",
+        "answer": "It may imply they create energy from nothing, when they convert energy stored in chemical bonds into ATP."
+      },
+      {
+        "question": "What is ATP described as in the passage?",
+        "answer": "A molecule cells can use for work."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0024",
+    "source": "Lab handout draft v3. Instructor note: replace the bracketed figure before upload. [Insert image here.] The coffee machine near room 214 will be unavailable on Friday morning. End of notice.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0025",
+    "source": "A convex lens can form either a real or a virtual image depending on the object's distance from the lens. When the object is farther from the lens than the focal length, rays can converge on the opposite side and form a real image. When the object is closer than the focal length, the outgoing rays diverge and the eye traces them backward to a virtual image on the object's side.",
+    "flashcards": [
+      {
+        "question": "What determines whether a convex lens forms a real or virtual image?",
+        "answer": "The object's distance from the lens relative to the focal length."
+      },
+      {
+        "question": "When does a convex lens form a real image?",
+        "answer": "When the object is farther from the lens than the focal length, so rays converge on the opposite side."
+      },
+      {
+        "question": "How is a virtual image formed by a convex lens in the passage?",
+        "answer": "When the object is closer than the focal length, outgoing rays diverge and the eye traces them backward to the object's side."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0026",
+    "source": "The printing press lowered the cost of reproducing texts by using movable type rather than copying each book by hand. As books became cheaper and more numerous, ideas could circulate beyond small groups of scribes, officials, and wealthy collectors. This did not mean everyone immediately became literate; access still depended on money, language, and local institutions.",
+    "flashcards": [
+      {
+        "question": "How did movable type affect the cost of reproducing texts?",
+        "answer": "It lowered the cost by avoiding the need to copy each book by hand."
+      },
+      {
+        "question": "What effect did cheaper and more numerous books have on the circulation of ideas?",
+        "answer": "Ideas could circulate beyond small groups of scribes, officials, and wealthy collectors."
+      },
+      {
+        "question": "What misconception about the printing press does the passage warn against?",
+        "answer": "That everyone immediately became literate after books became cheaper."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0027",
+    "source": "In economics, a price ceiling only creates a shortage when it is set below the market-clearing price. If the ceiling is above the market-clearing price, buyers and sellers behave as if the ceiling were not there. Rent-control posters for Tuesday's seminar should be printed in blue, but the color choice is not part of the economic model.",
+    "flashcards": [
+      {
+        "question": "When does a price ceiling create a shortage?",
+        "answer": "Only when it is set below the market-clearing price."
+      },
+      {
+        "question": "What happens if a price ceiling is above the market-clearing price?",
+        "answer": "Buyers and sellers behave as if the ceiling were not there."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0028",
+    "source": "Working memory holds a small amount of information temporarily while a person uses it, such as remembering a number long enough to type it. Chunking can improve performance by grouping items into meaningful units, but it does not make storage unlimited. A learner who groups 1-9-4-5 as a single year is using prior knowledge to reduce the number of separate items being tracked.",
+    "flashcards": [
+      {
+        "question": "How does working memory differ from long-term storage in the passage?",
+        "answer": "Working memory temporarily holds a small amount of information while a person uses it."
+      },
+      {
+        "question": "How can chunking improve working-memory performance?",
+        "answer": "By grouping items into meaningful units."
+      },
+      {
+        "question": "What limitation of chunking does the passage state?",
+        "answer": "Chunking does not make storage unlimited."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0029",
+    "source": "The water cycle includes evaporation, condensation, precipitation, and collection. Heat from the Sun causes liquid water at Earth's surface to evaporate into water vapor. Higher in the atmosphere, cooling can cause vapor to condense into clouds, and when droplets become heavy enough, precipitation returns water to the surface.",
+    "flashcards": [
+      {
+        "question": "What causes liquid surface water to evaporate in the water cycle?",
+        "answer": "Heat from the Sun."
+      },
+      {
+        "question": "How do clouds form in the water cycle according to the passage?",
+        "answer": "Cooling higher in the atmosphere causes water vapor to condense."
+      },
+      {
+        "question": "When does precipitation return water to Earth's surface?",
+        "answer": "When droplets become heavy enough."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0030",
+    "source": "A REST API treats resources, such as users or invoices, as addressable URLs. HTTP methods then express actions on those resources: GET retrieves a representation, POST often creates or submits data, and DELETE requests removal. A common misconception is that REST requires JSON; the architectural style can use different representations as long as the interface remains resource-oriented.",
+    "flashcards": [
+      {
+        "question": "How does a REST API represent resources?",
+        "answer": "As addressable URLs."
+      },
+      {
+        "question": "In the passage, how do GET, POST, and DELETE differ in a REST API?",
+        "answer": "GET retrieves a representation, POST often creates or submits data, and DELETE requests removal."
+      },
+      {
+        "question": "What misconception about REST does the passage correct?",
+        "answer": "That REST requires JSON."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0031",
+    "source": "Batch normalization normalizes layer inputs using statistics computed from a mini-batch during training. This can allow higher learning rates and can make training less sensitive to initialization. During inference, stored running statistics are used instead of the current batch statistics, so behavior does not depend on which examples happen to be grouped together.",
+    "flashcards": [
+      {
+        "question": "What statistics does batch normalization use during training?",
+        "answer": "Statistics computed from a mini-batch."
+      },
+      {
+        "question": "What training benefits does the passage associate with batch normalization?",
+        "answer": "It can allow higher learning rates and make training less sensitive to initialization."
+      },
+      {
+        "question": "Why does batch normalization use stored running statistics during inference?",
+        "answer": "So behavior does not depend on which examples happen to be grouped together."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0032",
+    "source": "Enzymes speed up chemical reactions by lowering activation energy, but they do not change the overall energy difference between reactants and products. Their activity can depend on temperature and pH because extreme conditions can alter the enzyme's shape. The label on the sample tube reads 'Group B, freezer shelf 2,' which is only a storage note.",
+    "flashcards": [
+      {
+        "question": "How do enzymes speed up chemical reactions?",
+        "answer": "By lowering activation energy."
+      },
+      {
+        "question": "What do enzymes not change about a reaction according to the passage?",
+        "answer": "The overall energy difference between reactants and products."
+      },
+      {
+        "question": "Why can temperature and pH affect enzyme activity?",
+        "answer": "Extreme conditions can alter the enzyme's shape."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0033",
+    "source": "Release checklist: update footer year, confirm slide numbering, remove placeholder logo, and send the PDF to Mira by 5 p.m. This paragraph contains no course content; it is a publishing reminder for the project team.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0034",
+    "source": "Electric current is the rate at which charge flows through a point in a circuit. Resistance opposes that flow, so for a fixed voltage, increasing resistance reduces current. This relationship is summarized by Ohm's law, V = IR, when the material behaves ohmically; some components do not keep a constant resistance under all conditions.",
+    "flashcards": [
+      {
+        "question": "How is electric current described in the passage?",
+        "answer": "It is the rate at which charge flows through a point in a circuit."
+      },
+      {
+        "question": "For a fixed voltage, what happens to current when resistance increases?",
+        "answer": "Current decreases."
+      },
+      {
+        "question": "Under what condition does the passage apply Ohm's law, V = IR?",
+        "answer": "When the material behaves ohmically."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0035",
+    "source": "The Treaty of Versailles required Germany to accept responsibility for the war, reduce its military, and pay reparations. These terms were intended by the victors to weaken Germany and compensate for damage, but they also created resentment inside Germany. The passage does not claim the treaty was the only cause of later conflict.",
+    "flashcards": [
+      {
+        "question": "What obligations did the Treaty of Versailles impose on Germany in the passage?",
+        "answer": "Germany had to accept responsibility for the war, reduce its military, and pay reparations."
+      },
+      {
+        "question": "What effects of the Treaty of Versailles are identified in the passage?",
+        "answer": "The victors intended it to weaken Germany and compensate for damage, while it also created resentment inside Germany."
+      },
+      {
+        "question": "What causal overstatement about the Treaty of Versailles does the passage avoid?",
+        "answer": "It does not claim the treaty was the only cause of later conflict."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0036",
+    "source": "Compound interest adds interest to the principal and then earns interest on that larger amount in later periods. The effect grows with time, so starting earlier can matter even when the regular contribution is modest. However, fees or withdrawals can reduce the final balance, so a higher stated interest rate does not guarantee a better outcome.",
+    "flashcards": [
+      {
+        "question": "How does compound interest increase an investment over multiple periods?",
+        "answer": "Interest is added to the principal, and later interest is earned on the larger amount."
+      },
+      {
+        "question": "Why can starting earlier matter with compound interest?",
+        "answer": "The compounding effect grows with time, even when regular contributions are modest."
+      },
+      {
+        "question": "Why does a higher stated interest rate not always guarantee a better final balance?",
+        "answer": "Fees or withdrawals can reduce the final balance."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0037",
+    "source": "Classical conditioning occurs when a neutral stimulus becomes associated with a stimulus that already produces a response. After repeated pairing, the formerly neutral stimulus can trigger a similar response on its own. If the pairing stops for long enough, the learned response may weaken, a process called extinction.",
+    "flashcards": [
+      {
+        "question": "How does classical conditioning change a neutral stimulus?",
+        "answer": "It becomes associated with a stimulus that already produces a response."
+      },
+      {
+        "question": "What can happen after repeated pairing in classical conditioning?",
+        "answer": "The formerly neutral stimulus can trigger a similar response on its own."
+      },
+      {
+        "question": "What is extinction in the passage's description of classical conditioning?",
+        "answer": "The weakening of the learned response when the pairing stops for long enough."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0038",
+    "source": "In a binary search, the input must be sorted for the usual algorithm to work correctly. The algorithm compares the target to the middle item and discards the half that cannot contain the target. Because each step removes about half the remaining items, the number of comparisons grows slowly as the list gets larger.",
+    "flashcards": [
+      {
+        "question": "What condition must the input satisfy for the usual binary search algorithm to work correctly?",
+        "answer": "The input must be sorted."
+      },
+      {
+        "question": "How does binary search decide which part of the list to discard?",
+        "answer": "It compares the target to the middle item and discards the half that cannot contain the target."
+      },
+      {
+        "question": "Why does binary search need relatively few comparisons as a list grows?",
+        "answer": "Each step removes about half the remaining items."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0039",
+    "source": "Plate tectonics explains many earthquakes and volcanoes through the motion of large pieces of Earth's lithosphere. At convergent boundaries, plates move toward one another, and one plate may be forced beneath another in subduction. At divergent boundaries, plates move apart, allowing material from below to rise and form new crust.",
+    "flashcards": [
+      {
+        "question": "What does plate tectonics explain in the passage?",
+        "answer": "Many earthquakes and volcanoes through the motion of large pieces of Earth's lithosphere."
+      },
+      {
+        "question": "What can happen at a convergent plate boundary?",
+        "answer": "Plates move toward one another, and one may be forced beneath another in subduction."
+      },
+      {
+        "question": "How can new crust form at a divergent boundary?",
+        "answer": "Plates move apart, allowing material from below to rise and form new crust."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0040",
+    "source": "A randomized controlled experiment assigns participants to treatment and control groups by chance. Random assignment helps reduce systematic differences between groups before the treatment begins, making later outcome differences easier to attribute to the treatment. Random sampling is different: it concerns how participants are selected from a larger population, not how they are assigned after recruitment.",
+    "flashcards": [
+      {
+        "question": "How are participants assigned in a randomized controlled experiment?",
+        "answer": "They are assigned to treatment and control groups by chance."
+      },
+      {
+        "question": "Why does random assignment help with causal interpretation in an experiment?",
+        "answer": "It reduces systematic pre-treatment differences between groups, making later outcome differences easier to attribute to the treatment."
+      },
+      {
+        "question": "How does random sampling differ from random assignment in the passage?",
+        "answer": "Random sampling concerns selecting participants from a larger population; random assignment concerns assigning recruited participants to groups."
+      }
+    ]
+  }
+]

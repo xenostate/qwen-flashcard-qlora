@@ -1,0 +1,336 @@
+[
+  {
+    "id": "synthetic_0161",
+    "source": "In machine learning, precision and recall both evaluate predicted positives in classification, but they differ in which error tradeoff they emphasize. Precision asks what share of predicted positives were correct. Recall asks what share of actual positives were found. The filename on the projector included the word final twice. The preferred metric depends on whether false positives or false negatives are more costly.",
+    "flashcards": [
+      {
+        "question": "How do precision and recall differ in machine learning?",
+        "answer": "Precision asks what share of predicted positives were correct, while recall asks what share of actual positives were found."
+      },
+      {
+        "question": "What do precision and recall have in common in the passage?",
+        "answer": "They both evaluate predicted positives in classification."
+      },
+      {
+        "question": "What qualification is given about choosing between precision and recall?",
+        "answer": "The preferred metric depends on whether false positives or false negatives are more costly."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0162",
+    "source": "A comparison in machine learning should start with the task requirement, not the name of the tool. When the requirement matches asks what share of predicted positives were correct, precision is the closer fit. When the requirement matches asks what share of actual positives were found, recall is the closer fit. The filename on the projector included the word final twice. The key comparison is which error tradeoff they emphasize.",
+    "flashcards": [
+      {
+        "question": "What should guide a comparison between precision and recall?",
+        "answer": "The task requirement and the key comparison: which error tradeoff they emphasize."
+      },
+      {
+        "question": "When is precision the closer fit according to the passage?",
+        "answer": "When the requirement matches that it asks what share of predicted positives were correct."
+      },
+      {
+        "question": "When is recall the closer fit according to the passage?",
+        "answer": "When the requirement matches that it asks what share of actual positives were found."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0163",
+    "source": "A common misconception in machine learning is that precision is simply the advanced version of recall. The passage instead contrasts them by which error tradeoff they emphasize: precision asks what share of predicted positives were correct, whereas recall asks what share of actual positives were found. The preferred metric depends on whether false positives or false negatives are more costly. The filename on the projector included the word final twice.",
+    "flashcards": [
+      {
+        "question": "What misconception about precision and recall does the passage reject?",
+        "answer": "That precision is simply the advanced version of recall."
+      },
+      {
+        "question": "By what basis does the passage contrast precision and recall?",
+        "answer": "which error tradeoff they emphasize"
+      },
+      {
+        "question": "How does the passage summarize the contrast between precision and recall?",
+        "answer": "Precision asks what share of predicted positives were correct, whereas recall asks what share of actual positives were found."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0164",
+    "source": "Slide instructions: Crop image to fit, align title box, and check that the microphone works. The sample text is filler. Batch marker 9, item position 4.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0165",
+    "source": "In machine learning, batch gradient descent and stochastic gradient descent both update model parameters using gradients, but they differ in how many examples inform each update. Batch gradient descent uses the whole training set for an update. Stochastic gradient descent uses one example or a small random portion for an update. The classroom window was open during the demonstration. Smaller updates can be noisier but may be cheaper per step.",
+    "flashcards": [
+      {
+        "question": "How do batch gradient descent and stochastic gradient descent differ in machine learning?",
+        "answer": "Batch gradient descent uses the whole training set for an update, while stochastic gradient descent uses one example or a small random portion for an update."
+      },
+      {
+        "question": "What do batch gradient descent and stochastic gradient descent have in common in the passage?",
+        "answer": "They both update model parameters using gradients."
+      },
+      {
+        "question": "What qualification is given about choosing between batch gradient descent and stochastic gradient descent?",
+        "answer": "Smaller updates can be noisier but may be cheaper per step."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0166",
+    "source": "A comparison in machine learning should start with the task requirement, not the name of the tool. When the requirement matches uses the whole training set for an update, batch gradient descent is the closer fit. When the requirement matches uses one example or a small random portion for an update, stochastic gradient descent is the closer fit. The classroom window was open during the demonstration. The key comparison is how many examples inform each update.",
+    "flashcards": [
+      {
+        "question": "What should guide a comparison between batch gradient descent and stochastic gradient descent?",
+        "answer": "The task requirement and the key comparison: how many examples inform each update."
+      },
+      {
+        "question": "When is batch gradient descent the closer fit according to the passage?",
+        "answer": "When the requirement matches that it uses the whole training set for an update."
+      },
+      {
+        "question": "When is stochastic gradient descent the closer fit according to the passage?",
+        "answer": "When the requirement matches that it uses one example or a small random portion for an update."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0167",
+    "source": "A common misconception in machine learning is that batch gradient descent is simply the advanced version of stochastic gradient descent. The passage instead contrasts them by how many examples inform each update: batch gradient descent uses the whole training set for an update, whereas stochastic gradient descent uses one example or a small random portion for an update. Smaller updates can be noisier but may be cheaper per step. The classroom window was open during the demonstration.",
+    "flashcards": [
+      {
+        "question": "What misconception about batch gradient descent and stochastic gradient descent does the passage reject?",
+        "answer": "That batch gradient descent is simply the advanced version of stochastic gradient descent."
+      },
+      {
+        "question": "By what basis does the passage contrast batch gradient descent and stochastic gradient descent?",
+        "answer": "how many examples inform each update"
+      },
+      {
+        "question": "How does the passage summarize the contrast between batch gradient descent and stochastic gradient descent?",
+        "answer": "Batch gradient descent uses the whole training set for an update, whereas stochastic gradient descent uses one example or a small random portion for an update."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0168",
+    "source": "In machine learning, feature scaling is a multi-step process used to put numeric features on comparable ranges. First, inspect feature units and ranges. Next, choose a scaling rule. Then, fit the scaler on training data. Finally, apply the same fitted rule to later data. A sticky note on the handout asked someone to refill the stapler. Fitting the scaler on validation data would leak information from validation into training.",
+    "flashcards": [
+      {
+        "question": "What sequence of steps describes feature scaling?",
+        "answer": "inspect feature units and ranges; choose a scaling rule; fit the scaler on training data; apply the same fitted rule to later data."
+      },
+      {
+        "question": "What is the purpose of feature scaling?",
+        "answer": "To put numeric features on comparable ranges."
+      },
+      {
+        "question": "What qualification is stated about feature scaling?",
+        "answer": "Fitting the scaler on validation data would leak information from validation into training."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0169",
+    "source": "Feature scaling can fail when its steps are skipped or mixed together. The process begins when inspect feature units and ranges, continues as choose a scaling rule and fit the scaler on training data, and ends when apply the same fitted rule to later data. A sticky note on the handout asked someone to refill the stapler. The important condition is that fitting the scaler on validation data would leak information from validation into training.",
+    "flashcards": [
+      {
+        "question": "How does feature scaling begin and end in the passage?",
+        "answer": "It begins when inspect feature units and ranges and ends when apply the same fitted rule to later data."
+      },
+      {
+        "question": "Which middle steps are described for feature scaling?",
+        "answer": "choose a scaling rule and fit the scaler on training data."
+      },
+      {
+        "question": "What condition or limitation is noted for feature scaling?",
+        "answer": "Fitting the scaler on validation data would leak information from validation into training."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0170",
+    "source": "The early and late stages of feature scaling do different jobs. Early in the process, inspect feature units and ranges and choose a scaling rule. Later, fit the scaler on training data and apply the same fitted rule to later data. This order supports the goal to put numeric features on comparable ranges. A sticky note on the handout asked someone to refill the stapler.",
+    "flashcards": [
+      {
+        "question": "What happens early in feature scaling?",
+        "answer": "inspect feature units and ranges and choose a scaling rule."
+      },
+      {
+        "question": "What happens later in feature scaling?",
+        "answer": "fit the scaler on training data and apply the same fitted rule to later data."
+      },
+      {
+        "question": "How does the order of feature scaling relate to its goal?",
+        "answer": "The ordered steps support the goal to put numeric features on comparable ranges."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0171",
+    "source": "In machine learning, backpropagation is a multi-step process used to compute how model parameters affected a loss. First, run a forward pass. Next, calculate the loss. Then, propagate gradients backward through layers. Finally, update parameters using the gradients. The page footer lists a draft date but adds no subject content. The backward pass depends on values produced during the forward pass.",
+    "flashcards": [
+      {
+        "question": "What sequence of steps describes backpropagation?",
+        "answer": "run a forward pass; calculate the loss; propagate gradients backward through layers; update parameters using the gradients."
+      },
+      {
+        "question": "What is the purpose of backpropagation?",
+        "answer": "To compute how model parameters affected a loss."
+      },
+      {
+        "question": "What qualification is stated about backpropagation?",
+        "answer": "The backward pass depends on values produced during the forward pass."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0172",
+    "source": "Backpropagation can fail when its steps are skipped or mixed together. The process begins when run a forward pass, continues as calculate the loss and propagate gradients backward through layers, and ends when update parameters using the gradients. The page footer lists a draft date but adds no subject content. The important condition is that the backward pass depends on values produced during the forward pass.",
+    "flashcards": [
+      {
+        "question": "How does backpropagation begin and end in the passage?",
+        "answer": "It begins when run a forward pass and ends when update parameters using the gradients."
+      },
+      {
+        "question": "Which middle steps are described for backpropagation?",
+        "answer": "calculate the loss and propagate gradients backward through layers."
+      },
+      {
+        "question": "What condition or limitation is noted for backpropagation?",
+        "answer": "The backward pass depends on values produced during the forward pass."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0173",
+    "source": "The early and late stages of backpropagation do different jobs. Early in the process, run a forward pass and calculate the loss. Later, propagate gradients backward through layers and update parameters using the gradients. This order supports the goal to compute how model parameters affected a loss. The page footer lists a draft date but adds no subject content.",
+    "flashcards": [
+      {
+        "question": "What happens early in backpropagation?",
+        "answer": "run a forward pass and calculate the loss."
+      },
+      {
+        "question": "What happens later in backpropagation?",
+        "answer": "propagate gradients backward through layers and update parameters using the gradients."
+      },
+      {
+        "question": "How does the order of backpropagation relate to its goal?",
+        "answer": "The ordered steps support the goal to compute how model parameters affected a loss."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0174",
+    "source": "Administrative reminder: Submit travel receipts by Friday. The attached spreadsheet has empty columns for later use. Do not distribute this draft. Batch marker 9, item position 14.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0175",
+    "source": "In machine learning, k-fold cross-validation is a multi-step process used to estimate model performance across several data splits. First, split data into k folds. Next, train on k minus one folds. Then, validate on the held-out fold. Finally, repeat until each fold has been held out. The instructor used a green marker because the black marker was missing. The reported score is usually summarized across the repeated validation runs.",
+    "flashcards": [
+      {
+        "question": "What sequence of steps describes k-fold cross-validation?",
+        "answer": "split data into k folds; train on k minus one folds; validate on the held-out fold; repeat until each fold has been held out."
+      },
+      {
+        "question": "What is the purpose of k-fold cross-validation?",
+        "answer": "To estimate model performance across several data splits."
+      },
+      {
+        "question": "What qualification is stated about k-fold cross-validation?",
+        "answer": "The reported score is usually summarized across the repeated validation runs."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0176",
+    "source": "K-fold cross-validation can fail when its steps are skipped or mixed together. The process begins when split data into k folds, continues as train on k minus one folds and validate on the held-out fold, and ends when repeat until each fold has been held out. The instructor used a green marker because the black marker was missing. The important condition is that the reported score is usually summarized across the repeated validation runs.",
+    "flashcards": [
+      {
+        "question": "How does k-fold cross-validation begin and end in the passage?",
+        "answer": "It begins when split data into k folds and ends when repeat until each fold has been held out."
+      },
+      {
+        "question": "Which middle steps are described for k-fold cross-validation?",
+        "answer": "train on k minus one folds and validate on the held-out fold."
+      },
+      {
+        "question": "What condition or limitation is noted for k-fold cross-validation?",
+        "answer": "The reported score is usually summarized across the repeated validation runs."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0177",
+    "source": "The early and late stages of k-fold cross-validation do different jobs. Early in the process, split data into k folds and train on k minus one folds. Later, validate on the held-out fold and repeat until each fold has been held out. This order supports the goal to estimate model performance across several data splits. The instructor used a green marker because the black marker was missing.",
+    "flashcards": [
+      {
+        "question": "What happens early in k-fold cross-validation?",
+        "answer": "split data into k folds and train on k minus one folds."
+      },
+      {
+        "question": "What happens later in k-fold cross-validation?",
+        "answer": "validate on the held-out fold and repeat until each fold has been held out."
+      },
+      {
+        "question": "How does the order of k-fold cross-validation relate to its goal?",
+        "answer": "The ordered steps support the goal to estimate model performance across several data splits."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0178",
+    "source": "In machine learning, data labeling quality control is a multi-step process used to improve the reliability of labeled examples. First, define labeling instructions. Next, collect labels from annotators. Then, compare labels for disagreements. Finally, resolve conflicts or revise instructions. A coffee cup appears in the corner of the photo. Disagreement can reveal unclear instructions rather than careless annotators.",
+    "flashcards": [
+      {
+        "question": "What sequence of steps describes data labeling quality control?",
+        "answer": "define labeling instructions; collect labels from annotators; compare labels for disagreements; resolve conflicts or revise instructions."
+      },
+      {
+        "question": "What is the purpose of data labeling quality control?",
+        "answer": "To improve the reliability of labeled examples."
+      },
+      {
+        "question": "What qualification is stated about data labeling quality control?",
+        "answer": "Disagreement can reveal unclear instructions rather than careless annotators."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0179",
+    "source": "Data labeling quality control can fail when its steps are skipped or mixed together. The process begins when define labeling instructions, continues as collect labels from annotators and compare labels for disagreements, and ends when resolve conflicts or revise instructions. A coffee cup appears in the corner of the photo. The important condition is that disagreement can reveal unclear instructions rather than careless annotators.",
+    "flashcards": [
+      {
+        "question": "How does data labeling quality control begin and end in the passage?",
+        "answer": "It begins when define labeling instructions and ends when resolve conflicts or revise instructions."
+      },
+      {
+        "question": "Which middle steps are described for data labeling quality control?",
+        "answer": "collect labels from annotators and compare labels for disagreements."
+      },
+      {
+        "question": "What condition or limitation is noted for data labeling quality control?",
+        "answer": "Disagreement can reveal unclear instructions rather than careless annotators."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0180",
+    "source": "The early and late stages of data labeling quality control do different jobs. Early in the process, define labeling instructions and collect labels from annotators. Later, compare labels for disagreements and resolve conflicts or revise instructions. This order supports the goal to improve the reliability of labeled examples. A coffee cup appears in the corner of the photo.",
+    "flashcards": [
+      {
+        "question": "What happens early in data labeling quality control?",
+        "answer": "define labeling instructions and collect labels from annotators."
+      },
+      {
+        "question": "What happens later in data labeling quality control?",
+        "answer": "compare labels for disagreements and resolve conflicts or revise instructions."
+      },
+      {
+        "question": "How does the order of data labeling quality control relate to its goal?",
+        "answer": "The ordered steps support the goal to improve the reliability of labeled examples."
+      }
+    ]
+  }
+]

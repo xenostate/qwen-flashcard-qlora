@@ -1,0 +1,356 @@
+[
+  {
+    "id": "synthetic_0061",
+    "source": "In a hash table, a key is transformed by a hash function into an array index. When two different keys map to the same index, the event is called a collision. Separate chaining handles collisions by storing multiple entries at the same index, often in a linked list or another small collection. Open addressing instead searches for another available slot within the array itself. The office printer beside the server rack was replaced on Tuesday, but that does not affect the data structure.",
+    "flashcards": [
+      {
+        "question": "How does a hash table decide where to store a key?",
+        "answer": "It uses a hash function to transform the key into an array index."
+      },
+      {
+        "question": "When does a collision occur in a hash table?",
+        "answer": "When two different keys map to the same array index."
+      },
+      {
+        "question": "How do separate chaining and open addressing differ in handling hash table collisions?",
+        "answer": "Separate chaining stores multiple entries at the same index, while open addressing searches for another available slot in the array."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0062",
+    "source": "A validation set is used during model development to compare choices such as hyperparameters or feature sets. A test set should be held back until the end to estimate performance on data not used for those decisions. A common mistake is repeatedly checking the test set while tuning; doing so can make the final estimate overly optimistic because the test data has indirectly influenced the model selection.",
+    "flashcards": [
+      {
+        "question": "What role does a validation set play during model development?",
+        "answer": "It is used to compare choices such as hyperparameters or feature sets."
+      },
+      {
+        "question": "Why should a test set usually be held back until the end of model development?",
+        "answer": "To estimate performance on data not used for model-development decisions."
+      },
+      {
+        "question": "Why can repeatedly checking the test set while tuning make performance estimates overly optimistic?",
+        "answer": "Because the test data indirectly influences model selection."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0063",
+    "source": "The pancreas helps regulate blood glucose by releasing insulin and glucagon. Insulin lowers blood glucose by encouraging cells to take up glucose and by promoting storage of glucose as glycogen. Glucagon has the opposite effect: it raises blood glucose, especially when blood sugar falls between meals, by signaling the liver to release stored glucose.",
+    "flashcards": [
+      {
+        "question": "How does insulin affect blood glucose?",
+        "answer": "It lowers blood glucose by encouraging cellular glucose uptake and promoting storage as glycogen."
+      },
+      {
+        "question": "How does glucagon affect blood glucose when blood sugar falls between meals?",
+        "answer": "It raises blood glucose by signaling the liver to release stored glucose."
+      },
+      {
+        "question": "How do insulin and glucagon differ in their effects on blood glucose?",
+        "answer": "Insulin lowers blood glucose, while glucagon raises it."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0064",
+    "source": "Version: draft 0.3. Header image pending. Reminder: replace all placeholder icons before publishing. The team lunch location is still undecided. TODO: add final citations after review. This page intentionally contains no lesson text yet.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0065",
+    "source": "Newton's first law says that an object at rest stays at rest, and an object in motion continues moving at constant velocity, unless acted on by a net external force. This does not mean that moving objects require a continuous force to keep moving; rather, a force is required to change their velocity. Friction often hides this principle in everyday life because it slows objects unless another force compensates.",
+    "flashcards": [
+      {
+        "question": "According to Newton's first law, what happens to an object when no net external force acts on it?",
+        "answer": "It remains at rest or continues moving at constant velocity."
+      },
+      {
+        "question": "What common misconception about motion does Newton's first law correct?",
+        "answer": "It corrects the idea that moving objects require a continuous force to keep moving."
+      },
+      {
+        "question": "Why can friction make Newton's first law less obvious in everyday life?",
+        "answer": "Friction slows objects unless another force compensates."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0066",
+    "source": "During the Columbian Exchange, crops, animals, people, and diseases moved between the Americas, Europe, Africa, and Asia after sustained transatlantic contact began. Potatoes and maize became important food crops outside the Americas. Horses transformed some societies in the Americas, while diseases introduced from Afro-Eurasia caused severe population losses among many Indigenous communities that lacked prior exposure.",
+    "flashcards": [
+      {
+        "question": "What kinds of things moved across regions during the Columbian Exchange?",
+        "answer": "Crops, animals, people, and diseases moved between the Americas, Europe, Africa, and Asia."
+      },
+      {
+        "question": "Which American crops became important foods outside the Americas during the Columbian Exchange?",
+        "answer": "Potatoes and maize."
+      },
+      {
+        "question": "Why did introduced diseases cause severe population losses among many Indigenous communities in the Americas?",
+        "answer": "Many Indigenous communities lacked prior exposure to those diseases."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0067",
+    "source": "In economics, a price ceiling is a legal maximum price. If the ceiling is set below the market-clearing price, quantity demanded tends to exceed quantity supplied, creating a shortage. If the ceiling is set above the market-clearing price, it usually has no binding effect. The classroom example used concert tickets, but the same logic applies to many goods.",
+    "flashcards": [
+      {
+        "question": "Under what condition does a price ceiling tend to create a shortage?",
+        "answer": "When it is set below the market-clearing price."
+      },
+      {
+        "question": "Why can a below-market price ceiling create a shortage?",
+        "answer": "Quantity demanded tends to exceed quantity supplied."
+      },
+      {
+        "question": "When does a price ceiling usually have no binding effect?",
+        "answer": "When it is set above the market-clearing price."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0068",
+    "source": "Working memory is the limited-capacity system used to hold and manipulate information over short periods. Cognitive load increases when a task requires many pieces of information to be kept active at once. Chunking reduces the burden by grouping related pieces into a meaningful unit, such as remembering 1-9-4-5 as the year 1945 rather than four unrelated digits.",
+    "flashcards": [
+      {
+        "question": "What does working memory allow a person to do with information?",
+        "answer": "Hold and manipulate information over short periods."
+      },
+      {
+        "question": "When does cognitive load increase?",
+        "answer": "When a task requires many pieces of information to be kept active at once."
+      },
+      {
+        "question": "How does chunking reduce the burden on working memory?",
+        "answer": "It groups related pieces of information into a meaningful unit."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0069",
+    "source": "Distillation separates liquids by using differences in boiling point. A mixture is heated until the component with the lower boiling point vaporizes more readily. The vapor is then cooled in a condenser so it returns to liquid form. Distillation works best when the components have sufficiently different boiling points; it is not a method for separating substances that decompose before boiling.",
+    "flashcards": [
+      {
+        "question": "What property difference does distillation use to separate liquids?",
+        "answer": "Differences in boiling point."
+      },
+      {
+        "question": "What happens to the vapor during distillation after it leaves the heated mixture?",
+        "answer": "It is cooled in a condenser so it returns to liquid form."
+      },
+      {
+        "question": "When does distillation work best?",
+        "answer": "When the components have sufficiently different boiling points."
+      },
+      {
+        "question": "What limitation of distillation is stated in the passage?",
+        "answer": "It is not for separating substances that decompose before boiling."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0070",
+    "source": "The meeting has moved to Room 412. Please bring a badge, a notebook, and any unresolved expense receipts. Slides will be uploaded later. Coffee service begins at 8:45 a.m. This announcement is logistical and contains no substantive course material.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0071",
+    "source": "A compiler usually translates a program into machine code before execution, while an interpreter typically runs source code or an intermediate representation step by step. Compiled programs can start quickly once built, but compilation adds a separate build step. Interpreted environments can provide faster edit-run cycles during development, though execution may be slower because translation work occurs at runtime.",
+    "flashcards": [
+      {
+        "question": "How does a compiler usually prepare a program for execution?",
+        "answer": "It translates the program into machine code before execution."
+      },
+      {
+        "question": "How does an interpreter typically run a program?",
+        "answer": "It runs source code or an intermediate representation step by step."
+      },
+      {
+        "question": "What tradeoff is described between compiled and interpreted programs?",
+        "answer": "Compiled programs can start quickly once built but require a build step; interpreted environments can support faster edit-run cycles but may run slower due to runtime translation."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0072",
+    "source": "Regularization discourages a machine-learning model from fitting noise in the training data. L2 regularization adds a penalty based on the squared size of weights, which tends to keep many weights small rather than forcing them exactly to zero. L1 regularization adds a penalty based on absolute weight values and can drive some weights to zero, making it useful when sparse solutions are desired.",
+    "flashcards": [
+      {
+        "question": "Why is regularization used in machine learning?",
+        "answer": "To discourage a model from fitting noise in the training data."
+      },
+      {
+        "question": "How does L2 regularization usually affect model weights?",
+        "answer": "It penalizes squared weight size and tends to keep many weights small rather than exactly zero."
+      },
+      {
+        "question": "Why can L1 regularization be useful when sparse solutions are desired?",
+        "answer": "It penalizes absolute weight values and can drive some weights to zero."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0073",
+    "source": "In flowering plants, pollination is the transfer of pollen from the anther to a stigma. Fertilization occurs later, when a sperm cell from the pollen joins with an egg cell. Pollination can happen without fertilization if pollen lands on a stigma but no successful fusion of gametes follows. The greenhouse label for this specimen was printed in green ink, which is not biologically important.",
+    "flashcards": [
+      {
+        "question": "In flowering plants, what event occurs during pollination?",
+        "answer": "Pollen is transferred from the anther to a stigma."
+      },
+      {
+        "question": "How is fertilization different from pollination in flowering plants?",
+        "answer": "Fertilization occurs when a sperm cell from pollen joins with an egg cell, while pollination is pollen transfer to a stigma."
+      },
+      {
+        "question": "Can pollination occur without fertilization according to the passage?",
+        "answer": "Yes, if pollen lands on a stigma but no successful fusion of gametes follows."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0074",
+    "source": "Sound is a mechanical wave, so it requires a medium such as air, water, or a solid to travel. In a vacuum, there are no particles to transmit the wave, so sound cannot propagate. Light differs in this respect because it can travel through empty space. Increasing the amplitude of a sound wave makes it louder, while changing the frequency changes the pitch.",
+    "flashcards": [
+      {
+        "question": "Why can sound not propagate through a vacuum?",
+        "answer": "Sound requires a medium, and a vacuum has no particles to transmit the wave."
+      },
+      {
+        "question": "How does light differ from sound in its ability to travel?",
+        "answer": "Light can travel through empty space, while sound requires a medium."
+      },
+      {
+        "question": "Which sound-wave property affects loudness, and which affects pitch?",
+        "answer": "Amplitude affects loudness, while frequency affects pitch."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0075",
+    "source": "The Great Depression began with a sharp economic downturn and became deeper as banks failed, credit contracted, and unemployment rose. A bank failure could reduce lending because depositors lost savings and surviving banks became more cautious. Lower lending made it harder for businesses to invest or stay open, which could worsen job losses. The passage does not assign a single cause; it describes reinforcing conditions.",
+    "flashcards": [
+      {
+        "question": "What reinforcing conditions deepened the Great Depression according to the passage?",
+        "answer": "Bank failures, credit contraction, and rising unemployment."
+      },
+      {
+        "question": "How could bank failures reduce lending during the Great Depression?",
+        "answer": "Depositors lost savings and surviving banks became more cautious."
+      },
+      {
+        "question": "Why could lower lending worsen job losses during the Great Depression?",
+        "answer": "It made it harder for businesses to invest or stay open."
+      },
+      {
+        "question": "Does the passage present the Great Depression as having a single cause?",
+        "answer": "No. It describes reinforcing conditions rather than assigning a single cause."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0076",
+    "source": "Classical conditioning occurs when an organism learns an association between two stimuli. In Pavlov's experiments, a neutral stimulus such as a bell became associated with food after repeated pairings. Eventually the bell alone could trigger salivation. Extinction can occur if the bell is repeatedly presented without food, weakening the learned response.",
+    "flashcards": [
+      {
+        "question": "What kind of association is learned in classical conditioning?",
+        "answer": "An association between two stimuli."
+      },
+      {
+        "question": "In Pavlov's experiments, why could a bell eventually trigger salivation?",
+        "answer": "Because the bell had been repeatedly paired with food."
+      },
+      {
+        "question": "How can extinction occur in the conditioning example from the passage?",
+        "answer": "By repeatedly presenting the bell without food, which weakens the learned response."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0077",
+    "source": "The rock cycle describes transformations among igneous, sedimentary, and metamorphic rocks. Igneous rocks form when molten material cools and solidifies. Sedimentary rocks form from compacted and cemented sediments, often after weathering and erosion create loose particles. Metamorphic rocks form when existing rock is changed by heat, pressure, or chemically active fluids without fully melting.",
+    "flashcards": [
+      {
+        "question": "How do igneous rocks form?",
+        "answer": "Molten material cools and solidifies."
+      },
+      {
+        "question": "What process forms sedimentary rocks according to the passage?",
+        "answer": "Sediments are compacted and cemented, often after weathering and erosion create loose particles."
+      },
+      {
+        "question": "Under what conditions do metamorphic rocks form?",
+        "answer": "Existing rock is changed by heat, pressure, or chemically active fluids without fully melting."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0078",
+    "source": "In public-key cryptography, a user has a public key that can be shared and a private key that must be kept secret. A message encrypted with the public key can be decrypted only with the matching private key. For digital signatures, the direction is different: the private key is used to create a signature, and the public key is used to verify that signature. Losing the private key can prevent decryption or signing even if the public key is still available.",
+    "flashcards": [
+      {
+        "question": "In public-key cryptography, which key is shared and which key must remain secret?",
+        "answer": "The public key can be shared, and the private key must be kept secret."
+      },
+      {
+        "question": "How is a public and private key pair used for encryption and decryption?",
+        "answer": "A message encrypted with the public key can be decrypted only with the matching private key."
+      },
+      {
+        "question": "How are keys used differently for digital signatures than for encryption?",
+        "answer": "For signatures, the private key creates the signature and the public key verifies it."
+      },
+      {
+        "question": "What can happen if a private key is lost?",
+        "answer": "It can prevent decryption or signing even if the public key is still available."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0079",
+    "source": "Opportunity cost is the value of the best alternative given up when making a choice. It is not always a cash payment: spending an evening studying may have the opportunity cost of missing paid work or leisure. Sunk costs, by contrast, are past costs that cannot be recovered and should not determine the current choice if the goal is to choose the best option from now on.",
+    "flashcards": [
+      {
+        "question": "How should opportunity cost be understood when making a choice?",
+        "answer": "It is the value of the best alternative given up."
+      },
+      {
+        "question": "Why is opportunity cost not limited to cash payments?",
+        "answer": "Because it can include forgone alternatives such as paid work or leisure."
+      },
+      {
+        "question": "How do sunk costs differ from opportunity costs?",
+        "answer": "Sunk costs are unrecoverable past costs, while opportunity costs are the value of the best alternative given up."
+      },
+      {
+        "question": "According to the passage, should sunk costs determine the current choice when choosing the best option from now on?",
+        "answer": "No. Sunk costs cannot be recovered and should not determine the current choice."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0080",
+    "source": "A controlled experiment changes one independent variable while keeping other conditions as constant as practical. The dependent variable is the outcome measured to see whether it changes in response. A control group provides a comparison for the group receiving the treatment. Random assignment helps reduce systematic differences between groups before the treatment begins, but it does not guarantee that every group will be identical.",
+    "flashcards": [
+      {
+        "question": "In a controlled experiment, what is changed and what is measured?",
+        "answer": "The independent variable is changed, and the dependent variable is measured."
+      },
+      {
+        "question": "What purpose does a control group serve in an experiment?",
+        "answer": "It provides a comparison for the group receiving the treatment."
+      },
+      {
+        "question": "How does random assignment help an experiment?",
+        "answer": "It helps reduce systematic differences between groups before treatment begins."
+      },
+      {
+        "question": "What limitation of random assignment is stated in the passage?",
+        "answer": "It does not guarantee that every group will be identical."
+      }
+    ]
+  }
+]

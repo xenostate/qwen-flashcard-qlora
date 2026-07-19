@@ -1,0 +1,332 @@
+[
+  {
+    "id": "synthetic_0001",
+    "source": "A compiler and an interpreter both turn programming language instructions into actions a computer can perform, but they do so differently. A compiler typically translates an entire program before it runs, then produces an executable or intermediate artifact. An interpreter usually reads and executes code step by step while the program is running. The office printer near the lab was serviced on Tuesday. A common misconception is that interpreted programs never use any compilation; some systems combine interpretation with just-in-time compilation during execution.",
+    "flashcards": [
+      {
+        "question": "How does a compiler typically differ from an interpreter?",
+        "answer": "A compiler translates an entire program before it runs, while an interpreter usually reads and executes code step by step during runtime."
+      },
+      {
+        "question": "What output may a compiler produce before a program runs?",
+        "answer": "An executable or intermediate artifact."
+      },
+      {
+        "question": "What misconception about interpreted programs does the passage correct?",
+        "answer": "That interpreted programs never use compilation; some systems combine interpretation with just-in-time compilation."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0002",
+    "source": "Training a simple image classifier usually follows several steps. First, labeled images are collected and split into training and validation sets. Next, the model updates its parameters on the training set. Then, performance is checked on the validation set to estimate how well the model handles examples it did not directly learn from. The folder named vacation_photos should not be included in the experiment. If validation accuracy rises while training accuracy stays very low, the model may be underfitting rather than overfitting.",
+    "flashcards": [
+      {
+        "question": "What are the main steps described for training a simple image classifier?",
+        "answer": "Collect labeled images, split them into training and validation sets, update parameters on the training set, and check performance on the validation set."
+      },
+      {
+        "question": "Why is a validation set used in the image classifier process?",
+        "answer": "To estimate how well the model handles examples it did not directly learn from."
+      },
+      {
+        "question": "What condition in the passage suggests underfitting rather than overfitting?",
+        "answer": "Validation accuracy rises while training accuracy stays very low."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0003",
+    "source": "Mitosis and meiosis are both forms of cell division, but they serve different purposes. Mitosis produces genetically similar body cells for growth and repair. Meiosis produces reproductive cells with half the usual chromosome number. Before either process begins, DNA is copied so each resulting cell can receive genetic material. The classroom clock was five minutes slow during the demonstration.",
+    "flashcards": [
+      {
+        "question": "How do mitosis and meiosis differ in purpose?",
+        "answer": "Mitosis produces body cells for growth and repair, while meiosis produces reproductive cells."
+      },
+      {
+        "question": "What chromosome-number change is associated with meiosis in the passage?",
+        "answer": "It produces reproductive cells with half the usual chromosome number."
+      },
+      {
+        "question": "What happens to DNA before mitosis or meiosis begins?",
+        "answer": "DNA is copied so each resulting cell can receive genetic material."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0004",
+    "source": "Announcement draft: Please rename Slide 7 before presenting. The conference badge pickup table opens at 8:30 a.m. Use the green lanyards for staff and the white lanyards for guests. Placeholder: insert sponsor logo here. Revision note: remove this sentence later.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0005",
+    "source": "Conduction, convection, and radiation transfer thermal energy in different ways. In conduction, energy moves through direct contact between particles, such as heat spreading along a metal spoon. In convection, warmer fluid rises and cooler fluid sinks, creating circulating motion. Radiation transfers energy by electromagnetic waves and does not require matter between the source and receiver. The soup label in the example was tomato, but the flavor is irrelevant.",
+    "flashcards": [
+      {
+        "question": "How does conduction transfer thermal energy?",
+        "answer": "Through direct contact between particles."
+      },
+      {
+        "question": "What process creates circulating motion in convection?",
+        "answer": "Warmer fluid rises and cooler fluid sinks."
+      },
+      {
+        "question": "How is radiation different from conduction and convection?",
+        "answer": "Radiation transfers energy by electromagnetic waves and does not require matter between the source and receiver."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0006",
+    "source": "The nitrogen cycle converts nitrogen into forms organisms can use and later returns it to the atmosphere. First, nitrogen fixation changes atmospheric nitrogen into ammonia or related compounds. Nitrification can then convert these compounds into nitrates that plants can absorb. Animals obtain nitrogen by eating plants or other animals. Decomposers return nitrogen compounds to the soil, and denitrifying bacteria convert nitrates back into atmospheric nitrogen. The diagram used purple arrows only because that color printed clearly.",
+    "flashcards": [
+      {
+        "question": "What happens during nitrogen fixation?",
+        "answer": "Atmospheric nitrogen is changed into ammonia or related compounds."
+      },
+      {
+        "question": "How do plants and animals obtain nitrogen in the described cycle?",
+        "answer": "Plants absorb nitrates, and animals obtain nitrogen by eating plants or other animals."
+      },
+      {
+        "question": "What role do denitrifying bacteria play in the nitrogen cycle?",
+        "answer": "They convert nitrates back into atmospheric nitrogen."
+      },
+      {
+        "question": "What sequence in the passage describes nitrogen becoming usable and returning to the atmosphere?",
+        "answer": "Fixation changes atmospheric nitrogen into ammonia-related compounds, nitrification forms nitrates, organisms use the nitrogen, decomposers return compounds to soil, and denitrifying bacteria restore atmospheric nitrogen."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0007",
+    "source": "A monarchy and a republic differ in how political authority is assigned. In a hereditary monarchy, the head of state usually gains the position through family succession. In a republic, public offices are not owned by a royal family and leaders are commonly chosen through some form of election or appointment. This comparison does not imply that every republic is democratic or that every monarchy has absolute power. The museum cafe closes at 4 p.m.",
+    "flashcards": [
+      {
+        "question": "How is leadership usually assigned in a hereditary monarchy?",
+        "answer": "The head of state usually gains the position through family succession."
+      },
+      {
+        "question": "How does the passage describe public office in a republic?",
+        "answer": "Public offices are not owned by a royal family, and leaders are commonly chosen through election or appointment."
+      },
+      {
+        "question": "What qualification does the passage give about comparing republics and monarchies?",
+        "answer": "Not every republic is democratic, and not every monarchy has absolute power."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0008",
+    "source": "In economics, a price ceiling sets a legal maximum price, while a price floor sets a legal minimum price. If a price ceiling is placed below the market-clearing price, quantity demanded can exceed quantity supplied, creating a shortage. If a price floor is placed above the market-clearing price, quantity supplied can exceed quantity demanded, creating a surplus. The textbook margin note says to review Chapter 3, but it gives no additional concept here.",
+    "flashcards": [
+      {
+        "question": "How do a price ceiling and a price floor differ?",
+        "answer": "A price ceiling sets a legal maximum price, while a price floor sets a legal minimum price."
+      },
+      {
+        "question": "When can a price ceiling create a shortage?",
+        "answer": "When it is placed below the market-clearing price, so quantity demanded exceeds quantity supplied."
+      },
+      {
+        "question": "When can a price floor create a surplus?",
+        "answer": "When it is placed above the market-clearing price, so quantity supplied exceeds quantity demanded."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0009",
+    "source": "Operant conditioning changes behavior through consequences. Reinforcement increases the likelihood of a behavior, while punishment decreases it. Positive reinforcement adds a desirable consequence after a behavior, whereas negative reinforcement removes an unpleasant condition after a behavior. Negative reinforcement is often confused with punishment, but in this passage it increases behavior by removing something unpleasant. The example worksheet was printed on blue paper.",
+    "flashcards": [
+      {
+        "question": "How do reinforcement and punishment differ in operant conditioning?",
+        "answer": "Reinforcement increases the likelihood of a behavior, while punishment decreases it."
+      },
+      {
+        "question": "How do positive reinforcement and negative reinforcement differ?",
+        "answer": "Positive reinforcement adds a desirable consequence, while negative reinforcement removes an unpleasant condition."
+      },
+      {
+        "question": "Why is negative reinforcement not the same as punishment in the passage?",
+        "answer": "Negative reinforcement increases behavior by removing something unpleasant, while punishment decreases behavior."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0010",
+    "source": "Photosynthesis can be described as a two-part process. In the light-dependent reactions, chlorophyll captures light energy and water is split, releasing oxygen. In the Calvin cycle, carbon dioxide is used to build sugar molecules. The plant pot in the classroom was ceramic and cracked on one side. A useful contrast is that oxygen is released during the light-dependent reactions, while carbon dioxide is used during the Calvin cycle.",
+    "flashcards": [
+      {
+        "question": "What happens during the light-dependent reactions of photosynthesis?",
+        "answer": "Chlorophyll captures light energy and water is split, releasing oxygen."
+      },
+      {
+        "question": "What does the Calvin cycle use carbon dioxide to do?",
+        "answer": "Build sugar molecules."
+      },
+      {
+        "question": "How do oxygen and carbon dioxide differ in the two photosynthesis stages described?",
+        "answer": "Oxygen is released during the light-dependent reactions, while carbon dioxide is used during the Calvin cycle."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0011",
+    "source": "A relational database stores data in tables with rows and columns, while a document database stores records as flexible documents. Relational databases are often chosen when structured relationships and consistent schemas are important. Document databases can be useful when records vary in shape or when developers want to store nested data together. The team ordered sandwiches during the architecture meeting. Choosing between the two depends on the data model and access patterns, not on one type being universally better.",
+    "flashcards": [
+      {
+        "question": "How does a relational database store data compared with a document database?",
+        "answer": "A relational database stores data in tables with rows and columns, while a document database stores records as flexible documents."
+      },
+      {
+        "question": "When might a relational database be preferred according to the passage?",
+        "answer": "When structured relationships and consistent schemas are important."
+      },
+      {
+        "question": "When can a document database be useful?",
+        "answer": "When records vary in shape or developers want to store nested data together."
+      },
+      {
+        "question": "What does the passage say should guide the choice between relational and document databases?",
+        "answer": "The data model and access patterns."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0012",
+    "source": "A scientific investigation often begins with a question, followed by a testable hypothesis. The researcher then designs a procedure, collects observations or measurements, analyzes the data, and compares the results with the hypothesis. If the results do not support the hypothesis, that does not make the experiment useless; it can still rule out an explanation or guide a better question. The lab coats were stored in cabinet B after class.",
+    "flashcards": [
+      {
+        "question": "What sequence of steps does the passage describe for a scientific investigation?",
+        "answer": "Ask a question, form a testable hypothesis, design a procedure, collect observations or measurements, analyze data, and compare results with the hypothesis."
+      },
+      {
+        "question": "Why can an experiment still be useful if results do not support the hypothesis?",
+        "answer": "It can rule out an explanation or guide a better question."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0013",
+    "source": "In a network, TCP and UDP both transport data between devices, but they make different tradeoffs. TCP establishes a connection and includes mechanisms for ordering and retransmitting lost data. UDP sends datagrams without setting up a reliable connection, which can reduce overhead but leaves reliability to the application if needed. The router sticker listed an old support phone number. Applications that need every byte in order may prefer TCP, while applications that can tolerate occasional loss may choose UDP.",
+    "flashcards": [
+      {
+        "question": "How does TCP handle reliability compared with UDP?",
+        "answer": "TCP includes mechanisms for ordering and retransmitting lost data, while UDP sends datagrams without setting up a reliable connection."
+      },
+      {
+        "question": "What tradeoff can UDP provide compared with TCP?",
+        "answer": "UDP can reduce overhead but leaves reliability to the application if needed."
+      },
+      {
+        "question": "When might an application prefer TCP over UDP?",
+        "answer": "When it needs every byte to arrive in order."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0014",
+    "source": "Document metadata: Exported by NotesApp 4.2. Owner field: pending. This page intentionally left mostly blank. Reminder to self: choose a better title. Footer code: QX-17-DRAFT. No course content has been added yet.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0015",
+    "source": "Sound waves and light waves differ in the medium they require. Sound is a mechanical wave, so it needs matter such as air, water, or solids to travel. Light is an electromagnetic wave and can travel through empty space. When a sound source moves toward a listener, the observed pitch can increase because wavefronts arrive closer together. The concert ticket in the example cost 12 dollars, but the price is not part of the science concept.",
+    "flashcards": [
+      {
+        "question": "Why does sound require a medium while light can travel through empty space?",
+        "answer": "Sound is a mechanical wave that needs matter to travel, while light is an electromagnetic wave."
+      },
+      {
+        "question": "What happens to observed pitch when a sound source moves toward a listener in the passage?",
+        "answer": "The observed pitch can increase because wavefronts arrive closer together."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0016",
+    "source": "A market economy and a command economy allocate resources through different decision systems. In a market economy, prices and voluntary exchanges help coordinate production and consumption. In a command economy, central planners make many major decisions about what to produce and how to distribute it. Most real economies contain some mixture of market decisions and government planning. The spreadsheet tab was named FINAL_final_v3.",
+    "flashcards": [
+      {
+        "question": "How does resource allocation differ between a market economy and a command economy?",
+        "answer": "A market economy uses prices and voluntary exchanges, while a command economy relies on central planners for many major decisions."
+      },
+      {
+        "question": "What qualification does the passage make about real economies?",
+        "answer": "Most real economies contain some mixture of market decisions and government planning."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0017",
+    "source": "DNA replication is a multi-step process. First, the two strands of the DNA molecule separate. Next, each original strand serves as a template for building a complementary new strand. Because each resulting DNA molecule contains one original strand and one newly made strand, the process is called semiconservative replication. The sample tube label was written in black marker.",
+    "flashcards": [
+      {
+        "question": "What are the main steps of DNA replication described in the passage?",
+        "answer": "The DNA strands separate, and each original strand serves as a template for building a complementary new strand."
+      },
+      {
+        "question": "Why is DNA replication called semiconservative in the passage?",
+        "answer": "Each resulting DNA molecule contains one original strand and one newly made strand."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0018",
+    "source": "An electric circuit needs a closed path for charge to flow. A switch interrupts or completes that path: when the switch is open, the circuit is broken; when the switch is closed, current can flow if a power source is present. Components arranged in series share one path, so a break anywhere stops current through the whole path. Components arranged in parallel have separate paths, so one branch can fail while another still works. The wires in the classroom kit were stored in a red pouch.",
+    "flashcards": [
+      {
+        "question": "What condition is needed for charge to flow in an electric circuit?",
+        "answer": "A closed path is needed for charge to flow."
+      },
+      {
+        "question": "How do open and closed switches differ in a circuit?",
+        "answer": "An open switch breaks the circuit, while a closed switch completes the path so current can flow if a power source is present."
+      },
+      {
+        "question": "How do series and parallel circuits differ when one part of the circuit breaks?",
+        "answer": "In series, a break anywhere stops current through the whole path; in parallel, one branch can fail while another still works."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0019",
+    "source": "The Industrial Revolution changed production by shifting many goods from handcraft workshops to machine-powered factories. This process increased output and reduced the time needed to make some goods. It also drew many workers into growing cities, where jobs were available but living conditions could be crowded. The factory photograph on the slide was taken from a public archive and has a torn corner.",
+    "flashcards": [
+      {
+        "question": "How did the Industrial Revolution change production methods?",
+        "answer": "It shifted many goods from handcraft workshops to machine-powered factories."
+      },
+      {
+        "question": "What production effects of the Industrial Revolution are described in the passage?",
+        "answer": "It increased output and reduced the time needed to make some goods."
+      },
+      {
+        "question": "What urban effect of the Industrial Revolution is described?",
+        "answer": "It drew many workers into growing cities where jobs were available but living conditions could be crowded."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0020",
+    "source": "A hypothesis test compares observed data with what would be expected if a null hypothesis were true. First, the researcher states the null and alternative hypotheses. Then they choose a significance level, calculate a test statistic or p-value, and decide whether the evidence is strong enough to reject the null hypothesis. A small p-value does not prove the alternative hypothesis is true; it indicates that the observed data would be unlikely under the null hypothesis. The calculator battery cover was missing during the example.",
+    "flashcards": [
+      {
+        "question": "What does a hypothesis test compare observed data against?",
+        "answer": "What would be expected if a null hypothesis were true."
+      },
+      {
+        "question": "What sequence of steps for hypothesis testing is described in the passage?",
+        "answer": "State the null and alternative hypotheses, choose a significance level, calculate a test statistic or p-value, and decide whether to reject the null hypothesis."
+      },
+      {
+        "question": "What does a small p-value indicate according to the passage?",
+        "answer": "That the observed data would be unlikely under the null hypothesis."
+      },
+      {
+        "question": "What misconception about small p-values does the passage correct?",
+        "answer": "A small p-value does not prove the alternative hypothesis is true."
+      }
+    ]
+  }
+]

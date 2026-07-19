@@ -1,0 +1,22 @@
+.DS_Store
+__pycache__/
+**pycache**/
+*.py[cod]
+*.pyc
+
+.venv/
+venv/
+.env
+.cache/
+models/
+fused/
+logs/
+
+# Local model/adapter weights. Use Git LFS if you want to publish them.
+adapters/flashcards-v1/000*_adapters.safetensors
+adapters/**/*.safetensors
+*.gguf
+
+# Temporary outputs
+*.tmp
+*_rejected.json

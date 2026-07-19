@@ -1,0 +1,372 @@
+[
+  {
+    "id": "synthetic_0041",
+    "source": "In a compiler, lexical analysis happens before parsing. The lexer groups raw characters into tokens such as identifiers, keywords, numbers, and operators. The parser then checks whether the token sequence fits the grammar of the programming language. A common misconception is that the parser reads individual characters directly; in this pipeline, it usually consumes tokens produced by the lexer. Draft note: diagram placeholder will be added later.",
+    "flashcards": [
+      {
+        "question": "In a typical compiler pipeline, what does lexical analysis produce for the parser?",
+        "answer": "It groups raw characters into tokens such as identifiers, keywords, numbers, and operators."
+      },
+      {
+        "question": "What does parsing check after lexical analysis?",
+        "answer": "It checks whether the token sequence fits the programming language grammar."
+      },
+      {
+        "question": "What misconception about parsers is corrected by the compiler passage?",
+        "answer": "The parser usually consumes tokens from the lexer rather than reading individual characters directly."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0042",
+    "source": "Dropout is a training technique in which some neural network units are randomly ignored during each update. This makes the model less able to depend on any single unit and can reduce overfitting. Dropout is used during training, but it is normally turned off during evaluation so predictions are made with the full network behavior. The seminar room changed from 204 to 206.",
+    "flashcards": [
+      {
+        "question": "How does dropout operate during neural network training?",
+        "answer": "It randomly ignores some units during each update."
+      },
+      {
+        "question": "Why can dropout reduce overfitting?",
+        "answer": "It makes the model less able to depend on any single unit."
+      },
+      {
+        "question": "How is dropout typically handled during evaluation?",
+        "answer": "It is normally turned off so predictions use the full network behavior."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0043",
+    "source": "In plant cells, chloroplasts carry out photosynthesis, while mitochondria release usable energy from sugars. Both organelles have membranes, but they perform different jobs. Photosynthesis uses light energy to build sugars, whereas cellular respiration breaks sugars down to make energy available for the cell. Label color in the handout is green, but that color choice is not part of the concept.",
+    "flashcards": [
+      {
+        "question": "How do chloroplasts and mitochondria differ in their roles in plant cells?",
+        "answer": "Chloroplasts carry out photosynthesis, while mitochondria release usable energy from sugars."
+      },
+      {
+        "question": "What does photosynthesis do with light energy?",
+        "answer": "It uses light energy to build sugars."
+      },
+      {
+        "question": "What does cellular respiration do to sugars?",
+        "answer": "It breaks sugars down to make energy available for the cell."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0044",
+    "source": "A net force causes an object's motion to change; if the forces on an object are balanced, its velocity does not change. More mass means the same net force produces less acceleration. This relationship is summarized by F = ma, where force equals mass times acceleration. Do not confuse constant velocity with no forces at all: constant velocity can also occur when forces cancel.",
+    "flashcards": [
+      {
+        "question": "What happens to an object's motion when a net force acts on it?",
+        "answer": "Its motion changes."
+      },
+      {
+        "question": "How does greater mass affect acceleration under the same net force?",
+        "answer": "Greater mass produces less acceleration."
+      },
+      {
+        "question": "What relationship is expressed by F = ma?",
+        "answer": "Force equals mass times acceleration."
+      },
+      {
+        "question": "Why does constant velocity not necessarily mean no forces are acting?",
+        "answer": "Constant velocity can occur when forces are balanced and cancel."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0045",
+    "source": "During the Columbian Exchange, crops, animals, people, and diseases moved between the Americas, Europe, and Africa after sustained contact began. Potatoes and maize became important food crops in parts of Europe, while horses and cattle were introduced to many regions of the Americas. Diseases carried from the Old World had devastating effects on Indigenous populations that lacked prior exposure. The term does not describe a single shipment or a one-year event, but a long process of exchange.",
+    "flashcards": [
+      {
+        "question": "What broad movement does the Columbian Exchange describe?",
+        "answer": "The movement of crops, animals, people, and diseases between the Americas, Europe, and Africa after sustained contact began."
+      },
+      {
+        "question": "Which crops from the Columbian Exchange became important in parts of Europe?",
+        "answer": "Potatoes and maize."
+      },
+      {
+        "question": "How did Old World diseases affect Indigenous populations in the Americas?",
+        "answer": "They had devastating effects on populations that lacked prior exposure."
+      },
+      {
+        "question": "What misconception about the Columbian Exchange does the source correct?",
+        "answer": "It was not a single shipment or one-year event, but a long process of exchange."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0046",
+    "source": "Opportunity cost is the value of the best alternative given up when a choice is made. It is not the total value of all possible alternatives combined. For example, if a student spends an evening working a paid shift instead of studying or attending a concert, the opportunity cost is whichever forgone option was the most valuable to that student. The example assumes the student can choose only one activity that evening.",
+    "flashcards": [
+      {
+        "question": "How is opportunity cost determined when making a choice?",
+        "answer": "It is the value of the best alternative given up."
+      },
+      {
+        "question": "What is a common misconception about opportunity cost?",
+        "answer": "It is not the total value of all possible alternatives combined."
+      },
+      {
+        "question": "In the student example, what condition determines the opportunity cost of working a paid shift?",
+        "answer": "The opportunity cost is the most valuable forgone option, assuming the student can choose only one activity."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0047",
+    "source": "Working memory holds a small amount of information in an active state for short periods. It supports tasks such as following multi-step directions, doing mental arithmetic, or keeping part of a sentence in mind while reading the rest. Long-term memory differs because it stores information over much longer intervals. Writing a phone number on a note reduces the need to keep all of it active in working memory.",
+    "flashcards": [
+      {
+        "question": "What role does working memory play in cognition?",
+        "answer": "It holds a small amount of information in an active state for short periods."
+      },
+      {
+        "question": "How does long-term memory differ from working memory in the passage?",
+        "answer": "Long-term memory stores information over much longer intervals."
+      },
+      {
+        "question": "Why can writing down a phone number help with working memory demands?",
+        "answer": "It reduces the need to keep all of the number active in working memory."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0048",
+    "source": "Document status: Version 0.3. Reviewer initials: TK. Insert table here. The final workshop time will be confirmed after facilities sends the room list. Please ignore the old banner image in the header.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0049",
+    "source": "A scientific hypothesis must be testable: there must be some observation or experiment that could count against it. A hypothesis can be useful even before it is proven, because it guides predictions and data collection. However, a statement that explains every possible outcome equally well is not very useful as a scientific hypothesis. The word hypothesis in everyday speech may simply mean a guess, but in science it carries this testability requirement.",
+    "flashcards": [
+      {
+        "question": "What makes a hypothesis testable in science?",
+        "answer": "There must be some observation or experiment that could count against it."
+      },
+      {
+        "question": "How can a hypothesis be useful before it is proven?",
+        "answer": "It can guide predictions and data collection."
+      },
+      {
+        "question": "Why is a statement that explains every possible outcome equally well weak as a scientific hypothesis?",
+        "answer": "Because it is not very useful under the scientific requirement of testability."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0050",
+    "source": "In public-key cryptography, each user has a public key that can be shared and a private key that must be kept secret. A message encrypted with a recipient's public key is intended to be decrypted with that recipient's private key. Digital signatures use the relationship differently: the signer uses a private key, and others can use the corresponding public key to check the signature. Public keys are not passwords, so sharing them is part of the design.",
+    "flashcards": [
+      {
+        "question": "How are public and private keys meant to differ in public-key cryptography?",
+        "answer": "The public key can be shared, while the private key must be kept secret."
+      },
+      {
+        "question": "Which key is used to decrypt a message encrypted with a recipient's public key?",
+        "answer": "The recipient's private key."
+      },
+      {
+        "question": "How do digital signatures use private and public keys?",
+        "answer": "The signer uses a private key, and others use the corresponding public key to check the signature."
+      },
+      {
+        "question": "Why is sharing a public key not treated like sharing a password?",
+        "answer": "Because public keys are designed to be shared."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0051",
+    "source": "In supervised learning, a model is trained with examples that include both inputs and desired outputs. Classification predicts categories, such as spam or not spam, while regression predicts numerical values, such as a house price. A high training score alone does not guarantee good performance on new data, because the model may have memorized patterns that do not generalize. The classroom example used blue sticky notes, but the color has no technical meaning.",
+    "flashcards": [
+      {
+        "question": "What kind of examples are used in supervised learning?",
+        "answer": "Examples that include both inputs and desired outputs."
+      },
+      {
+        "question": "How do classification and regression differ in supervised learning?",
+        "answer": "Classification predicts categories, while regression predicts numerical values."
+      },
+      {
+        "question": "Why can a high training score fail to indicate good performance on new data?",
+        "answer": "The model may have memorized patterns that do not generalize."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0052",
+    "source": "Antibiotics target bacteria, not viruses. Taking antibiotics for a viral infection does not directly treat the virus and can contribute to antibiotic resistance by favoring bacteria that survive exposure. Resistance does not mean the human body becomes resistant; it means bacteria become harder to kill with the drug. Doctors may still prescribe antibiotics when a bacterial infection is present or strongly suspected.",
+    "flashcards": [
+      {
+        "question": "Why do antibiotics not directly treat viral infections?",
+        "answer": "Antibiotics target bacteria, not viruses."
+      },
+      {
+        "question": "How can unnecessary antibiotic use contribute to resistance?",
+        "answer": "It can favor bacteria that survive drug exposure."
+      },
+      {
+        "question": "What does antibiotic resistance mean according to the source?",
+        "answer": "Bacteria become harder to kill with the drug, not that the human body becomes resistant."
+      },
+      {
+        "question": "When may doctors still prescribe antibiotics?",
+        "answer": "When a bacterial infection is present or strongly suspected."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0053",
+    "source": "Sound travels as a wave through a medium such as air, water, or a solid. In a vacuum, there is no material medium to carry the vibration, so sound cannot travel there. Light is different because it can travel through a vacuum. Louder sound has greater amplitude, while higher pitch corresponds to higher frequency in this simplified description.",
+    "flashcards": [
+      {
+        "question": "Why can sound not travel through a vacuum?",
+        "answer": "There is no material medium to carry the vibration."
+      },
+      {
+        "question": "How does light differ from sound in the passage?",
+        "answer": "Light can travel through a vacuum, while sound needs a medium."
+      },
+      {
+        "question": "In the simplified sound description, what do amplitude and frequency correspond to?",
+        "answer": "Greater amplitude corresponds to louder sound, and higher frequency corresponds to higher pitch."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0054",
+    "source": "The water cycle moves water among the atmosphere, land, and bodies of water. Evaporation changes liquid water into vapor, condensation forms clouds from water vapor, and precipitation returns water to Earth's surface as rain, snow, sleet, or hail. Runoff moves water across land into streams and rivers. The cycle has no single starting point, even though diagrams often begin with evaporation for convenience.",
+    "flashcards": [
+      {
+        "question": "What regions does the water cycle move water among?",
+        "answer": "The atmosphere, land, and bodies of water."
+      },
+      {
+        "question": "How do evaporation, condensation, and precipitation differ in the water cycle?",
+        "answer": "Evaporation changes liquid water into vapor, condensation forms clouds from vapor, and precipitation returns water to Earth's surface."
+      },
+      {
+        "question": "What is runoff in the water cycle?",
+        "answer": "Water moving across land into streams and rivers."
+      },
+      {
+        "question": "What misconception can water cycle diagrams create?",
+        "answer": "They may imply the cycle has a single starting point, although it does not."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0055",
+    "source": "After World War II, the Marshall Plan provided U.S. aid to help rebuild European economies. The program aimed to support recovery and reduce the instability that could make extremist politics more attractive. It was economic aid, not a military alliance. In contrast, NATO was created as a collective defense organization. Page footer: revised map credits pending.",
+    "flashcards": [
+      {
+        "question": "What was the purpose of the Marshall Plan after World War II?",
+        "answer": "To provide U.S. aid to help rebuild European economies."
+      },
+      {
+        "question": "How was the Marshall Plan intended to affect political instability?",
+        "answer": "It aimed to support recovery and reduce instability that could make extremist politics more attractive."
+      },
+      {
+        "question": "How did the Marshall Plan differ from NATO in the passage?",
+        "answer": "The Marshall Plan was economic aid, while NATO was a collective defense organization."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0056",
+    "source": "Inflation is a sustained rise in the general price level, not merely one expensive item. If wages do not rise as quickly as prices, households can buy less with the same income. Central banks may raise interest rates to reduce borrowing and spending, which can slow price increases. This policy can also slow economic activity, so it involves a tradeoff.",
+    "flashcards": [
+      {
+        "question": "How does the passage distinguish inflation from a single high price?",
+        "answer": "Inflation is a sustained rise in the general price level, not merely one expensive item."
+      },
+      {
+        "question": "What happens to household purchasing power if prices rise faster than wages?",
+        "answer": "Households can buy less with the same income."
+      },
+      {
+        "question": "Why might a central bank raise interest rates during inflation?",
+        "answer": "To reduce borrowing and spending, which can slow price increases."
+      },
+      {
+        "question": "What tradeoff can come with raising interest rates to fight inflation?",
+        "answer": "It can also slow economic activity."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0057",
+    "source": "The bystander effect describes the tendency for people to be less likely to help when other potential helpers are present. One reason is diffusion of responsibility: each person may assume someone else will act. The effect is not a rule that nobody helps in groups; it describes a tendency that can be reduced when one person is directly asked to help. Reminder: replace stock photo before publishing.",
+    "flashcards": [
+      {
+        "question": "What tendency does the bystander effect describe?",
+        "answer": "People may be less likely to help when other potential helpers are present."
+      },
+      {
+        "question": "How does diffusion of responsibility help explain the bystander effect?",
+        "answer": "Each person may assume someone else will act."
+      },
+      {
+        "question": "What qualification does the passage give about the bystander effect?",
+        "answer": "It is a tendency, not a rule that nobody helps in groups."
+      },
+      {
+        "question": "What can reduce the bystander effect according to the passage?",
+        "answer": "Directly asking one person to help."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0058",
+    "source": "A hash table stores key-value pairs and uses a hash function to choose where a key should go. When two keys map to the same location, a collision occurs. One way to handle collisions is chaining, where each table slot can hold a small collection of entries. Hash tables are often fast for lookups, but poor hash functions or too many collisions can reduce that advantage.",
+    "flashcards": [
+      {
+        "question": "How does a hash table decide where a key should go?",
+        "answer": "It uses a hash function to choose the location."
+      },
+      {
+        "question": "When does a collision occur in a hash table?",
+        "answer": "When two keys map to the same location."
+      },
+      {
+        "question": "How does chaining handle hash table collisions?",
+        "answer": "Each table slot can hold a small collection of entries."
+      },
+      {
+        "question": "What can reduce the lookup advantage of a hash table?",
+        "answer": "Poor hash functions or too many collisions."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0059",
+    "source": "Agenda placeholder: welcome music, coffee pickup, seating chart, sponsor slide, break reminder. Presenter bio will be pasted here after approval. The session title is still undecided.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0060",
+    "source": "Negative feedback helps a system resist change by using the result of a process to reduce further movement in the same direction. A home thermostat is a simple example: when the room becomes warmer than the set point, heating turns off. Positive feedback works differently because it amplifies change instead of reducing it. Not every feedback loop is harmful; the effect depends on how the loop changes the system.",
+    "flashcards": [
+      {
+        "question": "How does negative feedback help a system resist change?",
+        "answer": "It uses the result of a process to reduce further movement in the same direction."
+      },
+      {
+        "question": "How does the thermostat example illustrate negative feedback?",
+        "answer": "When the room becomes warmer than the set point, heating turns off."
+      },
+      {
+        "question": "How does positive feedback differ from negative feedback?",
+        "answer": "Positive feedback amplifies change instead of reducing it."
+      },
+      {
+        "question": "What misconception about feedback loops does the source address?",
+        "answer": "Not every feedback loop is harmful; the effect depends on how the loop changes the system."
+      }
+    ]
+  }
+]

@@ -1,0 +1,348 @@
+[
+  {
+    "id": "synthetic_0141",
+    "source": "In computer science, a cache miss occurs because requested data is absent from the cache. As a result, the system must fetch the data from a slower source. This is most likely when the cache has no fresh entry for the requested key. A reminder at the bottom says to bring pencils next week. A cache miss is not always an error; it can be a normal lookup outcome.",
+    "flashcards": [
+      {
+        "question": "What causes a cache miss according to the passage?",
+        "answer": "requested data is absent from the cache"
+      },
+      {
+        "question": "What effect can a cache miss have?",
+        "answer": "the system must fetch the data from a slower source"
+      },
+      {
+        "question": "Under what condition is a cache miss most likely?",
+        "answer": "the cache has no fresh entry for the requested key"
+      },
+      {
+        "question": "What misconception about a cache miss is corrected?",
+        "answer": "A cache miss is not always an error; it can be a normal lookup outcome."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0142",
+    "source": "The cause-and-effect chain for a cache miss is specific: requested data is absent from the cache, which means the system must fetch the data from a slower source. The condition that makes the chain relevant is that the cache has no fresh entry for the requested key. A cache miss is not always an error; it can be a normal lookup outcome. A reminder at the bottom says to bring pencils next week.",
+    "flashcards": [
+      {
+        "question": "What cause-and-effect chain is described for a cache miss?",
+        "answer": "requested data is absent from the cache, which means the system must fetch the data from a slower source."
+      },
+      {
+        "question": "What condition makes a cache miss relevant in the passage?",
+        "answer": "the cache has no fresh entry for the requested key"
+      },
+      {
+        "question": "What should not be misunderstood about a cache miss?",
+        "answer": "A cache miss is not always an error; it can be a normal lookup outcome."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0143",
+    "source": "A misleading explanation of a cache miss ignores the condition behind it. The passage says the condition is the cache has no fresh entry for the requested key. When that condition is present, requested data is absent from the cache, so the system must fetch the data from a slower source. A reminder at the bottom says to bring pencils next week. The stated correction is: A cache miss is not always an error; it can be a normal lookup outcome.",
+    "flashcards": [
+      {
+        "question": "Why is the condition important for understanding a cache miss?",
+        "answer": "Because when the cache has no fresh entry for the requested key, requested data is absent from the cache, so the system must fetch the data from a slower source."
+      },
+      {
+        "question": "What outcome follows from a cache miss in the passage?",
+        "answer": "the system must fetch the data from a slower source"
+      },
+      {
+        "question": "What correction does the passage give about a cache miss?",
+        "answer": "A cache miss is not always an error; it can be a normal lookup outcome."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0144",
+    "source": "Archive note: This folder contains draft assets, unused icons, and a blank consent form. The orange tab is for sorting only. Batch marker 8, item position 4.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0145",
+    "source": "In computer science, SQL injection occurs because untrusted input is treated as part of a database command. As a result, an attacker may alter the intended query. This is most likely when queries are built by concatenating raw input into SQL text. The filename on the projector included the word final twice. Escaping or parameterizing input addresses the command construction problem.",
+    "flashcards": [
+      {
+        "question": "What causes SQL injection according to the passage?",
+        "answer": "untrusted input is treated as part of a database command"
+      },
+      {
+        "question": "What effect can SQL injection have?",
+        "answer": "an attacker may alter the intended query"
+      },
+      {
+        "question": "Under what condition is SQL injection most likely?",
+        "answer": "queries are built by concatenating raw input into SQL text"
+      },
+      {
+        "question": "What misconception about SQL injection is corrected?",
+        "answer": "Escaping or parameterizing input addresses the command construction problem."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0146",
+    "source": "The cause-and-effect chain for SQL injection is specific: untrusted input is treated as part of a database command, which means an attacker may alter the intended query. The condition that makes the chain relevant is that queries are built by concatenating raw input into SQL text. Escaping or parameterizing input addresses the command construction problem. The filename on the projector included the word final twice.",
+    "flashcards": [
+      {
+        "question": "What cause-and-effect chain is described for SQL injection?",
+        "answer": "untrusted input is treated as part of a database command, which means an attacker may alter the intended query."
+      },
+      {
+        "question": "What condition makes SQL injection relevant in the passage?",
+        "answer": "queries are built by concatenating raw input into SQL text"
+      },
+      {
+        "question": "What should not be misunderstood about SQL injection?",
+        "answer": "Escaping or parameterizing input addresses the command construction problem."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0147",
+    "source": "A misleading explanation of SQL injection ignores the condition behind it. The passage says the condition is queries are built by concatenating raw input into SQL text. When that condition is present, untrusted input is treated as part of a database command, so an attacker may alter the intended query. The filename on the projector included the word final twice. The stated correction is: Escaping or parameterizing input addresses the command construction problem.",
+    "flashcards": [
+      {
+        "question": "Why is the condition important for understanding SQL injection?",
+        "answer": "Because when queries are built by concatenating raw input into SQL text, untrusted input is treated as part of a database command, so an attacker may alter the intended query."
+      },
+      {
+        "question": "What outcome follows from SQL injection in the passage?",
+        "answer": "an attacker may alter the intended query"
+      },
+      {
+        "question": "What correction does the passage give about SQL injection?",
+        "answer": "Escaping or parameterizing input addresses the command construction problem."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0148",
+    "source": "In computer science, a memory leak occurs because allocated memory remains reachable or unreleased after it is no longer useful. As a result, available memory can shrink over time. This is most likely when long-running programs repeatedly keep unneeded allocations. The classroom window was open during the demonstration. A leak can exist even if the program has not crashed yet.",
+    "flashcards": [
+      {
+        "question": "What causes a memory leak according to the passage?",
+        "answer": "allocated memory remains reachable or unreleased after it is no longer useful"
+      },
+      {
+        "question": "What effect can a memory leak have?",
+        "answer": "available memory can shrink over time"
+      },
+      {
+        "question": "Under what condition is a memory leak most likely?",
+        "answer": "long-running programs repeatedly keep unneeded allocations"
+      },
+      {
+        "question": "What misconception about a memory leak is corrected?",
+        "answer": "A leak can exist even if the program has not crashed yet."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0149",
+    "source": "The cause-and-effect chain for a memory leak is specific: allocated memory remains reachable or unreleased after it is no longer useful, which means available memory can shrink over time. The condition that makes the chain relevant is that long-running programs repeatedly keep unneeded allocations. A leak can exist even if the program has not crashed yet. The classroom window was open during the demonstration.",
+    "flashcards": [
+      {
+        "question": "What cause-and-effect chain is described for a memory leak?",
+        "answer": "allocated memory remains reachable or unreleased after it is no longer useful, which means available memory can shrink over time."
+      },
+      {
+        "question": "What condition makes a memory leak relevant in the passage?",
+        "answer": "long-running programs repeatedly keep unneeded allocations"
+      },
+      {
+        "question": "What should not be misunderstood about a memory leak?",
+        "answer": "A leak can exist even if the program has not crashed yet."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0150",
+    "source": "A misleading explanation of a memory leak ignores the condition behind it. The passage says the condition is long-running programs repeatedly keep unneeded allocations. When that condition is present, allocated memory remains reachable or unreleased after it is no longer useful, so available memory can shrink over time. The classroom window was open during the demonstration. The stated correction is: A leak can exist even if the program has not crashed yet.",
+    "flashcards": [
+      {
+        "question": "Why is the condition important for understanding a memory leak?",
+        "answer": "Because when long-running programs repeatedly keep unneeded allocations, allocated memory remains reachable or unreleased after it is no longer useful, so available memory can shrink over time."
+      },
+      {
+        "question": "What outcome follows from a memory leak in the passage?",
+        "answer": "available memory can shrink over time"
+      },
+      {
+        "question": "What correction does the passage give about a memory leak?",
+        "answer": "A leak can exist even if the program has not crashed yet."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0151",
+    "source": "In machine learning, a training set and a validation set both contain examples used during model development, but they differ in their role in evaluation. A training set is used to update model parameters. A validation set is used to estimate performance on examples not directly trained on. The note was printed with a wide left margin for hole punching. Validation results guide model choices, but they should not be treated as final test results.",
+    "flashcards": [
+      {
+        "question": "How do a training set and a validation set differ in machine learning?",
+        "answer": "A training set is used to update model parameters, while a validation set is used to estimate performance on examples not directly trained on."
+      },
+      {
+        "question": "What do a training set and a validation set have in common in the passage?",
+        "answer": "They both contain examples used during model development."
+      },
+      {
+        "question": "What qualification is given about choosing between a training set and a validation set?",
+        "answer": "Validation results guide model choices, but they should not be treated as final test results."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0152",
+    "source": "A comparison in machine learning should start with the task requirement, not the name of the tool. When the requirement matches is used to update model parameters, a training set is the closer fit. When the requirement matches is used to estimate performance on examples not directly trained on, a validation set is the closer fit. The note was printed with a wide left margin for hole punching. The key comparison is their role in evaluation.",
+    "flashcards": [
+      {
+        "question": "What should guide a comparison between a training set and a validation set?",
+        "answer": "The task requirement and the key comparison: their role in evaluation."
+      },
+      {
+        "question": "When is a training set the closer fit according to the passage?",
+        "answer": "When the requirement matches that it is used to update model parameters."
+      },
+      {
+        "question": "When is a validation set the closer fit according to the passage?",
+        "answer": "When the requirement matches that it is used to estimate performance on examples not directly trained on."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0153",
+    "source": "A common misconception in machine learning is that a training set is simply the advanced version of a validation set. The passage instead contrasts them by their role in evaluation: a training set is used to update model parameters, whereas a validation set is used to estimate performance on examples not directly trained on. Validation results guide model choices, but they should not be treated as final test results. The note was printed with a wide left margin for hole punching.",
+    "flashcards": [
+      {
+        "question": "What misconception about a training set and a validation set does the passage reject?",
+        "answer": "That a training set is simply the advanced version of a validation set."
+      },
+      {
+        "question": "By what basis does the passage contrast a training set and a validation set?",
+        "answer": "their role in evaluation"
+      },
+      {
+        "question": "How does the passage summarize the contrast between a training set and a validation set?",
+        "answer": "A training set is used to update model parameters, whereas a validation set is used to estimate performance on examples not directly trained on."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0154",
+    "source": "Status memo: Waiting for approvals from three reviewers. Replace placeholder initials before publication. Footer code AB-19 appears on all pages. Batch marker 8, item position 14.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0155",
+    "source": "In machine learning, supervised learning and unsupervised learning both learn patterns from data, but they differ in whether target labels are provided. Supervised learning uses examples with known target outputs. Unsupervised learning uses data without target labels. The example slide used a blue border that has no bearing on the concept. Unsupervised learning still receives data; it is not learning from nothing.",
+    "flashcards": [
+      {
+        "question": "How do supervised learning and unsupervised learning differ in machine learning?",
+        "answer": "Supervised learning uses examples with known target outputs, while unsupervised learning uses data without target labels."
+      },
+      {
+        "question": "What do supervised learning and unsupervised learning have in common in the passage?",
+        "answer": "They both learn patterns from data."
+      },
+      {
+        "question": "What qualification is given about choosing between supervised learning and unsupervised learning?",
+        "answer": "Unsupervised learning still receives data; it is not learning from nothing."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0156",
+    "source": "A comparison in machine learning should start with the task requirement, not the name of the tool. When the requirement matches uses examples with known target outputs, supervised learning is the closer fit. When the requirement matches uses data without target labels, unsupervised learning is the closer fit. The example slide used a blue border that has no bearing on the concept. The key comparison is whether target labels are provided.",
+    "flashcards": [
+      {
+        "question": "What should guide a comparison between supervised learning and unsupervised learning?",
+        "answer": "The task requirement and the key comparison: whether target labels are provided."
+      },
+      {
+        "question": "When is supervised learning the closer fit according to the passage?",
+        "answer": "When the requirement matches that it uses examples with known target outputs."
+      },
+      {
+        "question": "When is unsupervised learning the closer fit according to the passage?",
+        "answer": "When the requirement matches that it uses data without target labels."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0157",
+    "source": "A common misconception in machine learning is that supervised learning is simply the advanced version of unsupervised learning. The passage instead contrasts them by whether target labels are provided: supervised learning uses examples with known target outputs, whereas unsupervised learning uses data without target labels. Unsupervised learning still receives data; it is not learning from nothing. The example slide used a blue border that has no bearing on the concept.",
+    "flashcards": [
+      {
+        "question": "What misconception about supervised learning and unsupervised learning does the passage reject?",
+        "answer": "That supervised learning is simply the advanced version of unsupervised learning."
+      },
+      {
+        "question": "By what basis does the passage contrast supervised learning and unsupervised learning?",
+        "answer": "whether target labels are provided"
+      },
+      {
+        "question": "How does the passage summarize the contrast between supervised learning and unsupervised learning?",
+        "answer": "Supervised learning uses examples with known target outputs, whereas unsupervised learning uses data without target labels."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0158",
+    "source": "In machine learning, classification and regression both make predictions from input features, but they differ in the type of output predicted. Classification predicts categories or labels. Regression predicts numeric values. A reminder at the bottom says to bring pencils next week. The input format can look similar even when the prediction target differs.",
+    "flashcards": [
+      {
+        "question": "How do classification and regression differ in machine learning?",
+        "answer": "Classification predicts categories or labels, while regression predicts numeric values."
+      },
+      {
+        "question": "What do classification and regression have in common in the passage?",
+        "answer": "They both make predictions from input features."
+      },
+      {
+        "question": "What qualification is given about choosing between classification and regression?",
+        "answer": "The input format can look similar even when the prediction target differs."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0159",
+    "source": "A comparison in machine learning should start with the task requirement, not the name of the tool. When the requirement matches predicts categories or labels, classification is the closer fit. When the requirement matches predicts numeric values, regression is the closer fit. A reminder at the bottom says to bring pencils next week. The key comparison is the type of output predicted.",
+    "flashcards": [
+      {
+        "question": "What should guide a comparison between classification and regression?",
+        "answer": "The task requirement and the key comparison: the type of output predicted."
+      },
+      {
+        "question": "When is classification the closer fit according to the passage?",
+        "answer": "When the requirement matches that it predicts categories or labels."
+      },
+      {
+        "question": "When is regression the closer fit according to the passage?",
+        "answer": "When the requirement matches that it predicts numeric values."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0160",
+    "source": "A common misconception in machine learning is that classification is simply the advanced version of regression. The passage instead contrasts them by the type of output predicted: classification predicts categories or labels, whereas regression predicts numeric values. The input format can look similar even when the prediction target differs. A reminder at the bottom says to bring pencils next week.",
+    "flashcards": [
+      {
+        "question": "What misconception about classification and regression does the passage reject?",
+        "answer": "That classification is simply the advanced version of regression."
+      },
+      {
+        "question": "By what basis does the passage contrast classification and regression?",
+        "answer": "the type of output predicted"
+      },
+      {
+        "question": "How does the passage summarize the contrast between classification and regression?",
+        "answer": "Classification predicts categories or labels, whereas regression predicts numeric values."
+      }
+    ]
+  }
+]

@@ -1,0 +1,336 @@
+[
+  {
+    "id": "synthetic_0101",
+    "source": "In computer science, a stack and a queue both store collections of items, but they differ in removal order. A stack removes the most recently added item first. A queue removes the earliest added item first. The note was printed with a wide left margin for hole punching. The better choice depends on whether last-in-first-out or first-in-first-out behavior matches the task.",
+    "flashcards": [
+      {
+        "question": "How do a stack and a queue differ in computer science?",
+        "answer": "A stack removes the most recently added item first, while a queue removes the earliest added item first."
+      },
+      {
+        "question": "What do a stack and a queue have in common in the passage?",
+        "answer": "They both store collections of items."
+      },
+      {
+        "question": "What qualification is given about choosing between a stack and a queue?",
+        "answer": "The better choice depends on whether last-in-first-out or first-in-first-out behavior matches the task."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0102",
+    "source": "A comparison in computer science should start with the task requirement, not the name of the tool. When the requirement matches removes the most recently added item first, a stack is the closer fit. When the requirement matches removes the earliest added item first, a queue is the closer fit. The note was printed with a wide left margin for hole punching. The key comparison is removal order.",
+    "flashcards": [
+      {
+        "question": "What should guide a comparison between a stack and a queue?",
+        "answer": "The task requirement and the key comparison: removal order."
+      },
+      {
+        "question": "When is a stack the closer fit according to the passage?",
+        "answer": "When the requirement matches that it removes the most recently added item first."
+      },
+      {
+        "question": "When is a queue the closer fit according to the passage?",
+        "answer": "When the requirement matches that it removes the earliest added item first."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0103",
+    "source": "A common misconception in computer science is that a stack is simply the advanced version of a queue. The passage instead contrasts them by removal order: a stack removes the most recently added item first, whereas a queue removes the earliest added item first. The better choice depends on whether last-in-first-out or first-in-first-out behavior matches the task. The note was printed with a wide left margin for hole punching.",
+    "flashcards": [
+      {
+        "question": "What misconception about a stack and a queue does the passage reject?",
+        "answer": "That a stack is simply the advanced version of a queue."
+      },
+      {
+        "question": "By what basis does the passage contrast a stack and a queue?",
+        "answer": "removal order"
+      },
+      {
+        "question": "How does the passage summarize the contrast between a stack and a queue?",
+        "answer": "A stack removes the most recently added item first, whereas a queue removes the earliest added item first."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0104",
+    "source": "Document metadata: exported by DraftWriter 2.1. Owner field pending. Placeholder: add content later. The page number is 6 and the footer reads internal draft. Batch marker 6, item position 4.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0105",
+    "source": "In computer science, an array and a linked list both store ordered data, but they differ in how positions are accessed and updated. An array supports direct access by index when positions are known. A linked list stores items through links, which can make insertion easier when a node is already located. The example slide used a blue border that has no bearing on the concept. Neither structure is universally faster because the operation pattern matters.",
+    "flashcards": [
+      {
+        "question": "How do an array and a linked list differ in computer science?",
+        "answer": "An array supports direct access by index when positions are known, while a linked list stores items through links, which can make insertion easier when a node is already located."
+      },
+      {
+        "question": "What do an array and a linked list have in common in the passage?",
+        "answer": "They both store ordered data."
+      },
+      {
+        "question": "What qualification is given about choosing between an array and a linked list?",
+        "answer": "Neither structure is universally faster because the operation pattern matters."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0106",
+    "source": "A comparison in computer science should start with the task requirement, not the name of the tool. When the requirement matches supports direct access by index when positions are known, an array is the closer fit. When the requirement matches stores items through links, which can make insertion easier when a node is already located, a linked list is the closer fit. The example slide used a blue border that has no bearing on the concept. The key comparison is how positions are accessed and updated.",
+    "flashcards": [
+      {
+        "question": "What should guide a comparison between an array and a linked list?",
+        "answer": "The task requirement and the key comparison: how positions are accessed and updated."
+      },
+      {
+        "question": "When is an array the closer fit according to the passage?",
+        "answer": "When the requirement matches that it supports direct access by index when positions are known."
+      },
+      {
+        "question": "When is a linked list the closer fit according to the passage?",
+        "answer": "When the requirement matches that it stores items through links, which can make insertion easier when a node is already located."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0107",
+    "source": "A common misconception in computer science is that an array is simply the advanced version of a linked list. The passage instead contrasts them by how positions are accessed and updated: an array supports direct access by index when positions are known, whereas a linked list stores items through links, which can make insertion easier when a node is already located. Neither structure is universally faster because the operation pattern matters. The example slide used a blue border that has no bearing on the concept.",
+    "flashcards": [
+      {
+        "question": "What misconception about an array and a linked list does the passage reject?",
+        "answer": "That an array is simply the advanced version of a linked list."
+      },
+      {
+        "question": "By what basis does the passage contrast an array and a linked list?",
+        "answer": "how positions are accessed and updated"
+      },
+      {
+        "question": "How does the passage summarize the contrast between an array and a linked list?",
+        "answer": "An array supports direct access by index when positions are known, whereas a linked list stores items through links, which can make insertion easier when a node is already located."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0108",
+    "source": "In computer science, breadth-first search and depth-first search both explore nodes in a graph or tree, but they differ in exploration order. Breadth-first search visits nearby nodes before moving to deeper levels. Depth-first search follows one path deeply before backtracking. A reminder at the bottom says to bring pencils next week. The useful method depends on whether level order or deep path exploration is needed.",
+    "flashcards": [
+      {
+        "question": "How do breadth-first search and depth-first search differ in computer science?",
+        "answer": "Breadth-first search visits nearby nodes before moving to deeper levels, while depth-first search follows one path deeply before backtracking."
+      },
+      {
+        "question": "What do breadth-first search and depth-first search have in common in the passage?",
+        "answer": "They both explore nodes in a graph or tree."
+      },
+      {
+        "question": "What qualification is given about choosing between breadth-first search and depth-first search?",
+        "answer": "The useful method depends on whether level order or deep path exploration is needed."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0109",
+    "source": "A comparison in computer science should start with the task requirement, not the name of the tool. When the requirement matches visits nearby nodes before moving to deeper levels, breadth-first search is the closer fit. When the requirement matches follows one path deeply before backtracking, depth-first search is the closer fit. A reminder at the bottom says to bring pencils next week. The key comparison is exploration order.",
+    "flashcards": [
+      {
+        "question": "What should guide a comparison between breadth-first search and depth-first search?",
+        "answer": "The task requirement and the key comparison: exploration order."
+      },
+      {
+        "question": "When is breadth-first search the closer fit according to the passage?",
+        "answer": "When the requirement matches that it visits nearby nodes before moving to deeper levels."
+      },
+      {
+        "question": "When is depth-first search the closer fit according to the passage?",
+        "answer": "When the requirement matches that it follows one path deeply before backtracking."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0110",
+    "source": "A common misconception in computer science is that breadth-first search is simply the advanced version of depth-first search. The passage instead contrasts them by exploration order: breadth-first search visits nearby nodes before moving to deeper levels, whereas depth-first search follows one path deeply before backtracking. The useful method depends on whether level order or deep path exploration is needed. A reminder at the bottom says to bring pencils next week.",
+    "flashcards": [
+      {
+        "question": "What misconception about breadth-first search and depth-first search does the passage reject?",
+        "answer": "That breadth-first search is simply the advanced version of depth-first search."
+      },
+      {
+        "question": "By what basis does the passage contrast breadth-first search and depth-first search?",
+        "answer": "exploration order"
+      },
+      {
+        "question": "How does the passage summarize the contrast between breadth-first search and depth-first search?",
+        "answer": "Breadth-first search visits nearby nodes before moving to deeper levels, whereas depth-first search follows one path deeply before backtracking."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0111",
+    "source": "In computer science, authentication and authorization both control access in software systems, but they differ in the question they answer. Authentication checks who a user is. Authorization checks what an identified user is allowed to do. The filename on the projector included the word final twice. A login screen may involve both, but the ideas are not identical.",
+    "flashcards": [
+      {
+        "question": "How do authentication and authorization differ in computer science?",
+        "answer": "Authentication checks who a user is, while authorization checks what an identified user is allowed to do."
+      },
+      {
+        "question": "What do authentication and authorization have in common in the passage?",
+        "answer": "They both control access in software systems."
+      },
+      {
+        "question": "What qualification is given about choosing between authentication and authorization?",
+        "answer": "A login screen may involve both, but the ideas are not identical."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0112",
+    "source": "A comparison in computer science should start with the task requirement, not the name of the tool. When the requirement matches checks who a user is, authentication is the closer fit. When the requirement matches checks what an identified user is allowed to do, authorization is the closer fit. The filename on the projector included the word final twice. The key comparison is the question they answer.",
+    "flashcards": [
+      {
+        "question": "What should guide a comparison between authentication and authorization?",
+        "answer": "The task requirement and the key comparison: the question they answer."
+      },
+      {
+        "question": "When is authentication the closer fit according to the passage?",
+        "answer": "When the requirement matches that it checks who a user is."
+      },
+      {
+        "question": "When is authorization the closer fit according to the passage?",
+        "answer": "When the requirement matches that it checks what an identified user is allowed to do."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0113",
+    "source": "A common misconception in computer science is that authentication is simply the advanced version of authorization. The passage instead contrasts them by the question they answer: authentication checks who a user is, whereas authorization checks what an identified user is allowed to do. A login screen may involve both, but the ideas are not identical. The filename on the projector included the word final twice.",
+    "flashcards": [
+      {
+        "question": "What misconception about authentication and authorization does the passage reject?",
+        "answer": "That authentication is simply the advanced version of authorization."
+      },
+      {
+        "question": "By what basis does the passage contrast authentication and authorization?",
+        "answer": "the question they answer"
+      },
+      {
+        "question": "How does the passage summarize the contrast between authentication and authorization?",
+        "answer": "Authentication checks who a user is, whereas authorization checks what an identified user is allowed to do."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0114",
+    "source": "Announcement: Room 214 is unavailable tomorrow. Please use the side entrance and pick up name tags near the registration table. Revision note: delete after sending. Batch marker 6, item position 14.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0115",
+    "source": "In computer science, encryption and hashing both transform data for security-related purposes, but they differ in whether the original data is meant to be recovered. Encryption is designed so authorized parties can recover the original data. Hashing creates a fixed representation that is not meant to be reversed. The classroom window was open during the demonstration. Passwords are commonly checked with hashes rather than stored as recoverable encrypted text.",
+    "flashcards": [
+      {
+        "question": "How do encryption and hashing differ in computer science?",
+        "answer": "Encryption is designed so authorized parties can recover the original data, while hashing creates a fixed representation that is not meant to be reversed."
+      },
+      {
+        "question": "What do encryption and hashing have in common in the passage?",
+        "answer": "They both transform data for security-related purposes."
+      },
+      {
+        "question": "What qualification is given about choosing between encryption and hashing?",
+        "answer": "Passwords are commonly checked with hashes rather than stored as recoverable encrypted text."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0116",
+    "source": "A comparison in computer science should start with the task requirement, not the name of the tool. When the requirement matches is designed so authorized parties can recover the original data, encryption is the closer fit. When the requirement matches creates a fixed representation that is not meant to be reversed, hashing is the closer fit. The classroom window was open during the demonstration. The key comparison is whether the original data is meant to be recovered.",
+    "flashcards": [
+      {
+        "question": "What should guide a comparison between encryption and hashing?",
+        "answer": "The task requirement and the key comparison: whether the original data is meant to be recovered."
+      },
+      {
+        "question": "When is encryption the closer fit according to the passage?",
+        "answer": "When the requirement matches that it is designed so authorized parties can recover the original data."
+      },
+      {
+        "question": "When is hashing the closer fit according to the passage?",
+        "answer": "When the requirement matches that it creates a fixed representation that is not meant to be reversed."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0117",
+    "source": "A common misconception in computer science is that encryption is simply the advanced version of hashing. The passage instead contrasts them by whether the original data is meant to be recovered: encryption is designed so authorized parties can recover the original data, whereas hashing creates a fixed representation that is not meant to be reversed. Passwords are commonly checked with hashes rather than stored as recoverable encrypted text. The classroom window was open during the demonstration.",
+    "flashcards": [
+      {
+        "question": "What misconception about encryption and hashing does the passage reject?",
+        "answer": "That encryption is simply the advanced version of hashing."
+      },
+      {
+        "question": "By what basis does the passage contrast encryption and hashing?",
+        "answer": "whether the original data is meant to be recovered"
+      },
+      {
+        "question": "How does the passage summarize the contrast between encryption and hashing?",
+        "answer": "Encryption is designed so authorized parties can recover the original data, whereas hashing creates a fixed representation that is not meant to be reversed."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0118",
+    "source": "In computer science, DNS lookup is a multi-step process used to turn a domain name into an IP address. First, check a local cache. Next, ask a recursive resolver. Then, follow records from name servers. Finally, return an address that the browser can use. A sticky note on the handout asked someone to refill the stapler. A cached answer can skip several network lookups until it expires.",
+    "flashcards": [
+      {
+        "question": "What sequence of steps describes DNS lookup?",
+        "answer": "check a local cache; ask a recursive resolver; follow records from name servers; return an address that the browser can use."
+      },
+      {
+        "question": "What is the purpose of DNS lookup?",
+        "answer": "To turn a domain name into an IP address."
+      },
+      {
+        "question": "What qualification is stated about DNS lookup?",
+        "answer": "A cached answer can skip several network lookups until it expires."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0119",
+    "source": "Dns lookup can fail when its steps are skipped or mixed together. The process begins when check a local cache, continues as ask a recursive resolver and follow records from name servers, and ends when return an address that the browser can use. A sticky note on the handout asked someone to refill the stapler. The important condition is that a cached answer can skip several network lookups until it expires.",
+    "flashcards": [
+      {
+        "question": "How does DNS lookup begin and end in the passage?",
+        "answer": "It begins when check a local cache and ends when return an address that the browser can use."
+      },
+      {
+        "question": "Which middle steps are described for DNS lookup?",
+        "answer": "ask a recursive resolver and follow records from name servers."
+      },
+      {
+        "question": "What condition or limitation is noted for DNS lookup?",
+        "answer": "A cached answer can skip several network lookups until it expires."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0120",
+    "source": "The early and late stages of DNS lookup do different jobs. Early in the process, check a local cache and ask a recursive resolver. Later, follow records from name servers and return an address that the browser can use. This order supports the goal to turn a domain name into an IP address. A sticky note on the handout asked someone to refill the stapler.",
+    "flashcards": [
+      {
+        "question": "What happens early in DNS lookup?",
+        "answer": "check a local cache and ask a recursive resolver."
+      },
+      {
+        "question": "What happens later in DNS lookup?",
+        "answer": "follow records from name servers and return an address that the browser can use."
+      },
+      {
+        "question": "How does the order of DNS lookup relate to its goal?",
+        "answer": "The ordered steps support the goal to turn a domain name into an IP address."
+      }
+    ]
+  }
+]

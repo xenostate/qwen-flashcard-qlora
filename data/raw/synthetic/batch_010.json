@@ -1,0 +1,356 @@
+[
+  {
+    "id": "synthetic_0181",
+    "source": "In machine learning, model monitoring after deployment is a multi-step process used to detect performance problems after a model is used. First, log inputs and predictions. Next, track quality or drift indicators. Then, compare current behavior with expected behavior. Finally, trigger review when thresholds are crossed. The checklist number in the margin is only an editing reference. Monitoring matters because deployment data can differ from training data.",
+    "flashcards": [
+      {
+        "question": "What sequence of steps describes model monitoring after deployment?",
+        "answer": "log inputs and predictions; track quality or drift indicators; compare current behavior with expected behavior; trigger review when thresholds are crossed."
+      },
+      {
+        "question": "What is the purpose of model monitoring after deployment?",
+        "answer": "To detect performance problems after a model is used."
+      },
+      {
+        "question": "What qualification is stated about model monitoring after deployment?",
+        "answer": "Monitoring matters because deployment data can differ from training data."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0182",
+    "source": "Model monitoring after deployment can fail when its steps are skipped or mixed together. The process begins when log inputs and predictions, continues as track quality or drift indicators and compare current behavior with expected behavior, and ends when trigger review when thresholds are crossed. The checklist number in the margin is only an editing reference. The important condition is that monitoring matters because deployment data can differ from training data.",
+    "flashcards": [
+      {
+        "question": "How does model monitoring after deployment begin and end in the passage?",
+        "answer": "It begins when log inputs and predictions and ends when trigger review when thresholds are crossed."
+      },
+      {
+        "question": "Which middle steps are described for model monitoring after deployment?",
+        "answer": "track quality or drift indicators and compare current behavior with expected behavior."
+      },
+      {
+        "question": "What condition or limitation is noted for model monitoring after deployment?",
+        "answer": "Monitoring matters because deployment data can differ from training data."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0183",
+    "source": "The early and late stages of model monitoring after deployment do different jobs. Early in the process, log inputs and predictions and track quality or drift indicators. Later, compare current behavior with expected behavior and trigger review when thresholds are crossed. This order supports the goal to detect performance problems after a model is used. The checklist number in the margin is only an editing reference.",
+    "flashcards": [
+      {
+        "question": "What happens early in model monitoring after deployment?",
+        "answer": "log inputs and predictions and track quality or drift indicators."
+      },
+      {
+        "question": "What happens later in model monitoring after deployment?",
+        "answer": "compare current behavior with expected behavior and trigger review when thresholds are crossed."
+      },
+      {
+        "question": "How does the order of model monitoring after deployment relate to its goal?",
+        "answer": "The ordered steps support the goal to detect performance problems after a model is used."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0184",
+    "source": "Page setup note: Use letter size paper, landscape orientation, and narrow margins. Placeholder table remains empty. Batch marker 10, item position 4.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0185",
+    "source": "In machine learning, overfitting occurs because a model learns patterns that fit training data too specifically. As a result, training performance can look strong while new-example performance worsens. This is most likely when model complexity is high relative to the useful signal in the data. The note was printed with a wide left margin for hole punching. High training accuracy alone does not prove good generalization.",
+    "flashcards": [
+      {
+        "question": "What causes overfitting according to the passage?",
+        "answer": "a model learns patterns that fit training data too specifically"
+      },
+      {
+        "question": "What effect can overfitting have?",
+        "answer": "training performance can look strong while new-example performance worsens"
+      },
+      {
+        "question": "Under what condition is overfitting most likely?",
+        "answer": "model complexity is high relative to the useful signal in the data"
+      },
+      {
+        "question": "What misconception about overfitting is corrected?",
+        "answer": "High training accuracy alone does not prove good generalization."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0186",
+    "source": "The cause-and-effect chain for overfitting is specific: a model learns patterns that fit training data too specifically, which means training performance can look strong while new-example performance worsens. The condition that makes the chain relevant is that model complexity is high relative to the useful signal in the data. High training accuracy alone does not prove good generalization. The note was printed with a wide left margin for hole punching.",
+    "flashcards": [
+      {
+        "question": "What cause-and-effect chain is described for overfitting?",
+        "answer": "a model learns patterns that fit training data too specifically, which means training performance can look strong while new-example performance worsens."
+      },
+      {
+        "question": "What condition makes overfitting relevant in the passage?",
+        "answer": "model complexity is high relative to the useful signal in the data"
+      },
+      {
+        "question": "What should not be misunderstood about overfitting?",
+        "answer": "High training accuracy alone does not prove good generalization."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0187",
+    "source": "A misleading explanation of overfitting ignores the condition behind it. The passage says the condition is model complexity is high relative to the useful signal in the data. When that condition is present, a model learns patterns that fit training data too specifically, so training performance can look strong while new-example performance worsens. The note was printed with a wide left margin for hole punching. The stated correction is: High training accuracy alone does not prove good generalization.",
+    "flashcards": [
+      {
+        "question": "Why is the condition important for understanding overfitting?",
+        "answer": "Because when model complexity is high relative to the useful signal in the data, a model learns patterns that fit training data too specifically, so training performance can look strong while new-example performance worsens."
+      },
+      {
+        "question": "What outcome follows from overfitting in the passage?",
+        "answer": "training performance can look strong while new-example performance worsens"
+      },
+      {
+        "question": "What correction does the passage give about overfitting?",
+        "answer": "High training accuracy alone does not prove good generalization."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0188",
+    "source": "In machine learning, data leakage occurs because information from evaluation data influences training. As a result, validation or test scores can appear misleadingly high. This is most likely when preprocessing or feature selection uses data that should have been held out. The example slide used a blue border that has no bearing on the concept. Leakage is a data-splitting problem, not a real improvement in learning.",
+    "flashcards": [
+      {
+        "question": "What causes data leakage according to the passage?",
+        "answer": "information from evaluation data influences training"
+      },
+      {
+        "question": "What effect can data leakage have?",
+        "answer": "validation or test scores can appear misleadingly high"
+      },
+      {
+        "question": "Under what condition is data leakage most likely?",
+        "answer": "preprocessing or feature selection uses data that should have been held out"
+      },
+      {
+        "question": "What misconception about data leakage is corrected?",
+        "answer": "Leakage is a data-splitting problem, not a real improvement in learning."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0189",
+    "source": "The cause-and-effect chain for data leakage is specific: information from evaluation data influences training, which means validation or test scores can appear misleadingly high. The condition that makes the chain relevant is that preprocessing or feature selection uses data that should have been held out. Leakage is a data-splitting problem, not a real improvement in learning. The example slide used a blue border that has no bearing on the concept.",
+    "flashcards": [
+      {
+        "question": "What cause-and-effect chain is described for data leakage?",
+        "answer": "information from evaluation data influences training, which means validation or test scores can appear misleadingly high."
+      },
+      {
+        "question": "What condition makes data leakage relevant in the passage?",
+        "answer": "preprocessing or feature selection uses data that should have been held out"
+      },
+      {
+        "question": "What should not be misunderstood about data leakage?",
+        "answer": "Leakage is a data-splitting problem, not a real improvement in learning."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0190",
+    "source": "A misleading explanation of data leakage ignores the condition behind it. The passage says the condition is preprocessing or feature selection uses data that should have been held out. When that condition is present, information from evaluation data influences training, so validation or test scores can appear misleadingly high. The example slide used a blue border that has no bearing on the concept. The stated correction is: Leakage is a data-splitting problem, not a real improvement in learning.",
+    "flashcards": [
+      {
+        "question": "Why is the condition important for understanding data leakage?",
+        "answer": "Because when preprocessing or feature selection uses data that should have been held out, information from evaluation data influences training, so validation or test scores can appear misleadingly high."
+      },
+      {
+        "question": "What outcome follows from data leakage in the passage?",
+        "answer": "validation or test scores can appear misleadingly high"
+      },
+      {
+        "question": "What correction does the passage give about data leakage?",
+        "answer": "Leakage is a data-splitting problem, not a real improvement in learning."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0191",
+    "source": "In machine learning, class imbalance occurs because one class appears much more often than another. As a result, accuracy can hide poor performance on the rare class. This is most likely when the model can do well numerically by mostly predicting the majority class. A reminder at the bottom says to bring pencils next week. A high accuracy score may be weak evidence when classes are very uneven.",
+    "flashcards": [
+      {
+        "question": "What causes class imbalance according to the passage?",
+        "answer": "one class appears much more often than another"
+      },
+      {
+        "question": "What effect can class imbalance have?",
+        "answer": "accuracy can hide poor performance on the rare class"
+      },
+      {
+        "question": "Under what condition is class imbalance most likely?",
+        "answer": "the model can do well numerically by mostly predicting the majority class"
+      },
+      {
+        "question": "What misconception about class imbalance is corrected?",
+        "answer": "A high accuracy score may be weak evidence when classes are very uneven."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0192",
+    "source": "The cause-and-effect chain for class imbalance is specific: one class appears much more often than another, which means accuracy can hide poor performance on the rare class. The condition that makes the chain relevant is that the model can do well numerically by mostly predicting the majority class. A high accuracy score may be weak evidence when classes are very uneven. A reminder at the bottom says to bring pencils next week.",
+    "flashcards": [
+      {
+        "question": "What cause-and-effect chain is described for class imbalance?",
+        "answer": "one class appears much more often than another, which means accuracy can hide poor performance on the rare class."
+      },
+      {
+        "question": "What condition makes class imbalance relevant in the passage?",
+        "answer": "the model can do well numerically by mostly predicting the majority class"
+      },
+      {
+        "question": "What should not be misunderstood about class imbalance?",
+        "answer": "A high accuracy score may be weak evidence when classes are very uneven."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0193",
+    "source": "A misleading explanation of class imbalance ignores the condition behind it. The passage says the condition is the model can do well numerically by mostly predicting the majority class. When that condition is present, one class appears much more often than another, so accuracy can hide poor performance on the rare class. A reminder at the bottom says to bring pencils next week. The stated correction is: A high accuracy score may be weak evidence when classes are very uneven.",
+    "flashcards": [
+      {
+        "question": "Why is the condition important for understanding class imbalance?",
+        "answer": "Because when the model can do well numerically by mostly predicting the majority class, one class appears much more often than another, so accuracy can hide poor performance on the rare class."
+      },
+      {
+        "question": "What outcome follows from class imbalance in the passage?",
+        "answer": "accuracy can hide poor performance on the rare class"
+      },
+      {
+        "question": "What correction does the passage give about class imbalance?",
+        "answer": "A high accuracy score may be weak evidence when classes are very uneven."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0194",
+    "source": "Event note: Badge pickup starts at 8:00. Volunteers should wear navy shirts. The map link is missing and no educational material is included. Batch marker 10, item position 14.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0195",
+    "source": "In machine learning, vanishing gradients occurs because gradients become very small as they move backward through layers. As a result, early layers may learn slowly. This is most likely when many multiplications shrink the gradient signal. The filename on the projector included the word final twice. The issue is about update signal size, not about data literally disappearing.",
+    "flashcards": [
+      {
+        "question": "What causes vanishing gradients according to the passage?",
+        "answer": "gradients become very small as they move backward through layers"
+      },
+      {
+        "question": "What effect can vanishing gradients have?",
+        "answer": "early layers may learn slowly"
+      },
+      {
+        "question": "Under what condition is vanishing gradients most likely?",
+        "answer": "many multiplications shrink the gradient signal"
+      },
+      {
+        "question": "What misconception about vanishing gradients is corrected?",
+        "answer": "The issue is about update signal size, not about data literally disappearing."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0196",
+    "source": "The cause-and-effect chain for vanishing gradients is specific: gradients become very small as they move backward through layers, which means early layers may learn slowly. The condition that makes the chain relevant is that many multiplications shrink the gradient signal. The issue is about update signal size, not about data literally disappearing. The filename on the projector included the word final twice.",
+    "flashcards": [
+      {
+        "question": "What cause-and-effect chain is described for vanishing gradients?",
+        "answer": "gradients become very small as they move backward through layers, which means early layers may learn slowly."
+      },
+      {
+        "question": "What condition makes vanishing gradients relevant in the passage?",
+        "answer": "many multiplications shrink the gradient signal"
+      },
+      {
+        "question": "What should not be misunderstood about vanishing gradients?",
+        "answer": "The issue is about update signal size, not about data literally disappearing."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0197",
+    "source": "A misleading explanation of vanishing gradients ignores the condition behind it. The passage says the condition is many multiplications shrink the gradient signal. When that condition is present, gradients become very small as they move backward through layers, so early layers may learn slowly. The filename on the projector included the word final twice. The stated correction is: The issue is about update signal size, not about data literally disappearing.",
+    "flashcards": [
+      {
+        "question": "Why is the condition important for understanding vanishing gradients?",
+        "answer": "Because when many multiplications shrink the gradient signal, gradients become very small as they move backward through layers, so early layers may learn slowly."
+      },
+      {
+        "question": "What outcome follows from vanishing gradients in the passage?",
+        "answer": "early layers may learn slowly"
+      },
+      {
+        "question": "What correction does the passage give about vanishing gradients?",
+        "answer": "The issue is about update signal size, not about data literally disappearing."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0198",
+    "source": "In machine learning, concept drift occurs because the relationship between inputs and targets changes over time. As a result, a model that once worked well can become less accurate. This is most likely when new data no longer follows the old training pattern. The classroom window was open during the demonstration. Retraining may be needed even if the original model was built correctly.",
+    "flashcards": [
+      {
+        "question": "What causes concept drift according to the passage?",
+        "answer": "the relationship between inputs and targets changes over time"
+      },
+      {
+        "question": "What effect can concept drift have?",
+        "answer": "a model that once worked well can become less accurate"
+      },
+      {
+        "question": "Under what condition is concept drift most likely?",
+        "answer": "new data no longer follows the old training pattern"
+      },
+      {
+        "question": "What misconception about concept drift is corrected?",
+        "answer": "Retraining may be needed even if the original model was built correctly."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0199",
+    "source": "The cause-and-effect chain for concept drift is specific: the relationship between inputs and targets changes over time, which means a model that once worked well can become less accurate. The condition that makes the chain relevant is that new data no longer follows the old training pattern. Retraining may be needed even if the original model was built correctly. The classroom window was open during the demonstration.",
+    "flashcards": [
+      {
+        "question": "What cause-and-effect chain is described for concept drift?",
+        "answer": "the relationship between inputs and targets changes over time, which means a model that once worked well can become less accurate."
+      },
+      {
+        "question": "What condition makes concept drift relevant in the passage?",
+        "answer": "new data no longer follows the old training pattern"
+      },
+      {
+        "question": "What should not be misunderstood about concept drift?",
+        "answer": "Retraining may be needed even if the original model was built correctly."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0200",
+    "source": "A misleading explanation of concept drift ignores the condition behind it. The passage says the condition is new data no longer follows the old training pattern. When that condition is present, the relationship between inputs and targets changes over time, so a model that once worked well can become less accurate. The classroom window was open during the demonstration. The stated correction is: Retraining may be needed even if the original model was built correctly.",
+    "flashcards": [
+      {
+        "question": "Why is the condition important for understanding concept drift?",
+        "answer": "Because when new data no longer follows the old training pattern, the relationship between inputs and targets changes over time, so a model that once worked well can become less accurate."
+      },
+      {
+        "question": "What outcome follows from concept drift in the passage?",
+        "answer": "a model that once worked well can become less accurate"
+      },
+      {
+        "question": "What correction does the passage give about concept drift?",
+        "answer": "Retraining may be needed even if the original model was built correctly."
+      }
+    ]
+  }
+]

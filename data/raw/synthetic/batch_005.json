@@ -1,0 +1,324 @@
+[
+  {
+    "id": "synthetic_0081",
+    "source": "In a hash table, a collision occurs when two different keys are assigned to the same bucket. Separate chaining handles collisions by storing multiple entries in a bucket, often as a list. Open addressing instead searches for another available bucket according to a probing rule. A common misconception is that a good hash function eliminates all collisions; in practice, it only makes collisions less likely and more evenly distributed.",
+    "flashcards": [
+      {
+        "question": "When does a collision occur in a hash table?",
+        "answer": "When two different keys are assigned to the same bucket."
+      },
+      {
+        "question": "How do separate chaining and open addressing differ in handling hash table collisions?",
+        "answer": "Separate chaining stores multiple entries in a bucket, while open addressing searches for another available bucket using a probing rule."
+      },
+      {
+        "question": "What misconception about good hash functions does the passage correct?",
+        "answer": "A good hash function does not eliminate all collisions; it makes them less likely and more evenly distributed."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0082",
+    "source": "Batch normalization standardizes intermediate activations during neural network training using statistics computed over a mini-batch. It can allow larger learning rates and often speeds training, but its behavior differs between training and inference because inference typically uses accumulated population estimates rather than the current mini-batch. The lab's projector was replaced on Tuesday, which does not change the algorithm.",
+    "flashcards": [
+      {
+        "question": "What does batch normalization standardize during neural network training?",
+        "answer": "It standardizes intermediate activations using statistics computed over a mini-batch."
+      },
+      {
+        "question": "Why can batch normalization behave differently during inference than during training?",
+        "answer": "Inference typically uses accumulated population estimates rather than statistics from the current mini-batch."
+      },
+      {
+        "question": "What training benefit can batch normalization provide according to the passage?",
+        "answer": "It can allow larger learning rates and often speeds training."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0083",
+    "source": "Cellular respiration extracts usable energy from glucose through several stages. Glycolysis occurs in the cytosol and breaks glucose into smaller molecules. In oxygen-rich conditions, later reactions in mitochondria generate much more ATP than glycolysis alone. Without oxygen, some cells rely on fermentation to regenerate molecules needed for glycolysis, but fermentation yields less ATP overall.",
+    "flashcards": [
+      {
+        "question": "Where does glycolysis occur, and what does it do to glucose?",
+        "answer": "Glycolysis occurs in the cytosol and breaks glucose into smaller molecules."
+      },
+      {
+        "question": "Why do oxygen-rich conditions allow cells to generate more ATP from glucose?",
+        "answer": "They allow later mitochondrial reactions that generate much more ATP than glycolysis alone."
+      },
+      {
+        "question": "What role does fermentation play when oxygen is unavailable?",
+        "answer": "It regenerates molecules needed for glycolysis, but yields less ATP overall."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0084",
+    "source": "Document status: Draft 2. Owner: Rivera. Placeholder for chart: [INSERT FINAL IMAGE]. Reminder: ask the team whether the appendix should use blue headings. Meeting snacks will be ordered separately.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0085",
+    "source": "Newton's first law says that an object remains at rest or moves with constant velocity unless acted on by a net external force. This does not mean that no forces are present; it means the forces can balance so that the net force is zero. For example, a book resting on a table has gravity pulling down and the table pushing up, yet it does not accelerate because those forces balance.",
+    "flashcards": [
+      {
+        "question": "Under what condition does Newton's first law say an object's motion changes?",
+        "answer": "An object's motion changes when it is acted on by a net external force."
+      },
+      {
+        "question": "Why can an object have forces acting on it without accelerating?",
+        "answer": "The forces can balance so that the net force is zero."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0086",
+    "source": "The printing press lowered the cost of producing books and helped ideas circulate more widely. Before movable type spread, copying long texts by hand was slow and expensive. Cheaper printed material did not make every person literate overnight, but it made repeated access to texts more practical for schools, merchants, and religious groups.",
+    "flashcards": [
+      {
+        "question": "How did the printing press affect the circulation of ideas?",
+        "answer": "It lowered the cost of producing books and helped ideas circulate more widely."
+      },
+      {
+        "question": "What limitation about the printing press does the passage emphasize?",
+        "answer": "It did not make every person literate overnight."
+      },
+      {
+        "question": "Why did cheaper printed material matter for schools, merchants, and religious groups?",
+        "answer": "It made repeated access to texts more practical."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0087",
+    "source": "Price elasticity of demand describes how strongly the quantity demanded responds to a change in price. If quantity demanded changes by a larger percentage than price, demand is called elastic. If it changes by a smaller percentage than price, demand is inelastic. Necessities often have more inelastic demand than luxuries because buyers have fewer easy substitutes or delays.",
+    "flashcards": [
+      {
+        "question": "What does price elasticity of demand describe?",
+        "answer": "How strongly the quantity demanded responds to a change in price."
+      },
+      {
+        "question": "When is demand considered elastic rather than inelastic?",
+        "answer": "Demand is elastic when quantity demanded changes by a larger percentage than price; it is inelastic when it changes by a smaller percentage."
+      },
+      {
+        "question": "Why do necessities often have more inelastic demand than luxuries?",
+        "answer": "Buyers have fewer easy substitutes or delays for necessities."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0088",
+    "source": "In operant conditioning, reinforcement increases the likelihood of a behavior, while punishment decreases it. Positive reinforcement adds a desirable consequence after a behavior; negative reinforcement removes an unpleasant condition after a behavior. The word negative in this context does not mean bad; it means something is removed.",
+    "flashcards": [
+      {
+        "question": "How do reinforcement and punishment differ in operant conditioning?",
+        "answer": "Reinforcement increases the likelihood of a behavior, while punishment decreases it."
+      },
+      {
+        "question": "What is the difference between positive and negative reinforcement?",
+        "answer": "Positive reinforcement adds a desirable consequence, while negative reinforcement removes an unpleasant condition."
+      },
+      {
+        "question": "What does negative mean in negative reinforcement?",
+        "answer": "It means something is removed, not that the reinforcement is bad."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0089",
+    "source": "A control group provides a comparison point in an experiment. If the treatment group changes but the control group does not, researchers have stronger evidence that the treatment caused the change. A control group cannot remove every possible bias by itself; random assignment and consistent measurement also matter.",
+    "flashcards": [
+      {
+        "question": "What purpose does a control group serve in an experiment?",
+        "answer": "It provides a comparison point."
+      },
+      {
+        "question": "Why does a changing treatment group alongside an unchanged control group strengthen causal evidence?",
+        "answer": "It suggests the treatment caused the change."
+      },
+      {
+        "question": "Why is a control group alone not enough to remove every possible bias?",
+        "answer": "Random assignment and consistent measurement also matter."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0090",
+    "source": "Merge sort divides a list into smaller sublists, sorts those sublists, and then merges them into a sorted result. Its running time is commonly O(n log n) because the list is repeatedly split across log n levels and each level requires linear work to merge. Unlike some in-place algorithms, merge sort typically needs extra memory for merging.",
+    "flashcards": [
+      {
+        "question": "What are the main steps of merge sort?",
+        "answer": "It divides a list into smaller sublists, sorts them, and merges them into a sorted result."
+      },
+      {
+        "question": "Why is merge sort commonly O(n log n)?",
+        "answer": "The list is split across log n levels, and each level requires linear work to merge."
+      },
+      {
+        "question": "What memory tradeoff does merge sort typically have?",
+        "answer": "It typically needs extra memory for merging."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0091",
+    "source": "A vaccine trains the immune system to recognize a pathogen or part of a pathogen before a serious infection occurs. Memory cells formed after vaccination can respond more quickly during later exposure. Vaccines do not need to cause the full disease to prepare the immune system; many use weakened, inactive, or partial pathogen components.",
+    "flashcards": [
+      {
+        "question": "How does a vaccine prepare the immune system before a serious infection?",
+        "answer": "It trains the immune system to recognize a pathogen or part of a pathogen."
+      },
+      {
+        "question": "Why can vaccination improve the response to later exposure?",
+        "answer": "Memory cells formed after vaccination can respond more quickly."
+      },
+      {
+        "question": "Why do vaccines not need to cause the full disease to prepare immunity?",
+        "answer": "Many use weakened, inactive, or partial pathogen components."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0092",
+    "source": "The Doppler effect is the observed change in wave frequency caused by relative motion between a source and an observer. When a sound source moves toward an observer, the observed pitch is higher; when it moves away, the observed pitch is lower. The source does not have to change the sound it emits for the observer to hear a different pitch.",
+    "flashcards": [
+      {
+        "question": "What causes the Doppler effect?",
+        "answer": "Relative motion between a wave source and an observer causes an observed change in wave frequency."
+      },
+      {
+        "question": "How does a moving sound source affect observed pitch when it approaches or moves away from an observer?",
+        "answer": "Approaching raises the observed pitch, while moving away lowers it."
+      },
+      {
+        "question": "What misconception about the Doppler effect does the passage address?",
+        "answer": "The source does not have to change the sound it emits for the observer to hear a different pitch."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0093",
+    "source": "Release note: Version 4.8 will be uploaded after legal approval. TODO: replace lorem ipsum in section 3. The hallway printer is out of toner. Header color trial: green, charcoal, or navy.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0094",
+    "source": "During the water cycle, evaporation moves liquid water into the atmosphere as vapor, condensation forms clouds when vapor cools, and precipitation returns water to Earth's surface. Runoff then carries water across land into rivers, lakes, or oceans. The cycle is driven largely by solar energy and gravity.",
+    "flashcards": [
+      {
+        "question": "How do evaporation, condensation, and precipitation each contribute to the water cycle?",
+        "answer": "Evaporation moves liquid water into the atmosphere as vapor, condensation forms clouds as vapor cools, and precipitation returns water to Earth's surface."
+      },
+      {
+        "question": "What happens during runoff in the water cycle?",
+        "answer": "Water moves across land into rivers, lakes, or oceans."
+      },
+      {
+        "question": "What largely drives the water cycle?",
+        "answer": "Solar energy and gravity."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0095",
+    "source": "In supervised learning, a model is trained on examples that include both inputs and target outputs. In unsupervised learning, the training data lacks target labels, so the model looks for patterns such as groups or lower-dimensional structure. The distinction is about the available training signal, not whether the model is simple or complex.",
+    "flashcards": [
+      {
+        "question": "How does supervised learning differ from unsupervised learning in terms of training data?",
+        "answer": "Supervised learning uses examples with inputs and target outputs, while unsupervised learning uses data without target labels."
+      },
+      {
+        "question": "What kinds of patterns might an unsupervised learning model look for?",
+        "answer": "Groups or lower-dimensional structure."
+      },
+      {
+        "question": "What is the distinction between supervised and unsupervised learning based on?",
+        "answer": "The available training signal, not whether the model is simple or complex."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0096",
+    "source": "A republic is a political system in which public authority is treated as belonging to the people rather than to a monarch's personal property. Many republics use elected representatives, but the passage of laws can still be limited by constitutions, courts, or other rules. Calling a state a republic does not automatically prove that all residents have equal political power.",
+    "flashcards": [
+      {
+        "question": "How does the passage characterize a republic's source of public authority?",
+        "answer": "Public authority is treated as belonging to the people rather than to a monarch's personal property."
+      },
+      {
+        "question": "What can limit lawmaking in a republic?",
+        "answer": "Constitutions, courts, or other rules can limit lawmaking."
+      },
+      {
+        "question": "What misconception about republics does the passage reject?",
+        "answer": "Calling a state a republic does not automatically prove that all residents have equal political power."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0097",
+    "source": "Opportunity cost is the value of the best alternative given up when a choice is made. It is not always the amount of money paid. If a student attends a free workshop instead of working a paid shift, the forgone wages are part of the opportunity cost even though the workshop charged no fee.",
+    "flashcards": [
+      {
+        "question": "How is opportunity cost defined in the passage?",
+        "answer": "It is the value of the best alternative given up when a choice is made."
+      },
+      {
+        "question": "Why can a free workshop still have an opportunity cost?",
+        "answer": "The student gives up another alternative, such as wages from a paid shift."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0098",
+    "source": "Working memory temporarily holds and manipulates information needed for current tasks, such as remembering a phone number long enough to dial it. Long-term memory stores information over longer periods and can include facts, skills, and personal experiences. Rehearsal can keep information active briefly, but it does not guarantee permanent storage.",
+    "flashcards": [
+      {
+        "question": "How does working memory differ from long-term memory?",
+        "answer": "Working memory temporarily holds and manipulates information for current tasks, while long-term memory stores information over longer periods."
+      },
+      {
+        "question": "What kinds of information can long-term memory include?",
+        "answer": "Facts, skills, and personal experiences."
+      },
+      {
+        "question": "What limitation of rehearsal does the passage mention?",
+        "answer": "Rehearsal can keep information active briefly, but it does not guarantee permanent storage."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0099",
+    "source": "In an electrical circuit, current is the flow of electric charge, while voltage is the difference in electric potential that can push charge through a circuit. Resistance opposes current. According to Ohm's law, for many simple conductors, voltage equals current multiplied by resistance. This relationship may not apply in the same way to every electronic component.",
+    "flashcards": [
+      {
+        "question": "How do current, voltage, and resistance differ in an electrical circuit?",
+        "answer": "Current is the flow of electric charge, voltage is the potential difference that can push charge, and resistance opposes current."
+      },
+      {
+        "question": "What relationship does Ohm's law state for many simple conductors?",
+        "answer": "Voltage equals current multiplied by resistance."
+      },
+      {
+        "question": "What qualification does the passage give about Ohm's law?",
+        "answer": "It may not apply in the same way to every electronic component."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0100",
+    "source": "A compiler translates source code into another form, often machine code, before execution. An interpreter executes a program more directly, often by reading and running code step by step. The difference is not always absolute because some systems combine compilation and interpretation during program execution.",
+    "flashcards": [
+      {
+        "question": "How does a compiler differ from an interpreter according to the passage?",
+        "answer": "A compiler translates source code into another form before execution, while an interpreter runs code more directly, often step by step."
+      },
+      {
+        "question": "Why is the compiler-versus-interpreter distinction not always absolute?",
+        "answer": "Some systems combine compilation and interpretation during program execution."
+      }
+    ]
+  }
+]

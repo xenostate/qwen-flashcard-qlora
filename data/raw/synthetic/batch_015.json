@@ -1,0 +1,356 @@
+[
+  {
+    "id": "synthetic_0281",
+    "source": "In physics, circuit troubleshooting is a multi-step process used to locate why a circuit is not working. First, check whether the power source is connected. Next, look for open switches or breaks. Then, test components one at a time. Finally, replace or reconnect the faulty part. The checklist number in the margin is only an editing reference. Testing one part at a time helps isolate the failure.",
+    "flashcards": [
+      {
+        "question": "What sequence of steps describes circuit troubleshooting?",
+        "answer": "check whether the power source is connected; look for open switches or breaks; test components one at a time; replace or reconnect the faulty part."
+      },
+      {
+        "question": "What is the purpose of circuit troubleshooting?",
+        "answer": "To locate why a circuit is not working."
+      },
+      {
+        "question": "What qualification is stated about circuit troubleshooting?",
+        "answer": "Testing one part at a time helps isolate the failure."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0282",
+    "source": "Circuit troubleshooting can fail when its steps are skipped or mixed together. The process begins when check whether the power source is connected, continues as look for open switches or breaks and test components one at a time, and ends when replace or reconnect the faulty part. The checklist number in the margin is only an editing reference. The important condition is that testing one part at a time helps isolate the failure.",
+    "flashcards": [
+      {
+        "question": "How does circuit troubleshooting begin and end in the passage?",
+        "answer": "It begins when check whether the power source is connected and ends when replace or reconnect the faulty part."
+      },
+      {
+        "question": "Which middle steps are described for circuit troubleshooting?",
+        "answer": "look for open switches or breaks and test components one at a time."
+      },
+      {
+        "question": "What condition or limitation is noted for circuit troubleshooting?",
+        "answer": "Testing one part at a time helps isolate the failure."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0283",
+    "source": "The early and late stages of circuit troubleshooting do different jobs. Early in the process, check whether the power source is connected and look for open switches or breaks. Later, test components one at a time and replace or reconnect the faulty part. This order supports the goal to locate why a circuit is not working. The checklist number in the margin is only an editing reference.",
+    "flashcards": [
+      {
+        "question": "What happens early in circuit troubleshooting?",
+        "answer": "check whether the power source is connected and look for open switches or breaks."
+      },
+      {
+        "question": "What happens later in circuit troubleshooting?",
+        "answer": "test components one at a time and replace or reconnect the faulty part."
+      },
+      {
+        "question": "How does the order of circuit troubleshooting relate to its goal?",
+        "answer": "The ordered steps support the goal to locate why a circuit is not working."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0284",
+    "source": "Page setup note: Use letter size paper, landscape orientation, and narrow margins. Placeholder table remains empty. Batch marker 15, item position 4.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0285",
+    "source": "In physics, inertia occurs because objects resist changes in their state of motion. As a result, a net force is needed to change rest or constant velocity. This is most likely when the object has mass and no balanced-force change is enough to alter motion. The note was printed with a wide left margin for hole punching. Inertia is not a force pushing the object forward.",
+    "flashcards": [
+      {
+        "question": "What causes inertia according to the passage?",
+        "answer": "objects resist changes in their state of motion"
+      },
+      {
+        "question": "What effect can inertia have?",
+        "answer": "a net force is needed to change rest or constant velocity"
+      },
+      {
+        "question": "Under what condition is inertia most likely?",
+        "answer": "the object has mass and no balanced-force change is enough to alter motion"
+      },
+      {
+        "question": "What misconception about inertia is corrected?",
+        "answer": "Inertia is not a force pushing the object forward."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0286",
+    "source": "The cause-and-effect chain for inertia is specific: objects resist changes in their state of motion, which means a net force is needed to change rest or constant velocity. The condition that makes the chain relevant is that the object has mass and no balanced-force change is enough to alter motion. Inertia is not a force pushing the object forward. The note was printed with a wide left margin for hole punching.",
+    "flashcards": [
+      {
+        "question": "What cause-and-effect chain is described for inertia?",
+        "answer": "objects resist changes in their state of motion, which means a net force is needed to change rest or constant velocity."
+      },
+      {
+        "question": "What condition makes inertia relevant in the passage?",
+        "answer": "the object has mass and no balanced-force change is enough to alter motion"
+      },
+      {
+        "question": "What should not be misunderstood about inertia?",
+        "answer": "Inertia is not a force pushing the object forward."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0287",
+    "source": "A misleading explanation of inertia ignores the condition behind it. The passage says the condition is the object has mass and no balanced-force change is enough to alter motion. When that condition is present, objects resist changes in their state of motion, so a net force is needed to change rest or constant velocity. The note was printed with a wide left margin for hole punching. The stated correction is: Inertia is not a force pushing the object forward.",
+    "flashcards": [
+      {
+        "question": "Why is the condition important for understanding inertia?",
+        "answer": "Because when the object has mass and no balanced-force change is enough to alter motion, objects resist changes in their state of motion, so a net force is needed to change rest or constant velocity."
+      },
+      {
+        "question": "What outcome follows from inertia in the passage?",
+        "answer": "a net force is needed to change rest or constant velocity"
+      },
+      {
+        "question": "What correction does the passage give about inertia?",
+        "answer": "Inertia is not a force pushing the object forward."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0288",
+    "source": "In physics, the Doppler effect occurs because a wave source and observer move relative to each other. As a result, the observed frequency can shift. This is most likely when wavefronts arrive closer together or farther apart. The example slide used a blue border that has no bearing on the concept. The source does not have to change its actual emitted frequency for the observer to notice a shift.",
+    "flashcards": [
+      {
+        "question": "What causes the Doppler effect according to the passage?",
+        "answer": "a wave source and observer move relative to each other"
+      },
+      {
+        "question": "What effect can the Doppler effect have?",
+        "answer": "the observed frequency can shift"
+      },
+      {
+        "question": "Under what condition is the Doppler effect most likely?",
+        "answer": "wavefronts arrive closer together or farther apart"
+      },
+      {
+        "question": "What misconception about the Doppler effect is corrected?",
+        "answer": "The source does not have to change its actual emitted frequency for the observer to notice a shift."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0289",
+    "source": "The cause-and-effect chain for the Doppler effect is specific: a wave source and observer move relative to each other, which means the observed frequency can shift. The condition that makes the chain relevant is that wavefronts arrive closer together or farther apart. The source does not have to change its actual emitted frequency for the observer to notice a shift. The example slide used a blue border that has no bearing on the concept.",
+    "flashcards": [
+      {
+        "question": "What cause-and-effect chain is described for the Doppler effect?",
+        "answer": "a wave source and observer move relative to each other, which means the observed frequency can shift."
+      },
+      {
+        "question": "What condition makes the Doppler effect relevant in the passage?",
+        "answer": "wavefronts arrive closer together or farther apart"
+      },
+      {
+        "question": "What should not be misunderstood about the Doppler effect?",
+        "answer": "The source does not have to change its actual emitted frequency for the observer to notice a shift."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0290",
+    "source": "A misleading explanation of the Doppler effect ignores the condition behind it. The passage says the condition is wavefronts arrive closer together or farther apart. When that condition is present, a wave source and observer move relative to each other, so the observed frequency can shift. The example slide used a blue border that has no bearing on the concept. The stated correction is: The source does not have to change its actual emitted frequency for the observer to notice a shift.",
+    "flashcards": [
+      {
+        "question": "Why is the condition important for understanding the Doppler effect?",
+        "answer": "Because when wavefronts arrive closer together or farther apart, a wave source and observer move relative to each other, so the observed frequency can shift."
+      },
+      {
+        "question": "What outcome follows from the Doppler effect in the passage?",
+        "answer": "the observed frequency can shift"
+      },
+      {
+        "question": "What correction does the passage give about the Doppler effect?",
+        "answer": "The source does not have to change its actual emitted frequency for the observer to notice a shift."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0291",
+    "source": "In physics, buoyancy occurs because pressure in a fluid differs with depth. As a result, an upward force acts on an immersed object. This is most likely when the object displaces fluid. A reminder at the bottom says to bring pencils next week. Floating depends on the balance between weight and buoyant force.",
+    "flashcards": [
+      {
+        "question": "What causes buoyancy according to the passage?",
+        "answer": "pressure in a fluid differs with depth"
+      },
+      {
+        "question": "What effect can buoyancy have?",
+        "answer": "an upward force acts on an immersed object"
+      },
+      {
+        "question": "Under what condition is buoyancy most likely?",
+        "answer": "the object displaces fluid"
+      },
+      {
+        "question": "What misconception about buoyancy is corrected?",
+        "answer": "Floating depends on the balance between weight and buoyant force."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0292",
+    "source": "The cause-and-effect chain for buoyancy is specific: pressure in a fluid differs with depth, which means an upward force acts on an immersed object. The condition that makes the chain relevant is that the object displaces fluid. Floating depends on the balance between weight and buoyant force. A reminder at the bottom says to bring pencils next week.",
+    "flashcards": [
+      {
+        "question": "What cause-and-effect chain is described for buoyancy?",
+        "answer": "pressure in a fluid differs with depth, which means an upward force acts on an immersed object."
+      },
+      {
+        "question": "What condition makes buoyancy relevant in the passage?",
+        "answer": "the object displaces fluid"
+      },
+      {
+        "question": "What should not be misunderstood about buoyancy?",
+        "answer": "Floating depends on the balance between weight and buoyant force."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0293",
+    "source": "A misleading explanation of buoyancy ignores the condition behind it. The passage says the condition is the object displaces fluid. When that condition is present, pressure in a fluid differs with depth, so an upward force acts on an immersed object. A reminder at the bottom says to bring pencils next week. The stated correction is: Floating depends on the balance between weight and buoyant force.",
+    "flashcards": [
+      {
+        "question": "Why is the condition important for understanding buoyancy?",
+        "answer": "Because when the object displaces fluid, pressure in a fluid differs with depth, so an upward force acts on an immersed object."
+      },
+      {
+        "question": "What outcome follows from buoyancy in the passage?",
+        "answer": "an upward force acts on an immersed object"
+      },
+      {
+        "question": "What correction does the passage give about buoyancy?",
+        "answer": "Floating depends on the balance between weight and buoyant force."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0294",
+    "source": "Event note: Badge pickup starts at 8:00. Volunteers should wear navy shirts. The map link is missing and no educational material is included. Batch marker 15, item position 14.",
+    "flashcards": []
+  },
+  {
+    "id": "synthetic_0295",
+    "source": "In physics, resonance occurs because a system is driven near its natural frequency. As a result, oscillations can grow larger. This is most likely when energy is added in step with the system's motion. The filename on the projector included the word final twice. Resonance is not just any vibration; timing matters.",
+    "flashcards": [
+      {
+        "question": "What causes resonance according to the passage?",
+        "answer": "a system is driven near its natural frequency"
+      },
+      {
+        "question": "What effect can resonance have?",
+        "answer": "oscillations can grow larger"
+      },
+      {
+        "question": "Under what condition is resonance most likely?",
+        "answer": "energy is added in step with the system's motion"
+      },
+      {
+        "question": "What misconception about resonance is corrected?",
+        "answer": "Resonance is not just any vibration; timing matters."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0296",
+    "source": "The cause-and-effect chain for resonance is specific: a system is driven near its natural frequency, which means oscillations can grow larger. The condition that makes the chain relevant is that energy is added in step with the system's motion. Resonance is not just any vibration; timing matters. The filename on the projector included the word final twice.",
+    "flashcards": [
+      {
+        "question": "What cause-and-effect chain is described for resonance?",
+        "answer": "a system is driven near its natural frequency, which means oscillations can grow larger."
+      },
+      {
+        "question": "What condition makes resonance relevant in the passage?",
+        "answer": "energy is added in step with the system's motion"
+      },
+      {
+        "question": "What should not be misunderstood about resonance?",
+        "answer": "Resonance is not just any vibration; timing matters."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0297",
+    "source": "A misleading explanation of resonance ignores the condition behind it. The passage says the condition is energy is added in step with the system's motion. When that condition is present, a system is driven near its natural frequency, so oscillations can grow larger. The filename on the projector included the word final twice. The stated correction is: Resonance is not just any vibration; timing matters.",
+    "flashcards": [
+      {
+        "question": "Why is the condition important for understanding resonance?",
+        "answer": "Because when energy is added in step with the system's motion, a system is driven near its natural frequency, so oscillations can grow larger."
+      },
+      {
+        "question": "What outcome follows from resonance in the passage?",
+        "answer": "oscillations can grow larger"
+      },
+      {
+        "question": "What correction does the passage give about resonance?",
+        "answer": "Resonance is not just any vibration; timing matters."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0298",
+    "source": "In physics, refraction occurs because a wave changes speed when entering a different medium. As a result, the wave can bend at the boundary. This is most likely when the wave enters the new medium at an angle. The classroom window was open during the demonstration. Bending is linked to speed change, not to the wave deciding to curve on its own.",
+    "flashcards": [
+      {
+        "question": "What causes refraction according to the passage?",
+        "answer": "a wave changes speed when entering a different medium"
+      },
+      {
+        "question": "What effect can refraction have?",
+        "answer": "the wave can bend at the boundary"
+      },
+      {
+        "question": "Under what condition is refraction most likely?",
+        "answer": "the wave enters the new medium at an angle"
+      },
+      {
+        "question": "What misconception about refraction is corrected?",
+        "answer": "Bending is linked to speed change, not to the wave deciding to curve on its own."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0299",
+    "source": "The cause-and-effect chain for refraction is specific: a wave changes speed when entering a different medium, which means the wave can bend at the boundary. The condition that makes the chain relevant is that the wave enters the new medium at an angle. Bending is linked to speed change, not to the wave deciding to curve on its own. The classroom window was open during the demonstration.",
+    "flashcards": [
+      {
+        "question": "What cause-and-effect chain is described for refraction?",
+        "answer": "a wave changes speed when entering a different medium, which means the wave can bend at the boundary."
+      },
+      {
+        "question": "What condition makes refraction relevant in the passage?",
+        "answer": "the wave enters the new medium at an angle"
+      },
+      {
+        "question": "What should not be misunderstood about refraction?",
+        "answer": "Bending is linked to speed change, not to the wave deciding to curve on its own."
+      }
+    ]
+  },
+  {
+    "id": "synthetic_0300",
+    "source": "A misleading explanation of refraction ignores the condition behind it. The passage says the condition is the wave enters the new medium at an angle. When that condition is present, a wave changes speed when entering a different medium, so the wave can bend at the boundary. The classroom window was open during the demonstration. The stated correction is: Bending is linked to speed change, not to the wave deciding to curve on its own.",
+    "flashcards": [
+      {
+        "question": "Why is the condition important for understanding refraction?",
+        "answer": "Because when the wave enters the new medium at an angle, a wave changes speed when entering a different medium, so the wave can bend at the boundary."
+      },
+      {
+        "question": "What outcome follows from refraction in the passage?",
+        "answer": "the wave can bend at the boundary"
+      },
+      {
+        "question": "What correction does the passage give about refraction?",
+        "answer": "Bending is linked to speed change, not to the wave deciding to curve on its own."
+      }
+    ]
+  }
+]

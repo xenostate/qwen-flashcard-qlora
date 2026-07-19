@@ -1,0 +1,544 @@
+{
+  "metadata": {
+    "model": "/Users/tenroman/.lmstudio/models/lmstudio-community/Qwen3-VL-8B-Instruct-MLX-4bit",
+    "adapter": null,
+    "input_file": "gold_set_clean.md",
+    "system_prompt": "You convert one supplied source passage into high-quality study flashcards.\n\nRules:\n- You will receive exactly one source passage per request.\n- Use only information supported by that source passage.\n- Do not use outside knowledge.\n- Copy the source passage into the output exactly as provided.\n- Do not summarize, rewrite, correct, or shorten the source.\n- Each flashcard must test one clear concept.\n- Questions must be understandable without seeing the source.\n- Answers must be concise but complete.\n- Preserve important qualifications, conditions, and exceptions.\n- Do not create duplicate or substantially overlapping flashcards.\n- If the source contains no useful factual information, return an empty flashcards array.\n- Return exactly one valid JSON object.\n- Do not include markdown, explanations, comments, or text outside the JSON.\n\nRequired schema:\n{\n  \"source\": \"exact source passage provided by the user\",\n  \"flashcards\": [\n    {\n      \"question\": \"string\",\n      \"answer\": \"string\"\n    }\n  ]\n}",
+    "max_tokens": 700,
+    "total_passages_in_input": 20,
+    "start_index": 1,
+    "requested_count": 20,
+    "completed_count": 20,
+    "valid_json_count": 20,
+    "schema_valid_count": 20
+  },
+  "results": [
+    {
+      "id": "source_001",
+      "source": "Dynamic programming solves problems with overlapping subproblems by storing previously computed solutions and reusing them instead of recomputing them.",
+      "raw_output": "{\n  \"source\": \"Dynamic programming solves problems with overlapping subproblems by storing previously computed solutions and reusing them instead of recomputing them.\",\n  \"flashcards\": [\n    {\n      \"question\": \"What is the main purpose of dynamic programming in solving problems with overlapping subproblems?\",\n      \"answer\": \"To store previously computed solutions and reuse them instead of recomputing them.\"\n    }\n  ]\n}",
+      "parsed_output": {
+        "source": "Dynamic programming solves problems with overlapping subproblems by storing previously computed solutions and reusing them instead of recomputing them.",
+        "flashcards": [
+          {
+            "question": "What is the main purpose of dynamic programming in solving problems with overlapping subproblems?",
+            "answer": "To store previously computed solutions and reuse them instead of recomputing them."
+          }
+        ]
+      },
+      "valid_json": true,
+      "json_error": null,
+      "schema_valid": true,
+      "validation_errors": [],
+      "elapsed_seconds": 3.942
+    },
+    {
+      "id": "source_002",
+      "source": "A Support Vector Machine (SVM) is a supervised learning algorithm that outputs an optimal hyperplane which categorizes new examples in classification tasks.",
+      "raw_output": "{\n  \"source\": \"A Support Vector Machine (SVM) is a supervised learning algorithm that outputs an optimal hyperplane which categorizes new examples in classification tasks.\",\n  \"flashcards\": [\n    {\n      \"question\": \"What type of learning algorithm is a Support Vector Machine (SVM)?\",\n      \"answer\": \"Supervised learning algorithm\"\n    },\n    {\n      \"question\": \"What does an SVM output in classification tasks?\",\n      \"answer\": \"An optimal hyperplane\"\n    },\n    {\n      \"question\": \"What is the purpose of the hyperplane output by an SVM?\",\n      \"answer\": \"To categorize new examples\"\n    }\n  ]\n}",
+      "parsed_output": {
+        "source": "A Support Vector Machine (SVM) is a supervised learning algorithm that outputs an optimal hyperplane which categorizes new examples in classification tasks.",
+        "flashcards": [
+          {
+            "question": "What type of learning algorithm is a Support Vector Machine (SVM)?",
+            "answer": "Supervised learning algorithm"
+          },
+          {
+            "question": "What does an SVM output in classification tasks?",
+            "answer": "An optimal hyperplane"
+          },
+          {
+            "question": "What is the purpose of the hyperplane output by an SVM?",
+            "answer": "To categorize new examples"
+          }
+        ]
+      },
+      "valid_json": true,
+      "json_error": null,
+      "schema_valid": true,
+      "validation_errors": [],
+      "elapsed_seconds": 5.468
+    },
+    {
+      "id": "source_003",
+      "source": "Time complexity, often expressed using Big O notation, quantifies the amount of time taken by an algorithm to run as a function of the length of the input.",
+      "raw_output": "{\n  \"source\": \"Time complexity, often expressed using Big O notation, quantifies the amount of time taken by an algorithm to run as a function of the length of the input.\",\n  \"flashcards\": [\n    {\n      \"question\": \"What does time complexity measure?\",\n      \"answer\": \"The amount of time taken by an algorithm to run as a function of the length of the input.\"\n    },\n    {\n      \"question\": \"How is time complexity often expressed?\",\n      \"answer\": \"Using Big O notation.\"\n    }\n  ]\n}",
+      "parsed_output": {
+        "source": "Time complexity, often expressed using Big O notation, quantifies the amount of time taken by an algorithm to run as a function of the length of the input.",
+        "flashcards": [
+          {
+            "question": "What does time complexity measure?",
+            "answer": "The amount of time taken by an algorithm to run as a function of the length of the input."
+          },
+          {
+            "question": "How is time complexity often expressed?",
+            "answer": "Using Big O notation."
+          }
+        ]
+      },
+      "valid_json": true,
+      "json_error": null,
+      "schema_valid": true,
+      "validation_errors": [],
+      "elapsed_seconds": 4.532
+    },
+    {
+      "id": "source_004",
+      "source": "A deadlock is a situation in computing where two or more competing actions are each waiting for the other to finish, preventing any of them from resolving.",
+      "raw_output": "{\n  \"source\": \"A deadlock is a situation in computing where two or more competing actions are each waiting for the other to finish, preventing any of them from resolving.\",\n  \"flashcards\": [\n    {\n      \"question\": \"What is a deadlock in computing?\",\n      \"answer\": \"A situation where two or more competing actions are each waiting for the other to finish, preventing any of them from resolving.\"\n    }\n  ]\n}",
+      "parsed_output": {
+        "source": "A deadlock is a situation in computing where two or more competing actions are each waiting for the other to finish, preventing any of them from resolving.",
+        "flashcards": [
+          {
+            "question": "What is a deadlock in computing?",
+            "answer": "A situation where two or more competing actions are each waiting for the other to finish, preventing any of them from resolving."
+          }
+        ]
+      },
+      "valid_json": true,
+      "json_error": null,
+      "schema_valid": true,
+      "validation_errors": [],
+      "elapsed_seconds": 3.664
+    },
+    {
+      "id": "source_005",
+      "source": "Random Forest is an ensemble learning method that operates by constructing a multitude of decision trees at training time and outputting the mode of their classes.",
+      "raw_output": "{\n  \"source\": \"Random Forest is an ensemble learning method that operates by constructing a multitude of decision trees at training time and outputting the mode of their classes.\",\n  \"flashcards\": [\n    {\n      \"question\": \"What is Random Forest?\",\n      \"answer\": \"An ensemble learning method.\"\n    },\n    {\n      \"question\": \"How does Random Forest operate during training?\",\n      \"answer\": \"By constructing a multitude of decision trees.\"\n    },\n    {\n      \"question\": \"What does Random Forest output?\",\n      \"answer\": \"The mode of their classes.\"\n    }\n  ]\n}",
+      "parsed_output": {
+        "source": "Random Forest is an ensemble learning method that operates by constructing a multitude of decision trees at training time and outputting the mode of their classes.",
+        "flashcards": [
+          {
+            "question": "What is Random Forest?",
+            "answer": "An ensemble learning method."
+          },
+          {
+            "question": "How does Random Forest operate during training?",
+            "answer": "By constructing a multitude of decision trees."
+          },
+          {
+            "question": "What does Random Forest output?",
+            "answer": "The mode of their classes."
+          }
+        ]
+      },
+      "valid_json": true,
+      "json_error": null,
+      "schema_valid": true,
+      "validation_errors": [],
+      "elapsed_seconds": 4.89
+    },
+    {
+      "id": "source_006",
+      "source": "A Data Lake is a centralized repository that allows you to store all your structured and unstructured data at any scale in its native format.",
+      "raw_output": "{\n  \"source\": \"A Data Lake is a centralized repository that allows you to store all your structured and unstructured data at any scale in its native format.\",\n  \"flashcards\": [\n    {\n      \"question\": \"What is a Data Lake defined as in the source passage?\",\n      \"answer\": \"A centralized repository that allows you to store all your structured and unstructured data at any scale in its native format.\"\n    }\n  ]\n}",
+      "parsed_output": {
+        "source": "A Data Lake is a centralized repository that allows you to store all your structured and unstructured data at any scale in its native format.",
+        "flashcards": [
+          {
+            "question": "What is a Data Lake defined as in the source passage?",
+            "answer": "A centralized repository that allows you to store all your structured and unstructured data at any scale in its native format."
+          }
+        ]
+      },
+      "valid_json": true,
+      "json_error": null,
+      "schema_valid": true,
+      "validation_errors": [],
+      "elapsed_seconds": 3.759
+    },
+    {
+      "id": "source_007",
+      "source": "Convolutional Neural Networks (CNNs) are a class of deep neural networks heavily used in computer vision tasks because they can capture spatial hierarchies in images.",
+      "raw_output": "{\n  \"source\": \"Convolutional Neural Networks (CNNs) are a class of deep neural networks heavily used in computer vision tasks because they can capture spatial hierarchies in images.\",\n  \"flashcards\": [\n    {\n      \"question\": \"What are Convolutional Neural Networks (CNNs) primarily used for?\",\n      \"answer\": \"Computer vision tasks.\"\n    },\n    {\n      \"question\": \"Why are CNNs effective for computer vision tasks?\",\n      \"answer\": \"They can capture spatial hierarchies in images.\"\n    },\n    {\n      \"question\": \"What type of neural networks are CNNs?\",\n      \"answer\": \"A class of deep neural networks.\"\n    }\n  ]\n}",
+      "parsed_output": {
+        "source": "Convolutional Neural Networks (CNNs) are a class of deep neural networks heavily used in computer vision tasks because they can capture spatial hierarchies in images.",
+        "flashcards": [
+          {
+            "question": "What are Convolutional Neural Networks (CNNs) primarily used for?",
+            "answer": "Computer vision tasks."
+          },
+          {
+            "question": "Why are CNNs effective for computer vision tasks?",
+            "answer": "They can capture spatial hierarchies in images."
+          },
+          {
+            "question": "What type of neural networks are CNNs?",
+            "answer": "A class of deep neural networks."
+          }
+        ]
+      },
+      "valid_json": true,
+      "json_error": null,
+      "schema_valid": true,
+      "validation_errors": [],
+      "elapsed_seconds": 5.705
+    },
+    {
+      "id": "source_008",
+      "source": "Representational State Transfer (REST) is an architectural style for networked applications whose constraints include client-server separation and stateless communication.",
+      "raw_output": "{\n  \"source\": \"Representational State Transfer (REST) is an architectural style for networked applications whose constraints include client-server separation and stateless communication.\",\n  \"flashcards\": [\n    {\n      \"question\": \"What is the primary purpose of Representational State Transfer (REST)?\",\n      \"answer\": \"An architectural style for networked applications.\"\n    },\n    {\n      \"question\": \"What is one constraint of REST architecture?\",\n      \"answer\": \"Client-server separation.\"\n    },\n    {\n      \"question\": \"What is another constraint of REST architecture?\",\n      \"answer\": \"Stateless communication.\"\n    }\n  ]\n}",
+      "parsed_output": {
+        "source": "Representational State Transfer (REST) is an architectural style for networked applications whose constraints include client-server separation and stateless communication.",
+        "flashcards": [
+          {
+            "question": "What is the primary purpose of Representational State Transfer (REST)?",
+            "answer": "An architectural style for networked applications."
+          },
+          {
+            "question": "What is one constraint of REST architecture?",
+            "answer": "Client-server separation."
+          },
+          {
+            "question": "What is another constraint of REST architecture?",
+            "answer": "Stateless communication."
+          }
+        ]
+      },
+      "valid_json": true,
+      "json_error": null,
+      "schema_valid": true,
+      "validation_errors": [],
+      "elapsed_seconds": 5.132
+    },
+    {
+      "id": "source_009",
+      "source": "L2 regularization (Ridge) adds a penalty equal to the square of the magnitude of coefficients to the loss function, which helps to prevent overfitting by penalizing large weights.",
+      "raw_output": "{\n  \"source\": \"L2 regularization (Ridge) adds a penalty equal to the square of the magnitude of coefficients to the loss function, which helps to prevent overfitting by penalizing large weights.\",\n  \"flashcards\": [\n    {\n      \"question\": \"What does L2 regularization (Ridge) add to the loss function?\",\n      \"answer\": \"A penalty equal to the square of the magnitude of coefficients.\"\n    },\n    {\n      \"question\": \"How does L2 regularization help prevent overfitting?\",\n      \"answer\": \"By penalizing large weights.\"\n    }\n  ]\n}",
+      "parsed_output": {
+        "source": "L2 regularization (Ridge) adds a penalty equal to the square of the magnitude of coefficients to the loss function, which helps to prevent overfitting by penalizing large weights.",
+        "flashcards": [
+          {
+            "question": "What does L2 regularization (Ridge) add to the loss function?",
+            "answer": "A penalty equal to the square of the magnitude of coefficients."
+          },
+          {
+            "question": "How does L2 regularization help prevent overfitting?",
+            "answer": "By penalizing large weights."
+          }
+        ]
+      },
+      "valid_json": true,
+      "json_error": null,
+      "schema_valid": true,
+      "validation_errors": [],
+      "elapsed_seconds": 4.938
+    },
+    {
+      "id": "source_010",
+      "source": "MapReduce is a programming model for processing and generating large data sets with a parallel, distributed algorithm on a cluster.",
+      "raw_output": "{\n  \"source\": \"MapReduce is a programming model for processing and generating large data sets with a parallel, distributed algorithm on a cluster.\",\n  \"flashcards\": [\n    {\n      \"question\": \"What is MapReduce used for?\",\n      \"answer\": \"Processing and generating large data sets.\"\n    },\n    {\n      \"question\": \"How does MapReduce execute algorithms?\",\n      \"answer\": \"With a parallel, distributed algorithm on a cluster.\"\n    }\n  ]\n}",
+      "parsed_output": {
+        "source": "MapReduce is a programming model for processing and generating large data sets with a parallel, distributed algorithm on a cluster.",
+        "flashcards": [
+          {
+            "question": "What is MapReduce used for?",
+            "answer": "Processing and generating large data sets."
+          },
+          {
+            "question": "How does MapReduce execute algorithms?",
+            "answer": "With a parallel, distributed algorithm on a cluster."
+          }
+        ]
+      },
+      "valid_json": true,
+      "json_error": null,
+      "schema_valid": true,
+      "validation_errors": [],
+      "elapsed_seconds": 3.96
+    },
+    {
+      "id": "source_011",
+      "source": "A low-mass star spends most of its life fusing hydrogen in its core. After the core hydrogen is depleted, the star expands into a red giant. It later sheds its outer layers, leaving behind a dense white dwarf. The color of the telescope used to observe the star does not determine these stages.",
+      "raw_output": "{\n  \"source\": \"A low-mass star spends most of its life fusing hydrogen in its core. After the core hydrogen is depleted, the star expands into a red giant. It later sheds its outer layers, leaving behind a dense white dwarf. The color of the telescope used to observe the star does not determine these stages.\",\n  \"flashcards\": [\n    {\n      \"question\": \"What is the primary energy source for a low-mass star during most of its life?\",\n      \"answer\": \"Fusing hydrogen in its core.\"\n    },\n    {\n      \"question\": \"What happens to a low-mass star after its core hydrogen is depleted?\",\n      \"answer\": \"It expands into a red giant.\"\n    },\n    {\n      \"question\": \"What is left behind after a low-mass star sheds its outer layers?\",\n      \"answer\": \"A dense white dwarf.\"\n    },\n    {\n      \"question\": \"Does the color of the telescope used to observe a star determine its life stages?\",\n      \"answer\": \"No, it does not determine these stages.\"\n    }\n  ]\n}",
+      "parsed_output": {
+        "source": "A low-mass star spends most of its life fusing hydrogen in its core. After the core hydrogen is depleted, the star expands into a red giant. It later sheds its outer layers, leaving behind a dense white dwarf. The color of the telescope used to observe the star does not determine these stages.",
+        "flashcards": [
+          {
+            "question": "What is the primary energy source for a low-mass star during most of its life?",
+            "answer": "Fusing hydrogen in its core."
+          },
+          {
+            "question": "What happens to a low-mass star after its core hydrogen is depleted?",
+            "answer": "It expands into a red giant."
+          },
+          {
+            "question": "What is left behind after a low-mass star sheds its outer layers?",
+            "answer": "A dense white dwarf."
+          },
+          {
+            "question": "Does the color of the telescope used to observe a star determine its life stages?",
+            "answer": "No, it does not determine these stages."
+          }
+        ]
+      },
+      "valid_json": true,
+      "json_error": null,
+      "schema_valid": true,
+      "validation_errors": [],
+      "elapsed_seconds": 8.636
+    },
+    {
+      "id": "source_012",
+      "source": "A catalyst lowers the activation energy of both the forward and reverse reactions. It can help a reversible reaction reach equilibrium faster, but it does not change the equilibrium constant or the final equilibrium composition at a fixed temperature.",
+      "raw_output": "{\n  \"source\": \"A catalyst lowers the activation energy of both the forward and reverse reactions. It can help a reversible reaction reach equilibrium faster, but it does not change the equilibrium constant or the final equilibrium composition at a fixed temperature.\",\n  \"flashcards\": [\n    {\n      \"question\": \"What does a catalyst do to the activation energy of a reaction?\",\n      \"answer\": \"It lowers the activation energy of both the forward and reverse reactions.\"\n    },\n    {\n      \"question\": \"How does a catalyst affect the rate at which a reversible reaction reaches equilibrium?\",\n      \"answer\": \"It helps the reaction reach equilibrium faster.\"\n    },\n    {\n      \"question\": \"Does a catalyst change the equilibrium constant of a reaction at a fixed temperature?\",\n      \"answer\": \"No, it does not change the equilibrium constant.\"\n    },\n    {\n      \"question\": \"Does a catalyst alter the final equilibrium composition of a reaction at a fixed temperature?\",\n      \"answer\": \"No, it does not alter the final equilibrium composition.\"\n    }\n  ]\n}",
+      "parsed_output": {
+        "source": "A catalyst lowers the activation energy of both the forward and reverse reactions. It can help a reversible reaction reach equilibrium faster, but it does not change the equilibrium constant or the final equilibrium composition at a fixed temperature.",
+        "flashcards": [
+          {
+            "question": "What does a catalyst do to the activation energy of a reaction?",
+            "answer": "It lowers the activation energy of both the forward and reverse reactions."
+          },
+          {
+            "question": "How does a catalyst affect the rate at which a reversible reaction reaches equilibrium?",
+            "answer": "It helps the reaction reach equilibrium faster."
+          },
+          {
+            "question": "Does a catalyst change the equilibrium constant of a reaction at a fixed temperature?",
+            "answer": "No, it does not change the equilibrium constant."
+          },
+          {
+            "question": "Does a catalyst alter the final equilibrium composition of a reaction at a fixed temperature?",
+            "answer": "No, it does not alter the final equilibrium composition."
+          }
+        ]
+      },
+      "valid_json": true,
+      "json_error": null,
+      "schema_valid": true,
+      "validation_errors": [],
+      "elapsed_seconds": 8.237
+    },
+    {
+      "id": "source_013",
+      "source": "Backpropagation applies the chain rule from the output layer toward earlier layers. At each layer, the gradient arriving from later computations is multiplied by the local derivative. The resulting gradients indicate how a small change in each parameter would affect the loss. The optimizer, not backpropagation itself, uses those gradients to update the parameters.",
+      "raw_output": "{\n  \"source\": \"Backpropagation applies the chain rule from the output layer toward earlier layers. At each layer, the gradient arriving from later computations is multiplied by the local derivative. The resulting gradients indicate how a small change in each parameter would affect the loss. The optimizer, not backpropagation itself, uses those gradients to update the parameters.\",\n  \"flashcards\": [\n    {\n      \"question\": \"What mathematical rule does backpropagation apply?\",\n      \"answer\": \"The chain rule.\"\n    },\n    {\n      \"question\": \"In what direction does backpropagation apply the chain rule?\",\n      \"answer\": \"From the output layer toward earlier layers.\"\n    },\n    {\n      \"question\": \"At each layer, what is done to the gradient arriving from later computations?\",\n      \"answer\": \"It is multiplied by the local derivative.\"\n    },\n    {\n      \"question\": \"What do the resulting gradients indicate?\",\n      \"answer\": \"How a small change in each parameter would affect the loss.\"\n    },\n    {\n      \"question\": \"Which component uses the gradients to update the parameters?\",\n      \"answer\": \"The optimizer.\"\n    }\n  ]\n}",
+      "parsed_output": {
+        "source": "Backpropagation applies the chain rule from the output layer toward earlier layers. At each layer, the gradient arriving from later computations is multiplied by the local derivative. The resulting gradients indicate how a small change in each parameter would affect the loss. The optimizer, not backpropagation itself, uses those gradients to update the parameters.",
+        "flashcards": [
+          {
+            "question": "What mathematical rule does backpropagation apply?",
+            "answer": "The chain rule."
+          },
+          {
+            "question": "In what direction does backpropagation apply the chain rule?",
+            "answer": "From the output layer toward earlier layers."
+          },
+          {
+            "question": "At each layer, what is done to the gradient arriving from later computations?",
+            "answer": "It is multiplied by the local derivative."
+          },
+          {
+            "question": "What do the resulting gradients indicate?",
+            "answer": "How a small change in each parameter would affect the loss."
+          },
+          {
+            "question": "Which component uses the gradients to update the parameters?",
+            "answer": "The optimizer."
+          }
+        ]
+      },
+      "valid_json": true,
+      "json_error": null,
+      "schema_valid": true,
+      "validation_errors": [],
+      "elapsed_seconds": 9.138
+    },
+    {
+      "id": "source_014",
+      "source": "The document contains a heading titled 'Results', followed by a blank table and the note, 'Values will be inserted after the experiment is completed.'",
+      "raw_output": "{\n  \"source\": \"The document contains a heading titled 'Results', followed by a blank table and the note, 'Values will be inserted after the experiment is completed.'\",\n  \"flashcards\": []\n}",
+      "parsed_output": {
+        "source": "The document contains a heading titled 'Results', followed by a blank table and the note, 'Values will be inserted after the experiment is completed.'",
+        "flashcards": []
+      },
+      "valid_json": true,
+      "json_error": null,
+      "schema_valid": true,
+      "validation_errors": [],
+      "elapsed_seconds": 2.013
+    },
+    {
+      "id": "source_015",
+      "source": "The printing press made it cheaper and faster to reproduce written works in Europe. This supported wider circulation of religious, scientific, and political ideas. However, increased circulation did not mean that everyone immediately became literate or gained equal access to books.",
+      "raw_output": "{\n  \"source\": \"The printing press made it cheaper and faster to reproduce written works in Europe. This supported wider circulation of religious, scientific, and political ideas. However, increased circulation did not mean that everyone immediately became literate or gained equal access to books.\",\n  \"flashcards\": [\n    {\n      \"question\": \"What effect did the printing press have on the reproduction of written works in Europe?\",\n      \"answer\": \"It made it cheaper and faster to reproduce written works.\"\n    },\n    {\n      \"question\": \"How did the printing press support the spread of ideas in Europe?\",\n      \"answer\": \"It supported wider circulation of religious, scientific, and political ideas.\"\n    },\n    {\n      \"question\": \"Did increased circulation of printed materials mean everyone became literate immediately?\",\n      \"answer\": \"No, increased circulation did not mean that everyone immediately became literate.\"\n    },\n    {\n      \"question\": \"Did equal access to books result from the increased circulation of printed materials?\",\n      \"answer\": \"No, equal access to books was not guaranteed.\"\n    }\n  ]\n}",
+      "parsed_output": {
+        "source": "The printing press made it cheaper and faster to reproduce written works in Europe. This supported wider circulation of religious, scientific, and political ideas. However, increased circulation did not mean that everyone immediately became literate or gained equal access to books.",
+        "flashcards": [
+          {
+            "question": "What effect did the printing press have on the reproduction of written works in Europe?",
+            "answer": "It made it cheaper and faster to reproduce written works."
+          },
+          {
+            "question": "How did the printing press support the spread of ideas in Europe?",
+            "answer": "It supported wider circulation of religious, scientific, and political ideas."
+          },
+          {
+            "question": "Did increased circulation of printed materials mean everyone became literate immediately?",
+            "answer": "No, increased circulation did not mean that everyone immediately became literate."
+          },
+          {
+            "question": "Did equal access to books result from the increased circulation of printed materials?",
+            "answer": "No, equal access to books was not guaranteed."
+          }
+        ]
+      },
+      "valid_json": true,
+      "json_error": null,
+      "schema_valid": true,
+      "validation_errors": [],
+      "elapsed_seconds": 8.557
+    },
+    {
+      "id": "source_016",
+      "source": "Demand-pull inflation can occur when total demand grows faster than an economy's ability to produce goods and services. Cost-push inflation can occur when production costs rise and firms pass some of those costs to consumers. A single period of higher prices does not by itself identify which mechanism caused the increase.",
+      "raw_output": "{\n  \"source\": \"Demand-pull inflation can occur when total demand grows faster than an economy's ability to produce goods and services. Cost-push inflation can occur when production costs rise and firms pass some of those costs to consumers. A single period of higher prices does not by itself identify which mechanism caused the increase.\",\n  \"flashcards\": [\n    {\n      \"question\": \"What causes demand-pull inflation?\",\n      \"answer\": \"Total demand grows faster than an economy's ability to produce goods and services.\"\n    },\n    {\n      \"question\": \"What causes cost-push inflation?\",\n      \"answer\": \"Production costs rise and firms pass some of those costs to consumers.\"\n    },\n    {\n      \"question\": \"Can a single period of higher prices identify the cause of inflation?\",\n      \"answer\": \"No, a single period of higher prices does not by itself identify which mechanism caused the increase.\"\n    }\n  ]\n}",
+      "parsed_output": {
+        "source": "Demand-pull inflation can occur when total demand grows faster than an economy's ability to produce goods and services. Cost-push inflation can occur when production costs rise and firms pass some of those costs to consumers. A single period of higher prices does not by itself identify which mechanism caused the increase.",
+        "flashcards": [
+          {
+            "question": "What causes demand-pull inflation?",
+            "answer": "Total demand grows faster than an economy's ability to produce goods and services."
+          },
+          {
+            "question": "What causes cost-push inflation?",
+            "answer": "Production costs rise and firms pass some of those costs to consumers."
+          },
+          {
+            "question": "Can a single period of higher prices identify the cause of inflation?",
+            "answer": "No, a single period of higher prices does not by itself identify which mechanism caused the increase."
+          }
+        ]
+      },
+      "valid_json": true,
+      "json_error": null,
+      "schema_valid": true,
+      "validation_errors": [],
+      "elapsed_seconds": 7.264
+    },
+    {
+      "id": "source_017",
+      "source": "During gene expression, DNA is transcribed into messenger RNA in the nucleus of a eukaryotic cell. The messenger RNA is then processed and transported to the cytoplasm, where ribosomes translate its sequence into a protein. Not every region of DNA is expressed in every cell.",
+      "raw_output": "{\n  \"source\": \"During gene expression, DNA is transcribed into messenger RNA in the nucleus of a eukaryotic cell. The messenger RNA is then processed and transported to the cytoplasm, where ribosomes translate its sequence into a protein. Not every region of DNA is expressed in every cell.\",\n  \"flashcards\": [\n    {\n      \"question\": \"Where does transcription of DNA into mRNA occur in a eukaryotic cell?\",\n      \"answer\": \"In the nucleus.\"\n    },\n    {\n      \"question\": \"What happens to mRNA after it is transcribed in the nucleus?\",\n      \"answer\": \"It is processed and transported to the cytoplasm.\"\n    },\n    {\n      \"question\": \"Where does the translation of mRNA into protein occur?\",\n      \"answer\": \"In the cytoplasm, at ribosomes.\"\n    },\n    {\n      \"question\": \"Is every region of DNA expressed in every cell?\",\n      \"answer\": \"No, not every region of DNA is expressed in every cell.\"\n    }\n  ]\n}",
+      "parsed_output": {
+        "source": "During gene expression, DNA is transcribed into messenger RNA in the nucleus of a eukaryotic cell. The messenger RNA is then processed and transported to the cytoplasm, where ribosomes translate its sequence into a protein. Not every region of DNA is expressed in every cell.",
+        "flashcards": [
+          {
+            "question": "Where does transcription of DNA into mRNA occur in a eukaryotic cell?",
+            "answer": "In the nucleus."
+          },
+          {
+            "question": "What happens to mRNA after it is transcribed in the nucleus?",
+            "answer": "It is processed and transported to the cytoplasm."
+          },
+          {
+            "question": "Where does the translation of mRNA into protein occur?",
+            "answer": "In the cytoplasm, at ribosomes."
+          },
+          {
+            "question": "Is every region of DNA expressed in every cell?",
+            "answer": "No, not every region of DNA is expressed in every cell."
+          }
+        ]
+      },
+      "valid_json": true,
+      "json_error": null,
+      "schema_valid": true,
+      "validation_errors": [],
+      "elapsed_seconds": 8.232
+    },
+    {
+      "id": "source_018",
+      "source": "In copy-on-write memory, two processes may initially share the same physical memory pages after a fork. The operating system marks those pages so that if either process tries to modify one, a private copy is created for that process. Pages that are never modified can remain shared, reducing unnecessary copying.",
+      "raw_output": "{\n  \"source\": \"In copy-on-write memory, two processes may initially share the same physical memory pages after a fork. The operating system marks those pages so that if either process tries to modify one, a private copy is created for that process. Pages that are never modified can remain shared, reducing unnecessary copying.\",\n  \"flashcards\": [\n    {\n      \"question\": \"What happens to memory pages shared between two processes after a fork in copy-on-write memory?\",\n      \"answer\": \"They may initially share the same physical memory pages.\"\n    },\n    {\n      \"question\": \"What triggers the creation of a private copy of a memory page in copy-on-write memory?\",\n      \"answer\": \"If either process tries to modify one of the shared pages.\"\n    },\n    {\n      \"question\": \"What is the benefit of copy-on-write memory when pages are never modified?\",\n      \"answer\": \"They can remain shared, reducing unnecessary copying.\"\n    }\n  ]\n}",
+      "parsed_output": {
+        "source": "In copy-on-write memory, two processes may initially share the same physical memory pages after a fork. The operating system marks those pages so that if either process tries to modify one, a private copy is created for that process. Pages that are never modified can remain shared, reducing unnecessary copying.",
+        "flashcards": [
+          {
+            "question": "What happens to memory pages shared between two processes after a fork in copy-on-write memory?",
+            "answer": "They may initially share the same physical memory pages."
+          },
+          {
+            "question": "What triggers the creation of a private copy of a memory page in copy-on-write memory?",
+            "answer": "If either process tries to modify one of the shared pages."
+          },
+          {
+            "question": "What is the benefit of copy-on-write memory when pages are never modified?",
+            "answer": "They can remain shared, reducing unnecessary copying."
+          }
+        ]
+      },
+      "valid_json": true,
+      "json_error": null,
+      "schema_valid": true,
+      "validation_errors": [],
+      "elapsed_seconds": 7.648
+    },
+    {
+      "id": "source_019",
+      "source": "A correlation between two variables shows that they vary together, but it does not by itself prove that one causes the other. A third variable may influence both, or the apparent relationship may result from selection bias or chance. Establishing causation generally requires stronger evidence than observing correlation alone.",
+      "raw_output": "{\n  \"source\": \"A correlation between two variables shows that they vary together, but it does not by itself prove that one causes the other. A third variable may influence both, or the apparent relationship may result from selection bias or chance. Establishing causation generally requires stronger evidence than observing correlation alone.\",\n  \"flashcards\": [\n    {\n      \"question\": \"What does a correlation between two variables indicate?\",\n      \"answer\": \"That they vary together.\"\n    },\n    {\n      \"question\": \"Does correlation alone prove causation?\",\n      \"answer\": \"No, it does not by itself prove that one causes the other.\"\n    },\n    {\n      \"question\": \"What might explain a correlation that is not causal?\",\n      \"answer\": \"A third variable may influence both, or the apparent relationship may result from selection bias or chance.\"\n    },\n    {\n      \"question\": \"What is generally required to establish causation?\",\n      \"answer\": \"Stronger evidence than observing correlation alone.\"\n    }\n  ]\n}",
+      "parsed_output": {
+        "source": "A correlation between two variables shows that they vary together, but it does not by itself prove that one causes the other. A third variable may influence both, or the apparent relationship may result from selection bias or chance. Establishing causation generally requires stronger evidence than observing correlation alone.",
+        "flashcards": [
+          {
+            "question": "What does a correlation between two variables indicate?",
+            "answer": "That they vary together."
+          },
+          {
+            "question": "Does correlation alone prove causation?",
+            "answer": "No, it does not by itself prove that one causes the other."
+          },
+          {
+            "question": "What might explain a correlation that is not causal?",
+            "answer": "A third variable may influence both, or the apparent relationship may result from selection bias or chance."
+          },
+          {
+            "question": "What is generally required to establish causation?",
+            "answer": "Stronger evidence than observing correlation alone."
+          }
+        ]
+      },
+      "valid_json": true,
+      "json_error": null,
+      "schema_valid": true,
+      "validation_errors": [],
+      "elapsed_seconds": 8.02
+    },
+    {
+      "id": "source_020",
+      "source": "In a decoder-only language model, causal masking prevents each token from attending to tokens that come later in the sequence. This preserves the next-token prediction setup during training. The mask does not prevent a token from attending to itself or to earlier tokens. Padding masks solve a different problem by hiding padding positions.",
+      "raw_output": "{\n  \"source\": \"In a decoder-only language model, causal masking prevents each token from attending to tokens that come later in the sequence. This preserves the next-token prediction setup during training. The mask does not prevent a token from attending to itself or to earlier tokens. Padding masks solve a different problem by hiding padding positions.\",\n  \"flashcards\": [\n    {\n      \"question\": \"What does causal masking prevent in a decoder-only language model?\",\n      \"answer\": \"Each token from attending to tokens that come later in the sequence.\"\n    },\n    {\n      \"question\": \"Why is causal masking used in decoder-only models?\",\n      \"answer\": \"To preserve the next-token prediction setup during training.\"\n    },\n    {\n      \"question\": \"Can a token attend to itself under causal masking?\",\n      \"answer\": \"Yes, it can attend to itself.\"\n    },\n    {\n      \"question\": \"Can a token attend to earlier tokens under causal masking?\",\n      \"answer\": \"Yes, it can attend to earlier tokens.\"\n    },\n    {\n      \"question\": \"What is the purpose of padding masks?\",\n      \"answer\": \"To hide padding positions.\"\n    }\n  ]\n}",
+      "parsed_output": {
+        "source": "In a decoder-only language model, causal masking prevents each token from attending to tokens that come later in the sequence. This preserves the next-token prediction setup during training. The mask does not prevent a token from attending to itself or to earlier tokens. Padding masks solve a different problem by hiding padding positions.",
+        "flashcards": [
+          {
+            "question": "What does causal masking prevent in a decoder-only language model?",
+            "answer": "Each token from attending to tokens that come later in the sequence."
+          },
+          {
+            "question": "Why is causal masking used in decoder-only models?",
+            "answer": "To preserve the next-token prediction setup during training."
+          },
+          {
+            "question": "Can a token attend to itself under causal masking?",
+            "answer": "Yes, it can attend to itself."
+          },
+          {
+            "question": "Can a token attend to earlier tokens under causal masking?",
+            "answer": "Yes, it can attend to earlier tokens."
+          },
+          {
+            "question": "What is the purpose of padding masks?",
+            "answer": "To hide padding positions."
+          }
+        ]
+      },
+      "valid_json": true,
+      "json_error": null,
+      "schema_valid": true,
+      "validation_errors": [],
+      "elapsed_seconds": 9.194
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+[
+  {
+    "id": "manual_001",
+    "source": "A database index improves query speed but adds storage and write overhead.",
+    "flashcards": [
+      {
+        "question": "What is the main benefit of a database index?",
+        "answer": "It improves query speed."
+      },
+      {
+        "question": "What costs can a database index introduce?",
+        "answer": "Additional storage usage and write overhead."
+      }
+    ]
+  },
+  {
+    "id": "manual_002",
+    "source": "Gradient descent updates parameters in the direction opposite to the loss gradient.",
+    "flashcards": [
+      {
+        "question": "In which direction does gradient descent update model parameters?",
+        "answer": "In the direction opposite to the loss gradient."
+      }
+    ]
+  },
+  {
+    "id": "manual_003",
+    "source": "The next topic will be explained during the following lecture.",
+    "flashcards": []
+  },
+  {
+    "id": "manual_004",
+    "source": "CUDA is NVIDIA's parallel computing platform and programming model for general-purpose computing on NVIDIA GPUs.",
+    "flashcards": [
+      {
+        "question": "What is CUDA?",
+        "answer": "NVIDIA's parallel computing platform and programming model for general-purpose computing on NVIDIA GPUs."
+      }
+    ]
+  },
+  {
+    "id": "manual_005",
+    "source": "Tokenization splits text into smaller units called tokens. Tokens can be words, subwords, characters, punctuation, or byte pieces.",
+    "flashcards": [
+      {
+        "question": "What does tokenization do?",
+        "answer": "It splits text into smaller units called tokens."
+      },
+      {
+        "question": "What can be a token?",
+        "answer": "Tokens can be words, subwords, characters, punctuation, or byte pieces."
+      }
+    ]
+  },
+  {
+    "id": "manual_006",
+    "source": "Precision metric asks “Of all predicted positives, how many were actually positive?”, and its formula is TP / (TP + FP)",
+    "flashcards": [
+      {
+        "question": "What does precision measure?",
+        "answer": "Of all predicted positives, the proportion that were actually positive."
+      },
+      {
+        "question": "What is the formula for precision?",
+        "answer": "TP / (TP + FP), where TP is true positives and FP is false positives."
+      }
+    ]
+  },
+  {
+    "id": "manual_007",
+    "source": "Cache invalidation is the process of removing or marking cached data as stale when the source-of-truth data changes",
+    "flashcards": [
+      {
+        "question": "What is cache invalidation?",
+        "answer": "It is the process of removing or marking cached data as stale when the source-of-truth data changes."
+      }
+    ]
+  },
+  {
+    "id": "manual_008",
+    "source": "Paging is a memory management technique where virtual memory is divided into fixed-size pages, and physical memory is divided into fixed-size frames",
+    "flashcards": [
+      {
+        "question": "What is paging?",
+        "answer": "It is a memory management technique, where virtual memory is divided into fixed-size pages, and physical memory is divided into fixed-size frames"
+      }
+    ]
+  },
+  {
+    "id": "manual_009",
+    "source": "The TLB, or Translation Lookaside Buffer, is a small hardware cache in the CPU that stores recent virtual-address to physical-address translations.",
+    "flashcards": [
+      {
+        "question": "What is a Translation Lookaside Buffer (TLB)?",
+        "answer": "TLB, or Translation Lookaside Buffer, is a small hardware cache in the CPU that stores recent virtual-address to physical-address translations."
+      }
+    ]
+  },
+  {
+    "id": "manual_010",
+    "source": "A message queue is a system that lets one service send messages or tasks to another service asynchronously.",
+    "flashcards": [
+      {
+        "question": "What is a message queue?",
+        "answer": "A message queue is a system that lets one service send messages or tasks to another service asynchronously."
+      }
+    ]
+  },
+  {
+    "id": "manual_011",
+    "source": "A mutex is a lock that allows only one thread to access a critical section at a time",
+    "flashcards": [
+      {
+        "question": "What is a mutex?",
+        "answer": "A lock that allows only one thread to access a critical section at a time."
+      }
+    ]
+  },
+  {
+    "id": "manual_012",
+    "source": "Rate limiting is a technique that limits how many requests a user, IP, or API key can make within a time window",
+    "flashcards": [
+      {
+        "question": "What does rate limiting do?",
+        "answer": "It limits how many requests a user, IP, or API key can make within a time window"
+      }
+    ]
+  },
+  {
+    "id": "manual_013",
+    "source": "Thank you for reading the article",
+    "flashcards": []
+  },
+  {
+    "id": "manual_014",
+    "source": "TCP is connection-oriented. UDP is connectionless and does not guarantee delivery.",
+    "flashcards": [
+      {
+        "question": "Is TCP connection-oriented or connectionless?",
+        "answer": "TCP is connection-oriented."
+      },
+      {
+        "question": "Does UDP guarantee packet delivery?",
+        "answer": "No. UDP does not guarantee delivery."
+      }
+    ]
+  },
+  {
+    "id": "manual_015",
+    "source": "The learning rate controls the size of each gradient-descent update. A learning rate that is too large can overshoot a minimum or cause divergence, while one that is too small can make training very slow.",
+    "flashcards": [
+      {
+        "question": "What does the learning rate control in gradient descent?",
+        "answer": "The size of each parameter update."
+      },
+      {
+        "question": "What can happen when the learning rate is too large or too small?",
+        "answer": "A rate that is too large can overshoot or cause divergence, while one that is too small can make training very slow."
+      }
+    ]
+  },
+  {
+    "id": "manual_016",
+    "source": "Object storage stores data as objects in a flat namespace, usually inside buckets. Folder-like paths are commonly represented by key prefixes rather than true directories.",
+    "flashcards": [
+      {
+        "question": "How does object storage organize data?",
+        "answer": "It stores data as objects in a flat namespace, usually inside buckets."
+      },
+      {
+        "question": "How are folder-like paths commonly represented in object storage?",
+        "answer": "By key prefixes rather than true directories."
+      }
+    ]
+  },
+  {
+    "id": "manual_017",
+    "source": "A pre-signed URL is a temporary URL that grants limited permission to upload or download a specific object from object storage.",
+    "flashcards": [
+      {
+        "question": "What operations can a pre-signed URL authorize?",
+        "answer": "Uploading or downloading a specific object from object storage."
+      },
+      {
+        "question": "Is access through a pre-signed URL permanent?",
+        "answer": "No. A pre-signed URL grants temporary access."
+      }
+    ]
+  },
+  {
+    "id": "manual_018",
+    "source": "Hashing is the process of taking input data and applying a hash function to produce a fixed-size hash value",
+    "flashcards": [
+      {
+        "question": "How is a hash value produced?",
+        "answer": "By applying a hash function to input data."
+      }
+    ]
+  },
+  {
+    "id": "manual_019",
+    "source": "Attention lets each token look at other tokens and decide how relevant they are.",
+    "flashcards": [
+      {
+        "question": "What does the attention mechanism allow each token to do?",
+        "answer": "It allows each token to evaluate how relevant other tokens are."
+      }
+    ]
+  },
+  {
+    "id": "manual_020",
+    "source": "A collision happens when two different keys produce the same array index or hash bucket",
+    "flashcards": [
+      {
+        "question": "When does a collision happen?",
+        "answer": "When two different keys produce the same array index or hash bucket."
+      }
+    ]
+  },
+  {
+    "id": "manual_021",
+    "source": "The CAP theorem states that when a network partition occurs, a distributed data store must choose between maintaining consistency and maintaining availability.",
+    "flashcards": [
+      {
+        "question": "According to the CAP theorem, what trade-off must a distributed data store make during a network partition?",
+        "answer": "It must choose between maintaining consistency and maintaining availability."
+      }
+    ]
+  },
+  {
+    "id": "manual_022",
+    "source": "A load balancer distributes incoming network or application traffic across multiple servers to ensure no single server becomes overwhelmed.",
+    "flashcards": [
+      {
+        "question": "What is the primary function of a load balancer?",
+        "answer": "To distribute incoming traffic across multiple servers so that no single server becomes overwhelmed."
+      }
+    ]
+  },
+  {
+    "id": "manual_023",
+    "source": "Overfitting occurs when a machine learning model learns the training data too well, capturing noise and negatively impacting its ability to generalize to new data.",
+    "flashcards": [
+      {
+        "question": "What happens when a machine learning model experiences overfitting?",
+        "answer": "It learns the training data too well, capturing noise and negatively impacting its ability to generalize to new data."
+      }
+    ]
+  },
+  {
+    "id": "manual_024",
+    "source": "Database sharding is a type of horizontal scaling where a single database is partitioned into smaller, faster, and more easily managed parts called shards.",
+    "flashcards": [
+      {
+        "question": "What is database sharding?",
+        "answer": "A type of horizontal scaling where a single database is partitioned into smaller, more easily managed parts called shards."
+      }
+    ]
+  },
+  {
+    "id": "manual_025",
+    "source": "Gradient descent is a first-order iterative optimization algorithm used for finding a local minimum of a differentiable function.",
+    "flashcards": [
+      {
+        "question": "What is gradient descent used for?",
+        "answer": "Finding a local minimum of a differentiable function."
+      }
+    ]
+  },
+  {
+    "id": "manual_026",
+    "source": "A Bloom filter is a space-efficient probabilistic data structure that is used to test whether an element is a member of a set.",
+    "flashcards": [
+      {
+        "question": "What is a Bloom filter used for?",
+        "answer": "To test whether an element is a member of a set in a space-efficient, probabilistic manner."
+      }
+    ]
+  },
+  {
+    "id": "manual_027",
+    "source": "In relational databases, ACID stands for Atomicity, Consistency, Isolation, and Durability, which are properties that guarantee database transactions are processed reliably.",
+    "flashcards": [
+      {
+        "question": "What do the letters in ACID stand for in the context of databases?",
+        "answer": "Atomicity, Consistency, Isolation, and Durability."
+      }
+    ]
+  },
+  {
+    "id": "manual_028",
+    "source": "A cache miss occurs when requested data is not found in a cache, requiring it to be fetched from main memory or another backing store.",
+    "flashcards": [
+      {
+        "question": "What happens during a cache miss?",
+        "answer": "The requested data is not found in the cache, so it must be fetched from main memory or another backing store."
+      }
+    ]
+  },
+  {
+    "id": "manual_029",
+    "source": "L1 regularization (Lasso) adds a penalty equal to the absolute value of the magnitude of coefficients, which can lead to sparse models.",
+    "flashcards": [
+      {
+        "question": "What kind of penalty does L1 regularization add?",
+        "answer": "A penalty equal to the absolute value of the magnitude of coefficients."
+      }
+    ]
+  },
+  {
+    "id": "manual_030",
+    "source": "Consistent hashing is a distributed routing algorithm that ensures that when a hash table is resized, only a minimum number of keys need to be remapped.",
+    "flashcards": [
+      {
+        "question": "What is the primary benefit of consistent hashing when resizing a hash table?",
+        "answer": "Only a minimum number of keys need to be remapped."
+      }
+    ]
+  },
+  {
+    "id": "manual_031",
+    "source": "A Content Delivery Network (CDN) is a geographically distributed group of servers that work together to provide fast delivery of Internet content.",
+    "flashcards": [
+      {
+        "question": "What is a Content Delivery Network (CDN)?",
+        "answer": "A geographically distributed group of servers that provide fast delivery of Internet content."
+      }
+    ]
+  },
+  {
+    "id": "manual_032",
+    "source": "Backpropagation is an algorithm used in training neural networks to compute the gradient of the loss function with respect to the network's weights.",
+    "flashcards": [
+      {
+        "question": "What is the purpose of backpropagation in neural networks?",
+        "answer": "To compute the gradient of the loss function with respect to the network's weights."
+      }
+    ]
+  },
+  {
+    "id": "manual_033",
+    "source": "Transmission Control Protocol (TCP) is a connection-oriented protocol that ensures reliable, ordered, and error-checked delivery of a stream of bytes.",
+    "flashcards": [
+      {
+        "question": "What kind of delivery does TCP ensure?",
+        "answer": "Reliable, ordered, and error-checked delivery of a stream of bytes."
+      }
+    ]
+  },
+  {
+    "id": "manual_034",
+    "source": "User Datagram Protocol (UDP) is a connectionless protocol that provides a fast but unreliable message delivery service without establishing a connection.",
+    "flashcards": [
+      {
+        "question": "What delivery characteristics does UDP provide?",
+        "answer": "Fast but unreliable, connectionless message delivery."
+      }
+    ]
+  },
+  {
+    "id": "manual_035",
+    "source": "A dead-letter queue (DLQ) is a service implementation in message queueing systems used to hold messages that cannot be delivered to their destination.",
+    "flashcards": [
+      {
+        "question": "What is a dead-letter queue (DLQ) used for?",
+        "answer": "To hold messages that cannot be delivered to their destination in a message queueing system."
+      }
+    ]
+  },
+  {
+    "id": "manual_036",
+    "source": "Transfer learning is a machine learning technique where a model developed for a task is reused as the starting point for a model on a second task.",
+    "flashcards": [
+      {
+        "question": "What is transfer learning?",
+        "answer": "A technique where a model developed for one task is reused as the starting point for a second task."
+      }
+    ]
+  },
+  {
+    "id": "manual_037",
+    "source": "A B-tree is a self-balancing tree data structure that keeps data sorted and supports search, insertion, and deletion in logarithmic time, while also enabling ordered traversal.",
+    "flashcards": [
+      {
+        "question": "Which B-tree operations run in logarithmic time?",
+        "answer": "Search, insertion, and deletion."
+      },
+      {
+        "question": "What type of traversal does a B-tree support?",
+        "answer": "Ordered traversal."
+      }
+    ]
+  },
+  {
+    "id": "manual_038",
+    "source": "Microservices architecture is an approach to developing a single application as a suite of small, independent services communicating over lightweight APIs.",
+    "flashcards": [
+      {
+        "question": "How does a microservices architecture structure an application?",
+        "answer": "As a suite of small, independent services communicating over lightweight APIs."
+      }
+    ]
+  },
+  {
+    "id": "manual_039",
+    "source": "A race condition occurs when a system's substantive behavior is dependent on the sequence or timing of other uncontrollable events, often causing bugs in concurrent programming.",
+    "flashcards": [
+      {
+        "question": "When does a race condition occur?",
+        "answer": "When a system's behavior is dependent on the sequence or timing of uncontrollable events."
+      }
+    ]
+  },
+  {
+    "id": "manual_040",
+    "source": "Polymorphism in object-oriented programming is the provision of a single interface to entities of different types or the use of a single symbol to represent multiple different types.",
+    "flashcards": [
+      {
+        "question": "What does polymorphism provide in object-oriented programming?",
+        "answer": "A single interface to entities of different types."
+      }
+    ]
+  },
+  {
+    "id": "manual_051",
+    "source": "A database transaction can contain several operations that must be treated as one unit. For example, transferring money may require subtracting funds from one account and adding them to another. The user interface may show a loading animation while this happens, but that animation is unrelated to transaction correctness. If one database operation fails, atomicity requires the entire transaction to be rolled back. Isolation prevents concurrent transactions from observing each other's incomplete intermediate states.",
+    "flashcards": [
+      {
+        "question": "What does atomicity require when one operation in a database transaction fails?",
+        "answer": "The entire transaction must be rolled back."
+      },
+      {
+        "question": "What does transaction isolation prevent concurrent transactions from observing?",
+        "answer": "Each other's incomplete intermediate states."
+      },
+      {
+        "question": "Why should transferring money between two accounts be handled as one transaction?",
+        "answer": "Because subtracting from one account and adding to the other must succeed or fail as a single unit."
+      }
+    ]
+  },
+  {
+    "id": "manual_052",
+    "source": "Mitosis produces two genetically similar daughter cells and is commonly used for growth and tissue repair. Meiosis involves two rounds of division, produces four genetically varied cells, and reduces the chromosome number by half. Both processes begin after DNA has been replicated.",
+    "flashcards": [
+      {
+        "question": "How many daughter cells are typically produced by mitosis and by meiosis?",
+        "answer": "Mitosis produces two daughter cells, while meiosis produces four."
+      },
+      {
+        "question": "How does meiosis change chromosome number?",
+        "answer": "It reduces the chromosome number by half."
+      },
+      {
+        "question": "What is one major difference in genetic similarity between the products of mitosis and meiosis?",
+        "answer": "Mitosis produces genetically similar cells, while meiosis produces genetically varied cells."
+      }
+    ]
+  },
+  {
+    "id": "manual_053",
+    "source": "When a user requests a static file through a CDN, the edge server first checks its local cache. On a cache hit, the edge server returns the cached file immediately. On a cache miss, it fetches the file from the origin server, returns it to the user, and may store a copy for later requests. The origin server's programming language does not determine whether the edge cache contains the file.",
+    "flashcards": [
+      {
+        "question": "What happens when a CDN edge server has a cache hit?",
+        "answer": "It returns the cached file immediately."
+      },
+      {
+        "question": "What does a CDN edge server do after a cache miss?",
+        "answer": "It fetches the file from the origin, returns it to the user, and may cache a copy for later requests."
+      }
+    ]
+  },
+  {
+    "id": "manual_054",
+    "source": "Nominal GDP measures output using current prices, so it can rise because production increased, prices increased, or both. Real GDP adjusts for price changes and is therefore better suited for comparing changes in actual production across time. Neither measure by itself describes how evenly income is distributed.",
+    "flashcards": [
+      {
+        "question": "Why can nominal GDP increase even when physical production does not increase?",
+        "answer": "Because nominal GDP can rise when prices increase."
+      },
+      {
+        "question": "Why is real GDP better than nominal GDP for comparing production across time?",
+        "answer": "Because real GDP adjusts for price changes."
+      },
+      {
+        "question": "Can nominal or real GDP alone show how evenly income is distributed?",
+        "answer": "No. Neither measure alone describes income distribution."
+      }
+    ]
+  },
+  {
+    "id": "manual_055",
+    "source": "The speaker paused, adjusted the microphone, and said that the important material would be added after the recording. No explanation, definition, or factual content was provided.",
+    "flashcards": []
+  },
+  {
+    "id": "manual_056",
+    "source": "Newton's second law is often written as F = ma when mass is constant. More generally, force equals the rate of change of momentum. Therefore, the simple F = ma form should not be applied without care when an object's mass changes over time.",
+    "flashcards": [
+      {
+        "question": "Under what condition is Newton's second law commonly written as F = ma?",
+        "answer": "When the object's mass is constant."
+      },
+      {
+        "question": "What is the more general statement of Newton's second law?",
+        "answer": "Force equals the rate of change of momentum."
+      }
+    ]
+  },
+  {
+    "id": "manual_057",
+    "source": "Photosynthesis stores energy by converting carbon dioxide and water into glucose, using light energy. It also releases oxygen as a by-product. Cellular respiration later breaks down glucose to release usable energy for the cell. Although the two processes are related, they are not simply the same reaction running backward in every biochemical detail.",
+    "flashcards": [
+      {
+        "question": "What inputs are converted into glucose during photosynthesis?",
+        "answer": "Carbon dioxide and water, using light energy."
+      },
+      {
+        "question": "What by-product is released during photosynthesis?",
+        "answer": "Oxygen."
+      },
+      {
+        "question": "What is the main role of cellular respiration in relation to glucose?",
+        "answer": "It breaks down glucose to release usable energy for the cell."
+      }
+    ]
+  },
+  {
+    "id": "manual_058",
+    "source": "Gradient accumulation is used when the desired effective batch size does not fit in memory. The model processes several smaller micro-batches, accumulates their gradients without updating the weights after each one, and performs an optimizer step only after the configured number of micro-batches. This reduces peak memory use, but it does not make each individual forward pass use a larger batch.",
+    "flashcards": [
+      {
+        "question": "Why is gradient accumulation used during model training?",
+        "answer": "To achieve a larger effective batch size when that batch would not fit in memory."
+      },
+      {
+        "question": "When are model weights updated during gradient accumulation?",
+        "answer": "After gradients have been accumulated over the configured number of micro-batches."
+      },
+      {
+        "question": "Does gradient accumulation make each forward pass use the full effective batch size?",
+        "answer": "No. Each forward pass still processes a smaller micro-batch."
+      }
+    ]
+  },
+  {
+    "id": "manual_059",
+    "source": "An HTTP method is idempotent when repeating the same request has the same intended effect on server state as making it once. DELETE is considered idempotent even if the first request returns 204 and a repeated request returns 404, because the resource remains absent. Idempotent does not mean that every repeated response must have the same status code or body.",
+    "flashcards": [
+      {
+        "question": "What makes an HTTP operation idempotent?",
+        "answer": "Repeating it has the same intended effect on server state as performing it once."
+      },
+      {
+        "question": "Why can DELETE still be idempotent if repeated requests return different status codes?",
+        "answer": "Because the resource remains absent, so the intended effect on server state is unchanged."
+      },
+      {
+        "question": "Does idempotency require identical responses for repeated requests?",
+        "answer": "No. It requires the same intended effect on server state, not identical responses."
+      }
+    ]
+  },
+  {
+    "id": "manual_060",
+    "source": "In a RAG system, very small chunks can improve retrieval precision because each chunk covers a narrow topic, but they may separate a statement from the context needed to understand it. Very large chunks preserve more context, but they can contain irrelevant material and consume more of the model's context window. Chunk overlap can reduce boundary problems, although excessive overlap creates redundant embeddings and duplicate retrieval results.",
+    "flashcards": [
+      {
+        "question": "What is one advantage and one disadvantage of very small chunks in a RAG system?",
+        "answer": "They can improve retrieval precision, but they may separate information from necessary context."
+      },
+      {
+        "question": "What is one advantage and one disadvantage of very large chunks in a RAG system?",
+        "answer": "They preserve more context, but they may include irrelevant material and use more of the context window."
+      },
+      {
+        "question": "What trade-off does chunk overlap introduce in a RAG system?",
+        "answer": "It can reduce boundary problems, but excessive overlap creates redundant embeddings and duplicate retrieval results."
+      }
+    ]
+  }
+]
