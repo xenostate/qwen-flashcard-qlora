@@ -19,6 +19,11 @@ This project contains data and utility scripts for fine-tuning and evaluating an
 - `data/processed/train.jsonl`: MLX chat-format training data.
 - `data/processed/valid.jsonl`: MLX chat-format validation data.
 
+## Model
+
+The fine-tuned LoRA adapter is available on Hugging Face:
+https://huggingface.co/tenroman/qwen3-vl-8b-flashcard-qlora
+
 ## Common Commands
 
 Validate raw synthetic batches:
@@ -59,4 +64,3 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
-
